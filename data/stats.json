@@ -1,7 +1,7 @@
 {
   "total_docs": 212,
-  "total_nodes": 2587,
-  "total_edges": 1177,
+  "total_nodes": 3968,
+  "total_edges": 2013,
   "doc_types": {
     "topic_research": 110,
     "paper_digest": 61,
@@ -11,10 +11,10 @@
     "monthly_report": 8
   },
   "entity_types": {
-    "company": 298,
-    "concept": 1087,
-    "product": 760,
-    "person": 308,
-    "paper": 134
+    "company": 397,
+    "product": 1342,
+    "person": 401,
+    "concept": 1735,
+    "paper": 93
   }
 }
