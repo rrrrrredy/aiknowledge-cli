@@ -1,0 +1,7064 @@
+[
+  {
+    "source": "9",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2073114610"
+  },
+  {
+    "source": "117",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2073114610"
+  },
+  {
+    "source": "404",
+    "target": "0",
+    "type": "cooperates_with",
+    "doc_id": "2073114610"
+  },
+  {
+    "source": "403",
+    "target": "0",
+    "type": "cooperates_with",
+    "doc_id": "2073114610"
+  },
+  {
+    "source": "404",
+    "target": "1395",
+    "type": "cooperates_with",
+    "doc_id": "2073114610"
+  },
+  {
+    "source": "404",
+    "target": "394",
+    "type": "cooperates_with",
+    "doc_id": "2073114610"
+  },
+  {
+    "source": "404",
+    "target": "397",
+    "type": "cooperates_with",
+    "doc_id": "2073114610"
+  },
+  {
+    "source": "395",
+    "target": "1395",
+    "type": "acquired_by",
+    "doc_id": "2073114610"
+  },
+  {
+    "source": "0",
+    "target": "30",
+    "type": "focuses_on",
+    "doc_id": "2073114610"
+  },
+  {
+    "source": "0",
+    "target": "20",
+    "type": "competes_with",
+    "doc_id": "2073114610"
+  },
+  {
+    "source": "21",
+    "target": "7",
+    "type": "focuses_on",
+    "doc_id": "2159694113"
+  },
+  {
+    "source": "1",
+    "target": "7",
+    "type": "focuses_on",
+    "doc_id": "2159694113"
+  },
+  {
+    "source": "16",
+    "target": "7",
+    "type": "focuses_on",
+    "doc_id": "2159694113"
+  },
+  {
+    "source": "24",
+    "target": "7",
+    "type": "focuses_on",
+    "doc_id": "2159694113"
+  },
+  {
+    "source": "4",
+    "target": "7",
+    "type": "focuses_on",
+    "doc_id": "2159694113"
+  },
+  {
+    "source": "21",
+    "target": "1",
+    "type": "competes_with",
+    "doc_id": "2159694113"
+  },
+  {
+    "source": "21",
+    "target": "16",
+    "type": "competes_with",
+    "doc_id": "2159694113"
+  },
+  {
+    "source": "24",
+    "target": "4",
+    "type": "competes_with",
+    "doc_id": "2159694113"
+  },
+  {
+    "source": "416",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2167784495"
+  },
+  {
+    "source": "417",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2167784495"
+  },
+  {
+    "source": "417",
+    "target": "414",
+    "type": "cooperates_with",
+    "doc_id": "2167784495"
+  },
+  {
+    "source": "417",
+    "target": "415",
+    "type": "cooperates_with",
+    "doc_id": "2167784495"
+  },
+  {
+    "source": "1",
+    "target": "422",
+    "type": "researches",
+    "doc_id": "2167784495"
+  },
+  {
+    "source": "416",
+    "target": "418",
+    "type": "focuses_on",
+    "doc_id": "2167784495"
+  },
+  {
+    "source": "416",
+    "target": "421",
+    "type": "focuses_on",
+    "doc_id": "2167784495"
+  },
+  {
+    "source": "417",
+    "target": "423",
+    "type": "focuses_on",
+    "doc_id": "2167784495"
+  },
+  {
+    "source": "417",
+    "target": "424",
+    "type": "focuses_on",
+    "doc_id": "2167784495"
+  },
+  {
+    "source": "416",
+    "target": "417",
+    "type": "MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation",
+    "doc_id": "2167784495"
+  },
+  {
+    "source": "186",
+    "target": "431",
+    "type": "focuses_on",
+    "doc_id": "2245111253"
+  },
+  {
+    "source": "433",
+    "target": "429",
+    "type": "focuses_on",
+    "doc_id": "2245111253"
+  },
+  {
+    "source": "435",
+    "target": "120",
+    "type": "focuses_on",
+    "doc_id": "2245111253"
+  },
+  {
+    "source": "434",
+    "target": "120",
+    "type": "focuses_on",
+    "doc_id": "2245111253"
+  },
+  {
+    "source": "432",
+    "target": "431",
+    "type": "focuses_on",
+    "doc_id": "2245111253"
+  },
+  {
+    "source": "60",
+    "target": "437",
+    "type": "focuses_on",
+    "doc_id": "2245111253"
+  },
+  {
+    "source": "208",
+    "target": "433",
+    "type": "focuses_on",
+    "doc_id": "2245111253"
+  },
+  {
+    "source": "438",
+    "target": "428",
+    "type": "focuses_on",
+    "doc_id": "2245111253"
+  },
+  {
+    "source": "442",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2268031104"
+  },
+  {
+    "source": "443",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2268031104"
+  },
+  {
+    "source": "442",
+    "target": "443",
+    "type": "competes_with",
+    "doc_id": "2268031104"
+  },
+  {
+    "source": "188",
+    "target": "449",
+    "type": "made_by",
+    "doc_id": "2294958503"
+  },
+  {
+    "source": "451",
+    "target": "448",
+    "type": "made_by",
+    "doc_id": "2294958503"
+  },
+  {
+    "source": "188",
+    "target": "453",
+    "type": "focuses_on",
+    "doc_id": "2294958503"
+  },
+  {
+    "source": "188",
+    "target": "451",
+    "type": "competes_with",
+    "doc_id": "2294958503"
+  },
+  {
+    "source": "448",
+    "target": "188",
+    "type": "develops",
+    "doc_id": "2294958503"
+  },
+  {
+    "source": "449",
+    "target": "456",
+    "type": "researches",
+    "doc_id": "2294958503"
+  },
+  {
+    "source": "188",
+    "target": "452",
+    "type": "cooperates_with",
+    "doc_id": "2294958503"
+  },
+  {
+    "source": "187",
+    "target": "188",
+    "type": "researches",
+    "doc_id": "2294958503"
+  },
+  {
+    "source": "457",
+    "target": "189",
+    "type": "made_by",
+    "doc_id": "2313295669"
+  },
+  {
+    "source": "458",
+    "target": "189",
+    "type": "made_by",
+    "doc_id": "2313295669"
+  },
+  {
+    "source": "457",
+    "target": "1060",
+    "type": "focuses_on",
+    "doc_id": "2313295669"
+  },
+  {
+    "source": "457",
+    "target": "466",
+    "type": "focuses_on",
+    "doc_id": "2313295669"
+  },
+  {
+    "source": "457",
+    "target": "470",
+    "type": "focuses_on",
+    "doc_id": "2313295669"
+  },
+  {
+    "source": "457",
+    "target": "469",
+    "type": "focuses_on",
+    "doc_id": "2313295669"
+  },
+  {
+    "source": "457",
+    "target": "460",
+    "type": "competes_with",
+    "doc_id": "2313295669"
+  },
+  {
+    "source": "457",
+    "target": "51",
+    "type": "competes_with",
+    "doc_id": "2313295669"
+  },
+  {
+    "source": "61",
+    "target": "469",
+    "type": "researches",
+    "doc_id": "2313295669"
+  },
+  {
+    "source": "189",
+    "target": "468",
+    "type": "develops",
+    "doc_id": "2313295669"
+  },
+  {
+    "source": "475",
+    "target": "1303",
+    "type": "made_by",
+    "doc_id": "2331981809"
+  },
+  {
+    "source": "475",
+    "target": "482",
+    "type": "develops",
+    "doc_id": "2331981809"
+  },
+  {
+    "source": "482",
+    "target": "3",
+    "type": "made_by",
+    "doc_id": "2331981809"
+  },
+  {
+    "source": "1303",
+    "target": "489",
+    "type": "focuses_on",
+    "doc_id": "2331981809"
+  },
+  {
+    "source": "477",
+    "target": "1303",
+    "type": "made_by",
+    "doc_id": "2331981809"
+  },
+  {
+    "source": "479",
+    "target": "1303",
+    "type": "made_by",
+    "doc_id": "2331981809"
+  },
+  {
+    "source": "478",
+    "target": "1303",
+    "type": "made_by",
+    "doc_id": "2331981809"
+  },
+  {
+    "source": "480",
+    "target": "1303",
+    "type": "made_by",
+    "doc_id": "2331981809"
+  },
+  {
+    "source": "1303",
+    "target": "484",
+    "type": "researches",
+    "doc_id": "2331981809"
+  },
+  {
+    "source": "1303",
+    "target": "485",
+    "type": "researches",
+    "doc_id": "2331981809"
+  },
+  {
+    "source": "491",
+    "target": "190",
+    "type": "made_by",
+    "doc_id": "2332735640"
+  },
+  {
+    "source": "493",
+    "target": "491",
+    "type": "focuses_on",
+    "doc_id": "2332735640"
+  },
+  {
+    "source": "492",
+    "target": "62",
+    "type": "focuses_on",
+    "doc_id": "2332735640"
+  },
+  {
+    "source": "492",
+    "target": "191",
+    "type": "researches",
+    "doc_id": "2332735640"
+  },
+  {
+    "source": "494",
+    "target": "500",
+    "type": "focuses_on",
+    "doc_id": "2332735640"
+  },
+  {
+    "source": "1",
+    "target": "492",
+    "type": "develops",
+    "doc_id": "2332735640"
+  },
+  {
+    "source": "17",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2344925419"
+  },
+  {
+    "source": "193",
+    "target": "17",
+    "type": "competes_with",
+    "doc_id": "2344925419"
+  },
+  {
+    "source": "124",
+    "target": "3",
+    "type": "made_by",
+    "doc_id": "2344925419"
+  },
+  {
+    "source": "124",
+    "target": "17",
+    "type": "competes_with",
+    "doc_id": "2344925419"
+  },
+  {
+    "source": "0",
+    "target": "123",
+    "type": "develops",
+    "doc_id": "2344925419"
+  },
+  {
+    "source": "122",
+    "target": "76",
+    "type": "made_by",
+    "doc_id": "2344925419"
+  },
+  {
+    "source": "123",
+    "target": "76",
+    "type": "made_by",
+    "doc_id": "2344925419"
+  },
+  {
+    "source": "505",
+    "target": "501",
+    "type": "made_by",
+    "doc_id": "2344925419"
+  },
+  {
+    "source": "0",
+    "target": "507",
+    "type": "focuses_on",
+    "doc_id": "2344925419"
+  },
+  {
+    "source": "502",
+    "target": "17",
+    "type": "competes_with",
+    "doc_id": "2344925419"
+  },
+  {
+    "source": "45",
+    "target": "2435",
+    "type": "develops",
+    "doc_id": "2353060535"
+  },
+  {
+    "source": "45",
+    "target": "516",
+    "type": "develops",
+    "doc_id": "2353060535"
+  },
+  {
+    "source": "515",
+    "target": "516",
+    "type": "develops",
+    "doc_id": "2353060535"
+  },
+  {
+    "source": "516",
+    "target": "2435",
+    "type": "focuses_on",
+    "doc_id": "2353060535"
+  },
+  {
+    "source": "516",
+    "target": "519",
+    "type": "focuses_on",
+    "doc_id": "2353060535"
+  },
+  {
+    "source": "516",
+    "target": "520",
+    "type": "focuses_on",
+    "doc_id": "2353060535"
+  },
+  {
+    "source": "516",
+    "target": "521",
+    "type": "focuses_on",
+    "doc_id": "2353060535"
+  },
+  {
+    "source": "517",
+    "target": "516",
+    "type": "focuses_on",
+    "doc_id": "2353060535"
+  },
+  {
+    "source": "518",
+    "target": "523",
+    "type": "focuses_on",
+    "doc_id": "2353060535"
+  },
+  {
+    "source": "515",
+    "target": "45",
+    "type": "cooperates_with",
+    "doc_id": "2353060535"
+  },
+  {
+    "source": "529",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2376989206"
+  },
+  {
+    "source": "26",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2376989206"
+  },
+  {
+    "source": "529",
+    "target": "196",
+    "type": "develops",
+    "doc_id": "2376989206"
+  },
+  {
+    "source": "529",
+    "target": "63",
+    "type": "focuses_on",
+    "doc_id": "2376989206"
+  },
+  {
+    "source": "529",
+    "target": "537",
+    "type": "researches",
+    "doc_id": "2376989206"
+  },
+  {
+    "source": "53",
+    "target": "537",
+    "type": "develops",
+    "doc_id": "2376989206"
+  },
+  {
+    "source": "20",
+    "target": "537",
+    "type": "develops",
+    "doc_id": "2376989206"
+  },
+  {
+    "source": "538",
+    "target": "537",
+    "type": "develops",
+    "doc_id": "2376989206"
+  },
+  {
+    "source": "39",
+    "target": "0",
+    "type": "founded_by",
+    "doc_id": "2376989206"
+  },
+  {
+    "source": "545",
+    "target": "189",
+    "type": "founded_by",
+    "doc_id": "2384136287"
+  },
+  {
+    "source": "543",
+    "target": "189",
+    "type": "made_by",
+    "doc_id": "2384136287"
+  },
+  {
+    "source": "189",
+    "target": "1060",
+    "type": "researches",
+    "doc_id": "2384136287"
+  },
+  {
+    "source": "189",
+    "target": "548",
+    "type": "develops",
+    "doc_id": "2384136287"
+  },
+  {
+    "source": "539",
+    "target": "541",
+    "type": "develops",
+    "doc_id": "2384136287"
+  },
+  {
+    "source": "539",
+    "target": "542",
+    "type": "develops",
+    "doc_id": "2384136287"
+  },
+  {
+    "source": "540",
+    "target": "544",
+    "type": "develops",
+    "doc_id": "2384136287"
+  },
+  {
+    "source": "51",
+    "target": "1060",
+    "type": "focuses_on",
+    "doc_id": "2384136287"
+  },
+  {
+    "source": "51",
+    "target": "189",
+    "type": "competes_with",
+    "doc_id": "2384136287"
+  },
+  {
+    "source": "543",
+    "target": "1060",
+    "type": "focuses_on",
+    "doc_id": "2384136287"
+  },
+  {
+    "source": "556",
+    "target": "201",
+    "type": "researches",
+    "doc_id": "2404121394"
+  },
+  {
+    "source": "556",
+    "target": "127",
+    "type": "researches",
+    "doc_id": "2404121394"
+  },
+  {
+    "source": "556",
+    "target": "24",
+    "type": "cooperates_with",
+    "doc_id": "2404121394"
+  },
+  {
+    "source": "556",
+    "target": "552",
+    "type": "cooperates_with",
+    "doc_id": "2404121394"
+  },
+  {
+    "source": "556",
+    "target": "16",
+    "type": "cooperates_with",
+    "doc_id": "2404121394"
+  },
+  {
+    "source": "558",
+    "target": "564",
+    "type": "develops",
+    "doc_id": "2404121394"
+  },
+  {
+    "source": "565",
+    "target": "579",
+    "type": "focuses_on",
+    "doc_id": "2420700702"
+  },
+  {
+    "source": "566",
+    "target": "579",
+    "type": "focuses_on",
+    "doc_id": "2420700702"
+  },
+  {
+    "source": "567",
+    "target": "579",
+    "type": "focuses_on",
+    "doc_id": "2420700702"
+  },
+  {
+    "source": "573",
+    "target": "580",
+    "type": "focuses_on",
+    "doc_id": "2420700702"
+  },
+  {
+    "source": "202",
+    "target": "584",
+    "type": "focuses_on",
+    "doc_id": "2420700702"
+  },
+  {
+    "source": "571",
+    "target": "584",
+    "type": "focuses_on",
+    "doc_id": "2420700702"
+  },
+  {
+    "source": "574",
+    "target": "581",
+    "type": "focuses_on",
+    "doc_id": "2420700702"
+  },
+  {
+    "source": "592",
+    "target": "576",
+    "type": "researches",
+    "doc_id": "2420700702"
+  },
+  {
+    "source": "593",
+    "target": "565",
+    "type": "develops",
+    "doc_id": "2420700702"
+  },
+  {
+    "source": "582",
+    "target": "581",
+    "type": "focuses_on",
+    "doc_id": "2420700702"
+  },
+  {
+    "source": "32",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2434601422"
+  },
+  {
+    "source": "128",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2434601422"
+  },
+  {
+    "source": "2478",
+    "target": "12",
+    "type": "made_by",
+    "doc_id": "2434601422"
+  },
+  {
+    "source": "596",
+    "target": "999",
+    "type": "made_by",
+    "doc_id": "2434601422"
+  },
+  {
+    "source": "205",
+    "target": "77",
+    "type": "made_by",
+    "doc_id": "2434601422"
+  },
+  {
+    "source": "598",
+    "target": "594",
+    "type": "made_by",
+    "doc_id": "2434601422"
+  },
+  {
+    "source": "599",
+    "target": "204",
+    "type": "made_by",
+    "doc_id": "2434601422"
+  },
+  {
+    "source": "65",
+    "target": "602",
+    "type": "researches",
+    "doc_id": "2434601422"
+  },
+  {
+    "source": "2478",
+    "target": "32",
+    "type": "competes_with",
+    "doc_id": "2434601422"
+  },
+  {
+    "source": "599",
+    "target": "600",
+    "type": "focuses_on",
+    "doc_id": "2434601422"
+  },
+  {
+    "source": "606",
+    "target": "617",
+    "type": "develops",
+    "doc_id": "2439236809"
+  },
+  {
+    "source": "617",
+    "target": "607",
+    "type": "researches",
+    "doc_id": "2439236809"
+  },
+  {
+    "source": "606",
+    "target": "607",
+    "type": "researches",
+    "doc_id": "2439236809"
+  },
+  {
+    "source": "608",
+    "target": "607",
+    "type": "focuses_on",
+    "doc_id": "2439236809"
+  },
+  {
+    "source": "609",
+    "target": "607",
+    "type": "focuses_on",
+    "doc_id": "2439236809"
+  },
+  {
+    "source": "611",
+    "target": "607",
+    "type": "focuses_on",
+    "doc_id": "2439236809"
+  },
+  {
+    "source": "610",
+    "target": "608",
+    "type": "focuses_on",
+    "doc_id": "2439236809"
+  },
+  {
+    "source": "612",
+    "target": "613",
+    "type": "focuses_on",
+    "doc_id": "2439236809"
+  },
+  {
+    "source": "621",
+    "target": "5",
+    "type": "founded_by",
+    "doc_id": "2447425504"
+  },
+  {
+    "source": "193",
+    "target": "20",
+    "type": "made_by",
+    "doc_id": "2447425504"
+  },
+  {
+    "source": "618",
+    "target": "622",
+    "type": "researches",
+    "doc_id": "2447425504"
+  },
+  {
+    "source": "53",
+    "target": "634",
+    "type": "develops",
+    "doc_id": "2447425504"
+  },
+  {
+    "source": "206",
+    "target": "629",
+    "type": "focuses_on",
+    "doc_id": "2447425504"
+  },
+  {
+    "source": "209",
+    "target": "618",
+    "type": "cooperates_with",
+    "doc_id": "2447425504"
+  },
+  {
+    "source": "5",
+    "target": "0",
+    "type": "competes_with",
+    "doc_id": "2447425504"
+  },
+  {
+    "source": "618",
+    "target": "635",
+    "type": "develops",
+    "doc_id": "2447425504"
+  },
+  {
+    "source": "621",
+    "target": "632",
+    "type": "focuses_on",
+    "doc_id": "2447425504"
+  },
+  {
+    "source": "638",
+    "target": "45",
+    "type": "made_by",
+    "doc_id": "2459917173"
+  },
+  {
+    "source": "45",
+    "target": "129",
+    "type": "researches",
+    "doc_id": "2459917173"
+  },
+  {
+    "source": "45",
+    "target": "640",
+    "type": "focuses_on",
+    "doc_id": "2459917173"
+  },
+  {
+    "source": "637",
+    "target": "1060",
+    "type": "focuses_on",
+    "doc_id": "2459917173"
+  },
+  {
+    "source": "637",
+    "target": "731",
+    "type": "develops",
+    "doc_id": "2459917173"
+  },
+  {
+    "source": "637",
+    "target": "644",
+    "type": "researches",
+    "doc_id": "2459917173"
+  },
+  {
+    "source": "1060",
+    "target": "198",
+    "type": "focuses_on",
+    "doc_id": "2459917173"
+  },
+  {
+    "source": "1060",
+    "target": "640",
+    "type": "competes_with",
+    "doc_id": "2459917173"
+  },
+  {
+    "source": "66",
+    "target": "5",
+    "type": "made_by",
+    "doc_id": "2459917173"
+  },
+  {
+    "source": "637",
+    "target": "45",
+    "type": "cooperates_with",
+    "doc_id": "2459917173"
+  },
+  {
+    "source": "654",
+    "target": "34",
+    "type": "made_by",
+    "doc_id": "2468277809"
+  },
+  {
+    "source": "650",
+    "target": "654",
+    "type": "develops",
+    "doc_id": "2468277809"
+  },
+  {
+    "source": "212",
+    "target": "20",
+    "type": "made_by",
+    "doc_id": "2468277809"
+  },
+  {
+    "source": "122",
+    "target": "10",
+    "type": "made_by",
+    "doc_id": "2468277809"
+  },
+  {
+    "source": "0",
+    "target": "11",
+    "type": "cooperates_with",
+    "doc_id": "2468277809"
+  },
+  {
+    "source": "0",
+    "target": "210",
+    "type": "cooperates_with",
+    "doc_id": "2468277809"
+  },
+  {
+    "source": "11",
+    "target": "67",
+    "type": "cooperates_with",
+    "doc_id": "2468277809"
+  },
+  {
+    "source": "20",
+    "target": "655",
+    "type": "focuses_on",
+    "doc_id": "2468277809"
+  },
+  {
+    "source": "210",
+    "target": "122",
+    "type": "focuses_on",
+    "doc_id": "2468277809"
+  },
+  {
+    "source": "665",
+    "target": "1303",
+    "type": "develops",
+    "doc_id": "2473842900"
+  },
+  {
+    "source": "1303",
+    "target": "664",
+    "type": "cooperates_with",
+    "doc_id": "2473842900"
+  },
+  {
+    "source": "674",
+    "target": "1303",
+    "type": "develops",
+    "doc_id": "2473842900"
+  },
+  {
+    "source": "677",
+    "target": "1303",
+    "type": "develops",
+    "doc_id": "2473842900"
+  },
+  {
+    "source": "1303",
+    "target": "670",
+    "type": "researches",
+    "doc_id": "2473842900"
+  },
+  {
+    "source": "1303",
+    "target": "60",
+    "type": "researches",
+    "doc_id": "2473842900"
+  },
+  {
+    "source": "665",
+    "target": "43",
+    "type": "focuses_on",
+    "doc_id": "2473842900"
+  },
+  {
+    "source": "689",
+    "target": "679",
+    "type": "made_by",
+    "doc_id": "2476601246"
+  },
+  {
+    "source": "690",
+    "target": "679",
+    "type": "made_by",
+    "doc_id": "2476601246"
+  },
+  {
+    "source": "690",
+    "target": "680",
+    "type": "made_by",
+    "doc_id": "2476601246"
+  },
+  {
+    "source": "684",
+    "target": "679",
+    "type": "founded_by",
+    "doc_id": "2476601246"
+  },
+  {
+    "source": "686",
+    "target": "680",
+    "type": "founded_by",
+    "doc_id": "2476601246"
+  },
+  {
+    "source": "685",
+    "target": "0",
+    "type": "cooperates_with",
+    "doc_id": "2476601246"
+  },
+  {
+    "source": "689",
+    "target": "33",
+    "type": "competes_with",
+    "doc_id": "2476601246"
+  },
+  {
+    "source": "690",
+    "target": "688",
+    "type": "focuses_on",
+    "doc_id": "2476601246"
+  },
+  {
+    "source": "679",
+    "target": "680",
+    "type": "cooperates_with",
+    "doc_id": "2476601246"
+  },
+  {
+    "source": "683",
+    "target": "688",
+    "type": "focuses_on",
+    "doc_id": "2476601246"
+  },
+  {
+    "source": "131",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2482718861"
+  },
+  {
+    "source": "131",
+    "target": "26",
+    "type": "competes_with",
+    "doc_id": "2482718861"
+  },
+  {
+    "source": "0",
+    "target": "15",
+    "type": "researches",
+    "doc_id": "2482718861"
+  },
+  {
+    "source": "131",
+    "target": "703",
+    "type": "focuses_on",
+    "doc_id": "2482718861"
+  },
+  {
+    "source": "702",
+    "target": "10",
+    "type": "founded_by",
+    "doc_id": "2482718861"
+  },
+  {
+    "source": "215",
+    "target": "0",
+    "type": "cooperates_with",
+    "doc_id": "2482718861"
+  },
+  {
+    "source": "131",
+    "target": "74",
+    "type": "focuses_on",
+    "doc_id": "2482718861"
+  },
+  {
+    "source": "68",
+    "target": "706",
+    "type": "researches",
+    "doc_id": "2482718861"
+  },
+  {
+    "source": "80",
+    "target": "707",
+    "type": "founded_by",
+    "doc_id": "2482718861"
+  },
+  {
+    "source": "131",
+    "target": "704",
+    "type": "focuses_on",
+    "doc_id": "2482718861"
+  },
+  {
+    "source": "22",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2487543299"
+  },
+  {
+    "source": "94",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2487543299"
+  },
+  {
+    "source": "22",
+    "target": "26",
+    "type": "competes_with",
+    "doc_id": "2487543299"
+  },
+  {
+    "source": "132",
+    "target": "711",
+    "type": "researches",
+    "doc_id": "2487543299"
+  },
+  {
+    "source": "132",
+    "target": "721",
+    "type": "develops",
+    "doc_id": "2487543299"
+  },
+  {
+    "source": "22",
+    "target": "56",
+    "type": "focuses_on",
+    "doc_id": "2487543299"
+  },
+  {
+    "source": "22",
+    "target": "133",
+    "type": "focuses_on",
+    "doc_id": "2487543299"
+  },
+  {
+    "source": "710",
+    "target": "132",
+    "type": "made_by",
+    "doc_id": "2487543299"
+  },
+  {
+    "source": "56",
+    "target": "375",
+    "type": "focuses_on",
+    "doc_id": "2487543299"
+  },
+  {
+    "source": "2067",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2495089975"
+  },
+  {
+    "source": "2067",
+    "target": "17",
+    "type": "develops",
+    "doc_id": "2495089975"
+  },
+  {
+    "source": "2067",
+    "target": "218",
+    "type": "develops",
+    "doc_id": "2495089975"
+  },
+  {
+    "source": "734",
+    "target": "219",
+    "type": "researches",
+    "doc_id": "2495089975"
+  },
+  {
+    "source": "219",
+    "target": "725",
+    "type": "focuses_on",
+    "doc_id": "2495089975"
+  },
+  {
+    "source": "1749",
+    "target": "725",
+    "type": "focuses_on",
+    "doc_id": "2495089975"
+  },
+  {
+    "source": "1749",
+    "target": "726",
+    "type": "focuses_on",
+    "doc_id": "2495089975"
+  },
+  {
+    "source": "1749",
+    "target": "727",
+    "type": "focuses_on",
+    "doc_id": "2495089975"
+  },
+  {
+    "source": "729",
+    "target": "728",
+    "type": "develops",
+    "doc_id": "2495089975"
+  },
+  {
+    "source": "724",
+    "target": "723",
+    "type": "competes_with",
+    "doc_id": "2495089975"
+  },
+  {
+    "source": "735",
+    "target": "3",
+    "type": "made_by",
+    "doc_id": "2499152352"
+  },
+  {
+    "source": "736",
+    "target": "3",
+    "type": "made_by",
+    "doc_id": "2499152352"
+  },
+  {
+    "source": "3",
+    "target": "737",
+    "type": "develops",
+    "doc_id": "2499152352"
+  },
+  {
+    "source": "134",
+    "target": "737",
+    "type": "develops",
+    "doc_id": "2499152352"
+  },
+  {
+    "source": "3",
+    "target": "134",
+    "type": "cooperates_with",
+    "doc_id": "2499152352"
+  },
+  {
+    "source": "3",
+    "target": "738",
+    "type": "focuses_on",
+    "doc_id": "2499152352"
+  },
+  {
+    "source": "3",
+    "target": "200",
+    "type": "researches",
+    "doc_id": "2499152352"
+  },
+  {
+    "source": "3",
+    "target": "220",
+    "type": "researches",
+    "doc_id": "2499152352"
+  },
+  {
+    "source": "737",
+    "target": "743",
+    "type": "focuses_on",
+    "doc_id": "2499152352"
+  },
+  {
+    "source": "3",
+    "target": "742",
+    "type": "focuses_on",
+    "doc_id": "2499152352"
+  },
+  {
+    "source": "745",
+    "target": "2242",
+    "type": "made_by",
+    "doc_id": "2499161881"
+  },
+  {
+    "source": "221",
+    "target": "2242",
+    "type": "made_by",
+    "doc_id": "2499161881"
+  },
+  {
+    "source": "746",
+    "target": "35",
+    "type": "made_by",
+    "doc_id": "2499161881"
+  },
+  {
+    "source": "747",
+    "target": "35",
+    "type": "made_by",
+    "doc_id": "2499161881"
+  },
+  {
+    "source": "748",
+    "target": "35",
+    "type": "made_by",
+    "doc_id": "2499161881"
+  },
+  {
+    "source": "749",
+    "target": "2242",
+    "type": "made_by",
+    "doc_id": "2499161881"
+  },
+  {
+    "source": "2242",
+    "target": "62",
+    "type": "focuses_on",
+    "doc_id": "2499161881"
+  },
+  {
+    "source": "35",
+    "target": "53",
+    "type": "cooperates_with",
+    "doc_id": "2499161881"
+  },
+  {
+    "source": "35",
+    "target": "96",
+    "type": "cooperates_with",
+    "doc_id": "2499161881"
+  },
+  {
+    "source": "221",
+    "target": "62",
+    "type": "focuses_on",
+    "doc_id": "2499161881"
+  },
+  {
+    "source": "756",
+    "target": "5",
+    "type": "made_by",
+    "doc_id": "2514364094"
+  },
+  {
+    "source": "97",
+    "target": "5",
+    "type": "made_by",
+    "doc_id": "2514364094"
+  },
+  {
+    "source": "13",
+    "target": "4",
+    "type": "made_by",
+    "doc_id": "2514364094"
+  },
+  {
+    "source": "49",
+    "target": "4",
+    "type": "made_by",
+    "doc_id": "2514364094"
+  },
+  {
+    "source": "761",
+    "target": "3",
+    "type": "researches",
+    "doc_id": "2514364094"
+  },
+  {
+    "source": "224",
+    "target": "36",
+    "type": "focuses_on",
+    "doc_id": "2514364094"
+  },
+  {
+    "source": "766",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2534131989"
+  },
+  {
+    "source": "55",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2534131989"
+  },
+  {
+    "source": "768",
+    "target": "0",
+    "type": "cooperates_with",
+    "doc_id": "2534131989"
+  },
+  {
+    "source": "769",
+    "target": "0",
+    "type": "cooperates_with",
+    "doc_id": "2534131989"
+  },
+  {
+    "source": "768",
+    "target": "775",
+    "type": "researches",
+    "doc_id": "2534131989"
+  },
+  {
+    "source": "98",
+    "target": "55",
+    "type": "researches",
+    "doc_id": "2534131989"
+  },
+  {
+    "source": "780",
+    "target": "27",
+    "type": "made_by",
+    "doc_id": "2534131989"
+  },
+  {
+    "source": "55",
+    "target": "766",
+    "type": "focuses_on",
+    "doc_id": "2534131989"
+  },
+  {
+    "source": "1113",
+    "target": "23",
+    "type": "made_by",
+    "doc_id": "2536812517"
+  },
+  {
+    "source": "794",
+    "target": "10",
+    "type": "cooperates_with",
+    "doc_id": "2536812517"
+  },
+  {
+    "source": "3",
+    "target": "47",
+    "type": "researches",
+    "doc_id": "2536812517"
+  },
+  {
+    "source": "23",
+    "target": "64",
+    "type": "researches",
+    "doc_id": "2536812517"
+  },
+  {
+    "source": "790",
+    "target": "30",
+    "type": "researches",
+    "doc_id": "2536812517"
+  },
+  {
+    "source": "783",
+    "target": "231",
+    "type": "focuses_on",
+    "doc_id": "2536812517"
+  },
+  {
+    "source": "784",
+    "target": "3",
+    "type": "made_by",
+    "doc_id": "2536812517"
+  },
+  {
+    "source": "1113",
+    "target": "785",
+    "type": "competes_with",
+    "doc_id": "2536812517"
+  },
+  {
+    "source": "233",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2547985032"
+  },
+  {
+    "source": "804",
+    "target": "11",
+    "type": "made_by",
+    "doc_id": "2547985032"
+  },
+  {
+    "source": "810",
+    "target": "34",
+    "type": "made_by",
+    "doc_id": "2547985032"
+  },
+  {
+    "source": "812",
+    "target": "803",
+    "type": "made_by",
+    "doc_id": "2547985032"
+  },
+  {
+    "source": "805",
+    "target": "3",
+    "type": "made_by",
+    "doc_id": "2547985032"
+  },
+  {
+    "source": "22",
+    "target": "233",
+    "type": "focuses_on",
+    "doc_id": "2547985032"
+  },
+  {
+    "source": "804",
+    "target": "232",
+    "type": "cooperates_with",
+    "doc_id": "2547985032"
+  },
+  {
+    "source": "810",
+    "target": "26",
+    "type": "competes_with",
+    "doc_id": "2547985032"
+  },
+  {
+    "source": "812",
+    "target": "57",
+    "type": "focuses_on",
+    "doc_id": "2547985032"
+  },
+  {
+    "source": "827",
+    "target": "41",
+    "type": "made_by",
+    "doc_id": "2549943726"
+  },
+  {
+    "source": "139",
+    "target": "12",
+    "type": "made_by",
+    "doc_id": "2549943726"
+  },
+  {
+    "source": "829",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2549943726"
+  },
+  {
+    "source": "830",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2549943726"
+  },
+  {
+    "source": "828",
+    "target": "27",
+    "type": "made_by",
+    "doc_id": "2549943726"
+  },
+  {
+    "source": "54",
+    "target": "20",
+    "type": "made_by",
+    "doc_id": "2549943726"
+  },
+  {
+    "source": "41",
+    "target": "833",
+    "type": "focuses_on",
+    "doc_id": "2549943726"
+  },
+  {
+    "source": "826",
+    "target": "833",
+    "type": "researches",
+    "doc_id": "2549943726"
+  },
+  {
+    "source": "827",
+    "target": "139",
+    "type": "competes_with",
+    "doc_id": "2549943726"
+  },
+  {
+    "source": "80",
+    "target": "841",
+    "type": "focuses_on",
+    "doc_id": "2552314908"
+  },
+  {
+    "source": "80",
+    "target": "844",
+    "type": "develops",
+    "doc_id": "2552314908"
+  },
+  {
+    "source": "80",
+    "target": "843",
+    "type": "develops",
+    "doc_id": "2552314908"
+  },
+  {
+    "source": "844",
+    "target": "856",
+    "type": "researches",
+    "doc_id": "2552314908"
+  },
+  {
+    "source": "80",
+    "target": "856",
+    "type": "develops",
+    "doc_id": "2552314908"
+  },
+  {
+    "source": "843",
+    "target": "243",
+    "type": "focuses_on",
+    "doc_id": "2552314908"
+  },
+  {
+    "source": "844",
+    "target": "846",
+    "type": "focuses_on",
+    "doc_id": "2552314908"
+  },
+  {
+    "source": "243",
+    "target": "99",
+    "type": "focuses_on",
+    "doc_id": "2552314908"
+  },
+  {
+    "source": "847",
+    "target": "848",
+    "type": "cooperates_with",
+    "doc_id": "2552314908"
+  },
+  {
+    "source": "843",
+    "target": "847",
+    "type": "focuses_on",
+    "doc_id": "2552314908"
+  },
+  {
+    "source": "858",
+    "target": "68",
+    "type": "made_by",
+    "doc_id": "2558205323"
+  },
+  {
+    "source": "858",
+    "target": "4",
+    "type": "made_by",
+    "doc_id": "2558205323"
+  },
+  {
+    "source": "68",
+    "target": "4",
+    "type": "cooperates_with",
+    "doc_id": "2558205323"
+  },
+  {
+    "source": "244",
+    "target": "864",
+    "type": "researches",
+    "doc_id": "2558205323"
+  },
+  {
+    "source": "864",
+    "target": "859",
+    "type": "focuses_on",
+    "doc_id": "2558205323"
+  },
+  {
+    "source": "864",
+    "target": "860",
+    "type": "focuses_on",
+    "doc_id": "2558205323"
+  },
+  {
+    "source": "202",
+    "target": "861",
+    "type": "focuses_on",
+    "doc_id": "2558205323"
+  },
+  {
+    "source": "141",
+    "target": "867",
+    "type": "focuses_on",
+    "doc_id": "2558205323"
+  },
+  {
+    "source": "875",
+    "target": "11",
+    "type": "made_by",
+    "doc_id": "2562982683"
+  },
+  {
+    "source": "247",
+    "target": "11",
+    "type": "made_by",
+    "doc_id": "2562982683"
+  },
+  {
+    "source": "144",
+    "target": "5",
+    "type": "made_by",
+    "doc_id": "2562982683"
+  },
+  {
+    "source": "248",
+    "target": "20",
+    "type": "made_by",
+    "doc_id": "2562982683"
+  },
+  {
+    "source": "249",
+    "target": "27",
+    "type": "made_by",
+    "doc_id": "2562982683"
+  },
+  {
+    "source": "877",
+    "target": "23",
+    "type": "made_by",
+    "doc_id": "2562982683"
+  },
+  {
+    "source": "11",
+    "target": "1749",
+    "type": "develops",
+    "doc_id": "2562982683"
+  },
+  {
+    "source": "878",
+    "target": "11",
+    "type": "founded_by",
+    "doc_id": "2562982683"
+  },
+  {
+    "source": "144",
+    "target": "251",
+    "type": "focuses_on",
+    "doc_id": "2562982683"
+  },
+  {
+    "source": "1749",
+    "target": "250",
+    "type": "competes_with",
+    "doc_id": "2562982683"
+  },
+  {
+    "source": "912",
+    "target": "3",
+    "type": "made_by",
+    "doc_id": "2565305546"
+  },
+  {
+    "source": "911",
+    "target": "888",
+    "type": "made_by",
+    "doc_id": "2565305546"
+  },
+  {
+    "source": "899",
+    "target": "887",
+    "type": "made_by",
+    "doc_id": "2565305546"
+  },
+  {
+    "source": "899",
+    "target": "252",
+    "type": "made_by",
+    "doc_id": "2565305546"
+  },
+  {
+    "source": "96",
+    "target": "901",
+    "type": "researches",
+    "doc_id": "2565305546"
+  },
+  {
+    "source": "885",
+    "target": "905",
+    "type": "researches",
+    "doc_id": "2565305546"
+  },
+  {
+    "source": "4",
+    "target": "905",
+    "type": "researches",
+    "doc_id": "2565305546"
+  },
+  {
+    "source": "887",
+    "target": "142",
+    "type": "researches",
+    "doc_id": "2565305546"
+  },
+  {
+    "source": "912",
+    "target": "904",
+    "type": "focuses_on",
+    "doc_id": "2565305546"
+  },
+  {
+    "source": "911",
+    "target": "903",
+    "type": "focuses_on",
+    "doc_id": "2565305546"
+  },
+  {
+    "source": "13",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2565364707"
+  },
+  {
+    "source": "913",
+    "target": "13",
+    "type": "develops",
+    "doc_id": "2565364707"
+  },
+  {
+    "source": "1",
+    "target": "915",
+    "type": "founded_by",
+    "doc_id": "2565364707"
+  },
+  {
+    "source": "13",
+    "target": "145",
+    "type": "cooperates_with",
+    "doc_id": "2565364707"
+  },
+  {
+    "source": "13",
+    "target": "121",
+    "type": "cooperates_with",
+    "doc_id": "2565364707"
+  },
+  {
+    "source": "13",
+    "target": "1060",
+    "type": "focuses_on",
+    "doc_id": "2565364707"
+  },
+  {
+    "source": "13",
+    "target": "916",
+    "type": "focuses_on",
+    "doc_id": "2565364707"
+  },
+  {
+    "source": "13",
+    "target": "917",
+    "type": "focuses_on",
+    "doc_id": "2565364707"
+  },
+  {
+    "source": "13",
+    "target": "914",
+    "type": "competes_with",
+    "doc_id": "2565364707"
+  },
+  {
+    "source": "13",
+    "target": "6",
+    "type": "focuses_on",
+    "doc_id": "2565364707"
+  },
+  {
+    "source": "925",
+    "target": "922",
+    "type": "made_by",
+    "doc_id": "2568556220"
+  },
+  {
+    "source": "922",
+    "target": "38",
+    "type": "researches",
+    "doc_id": "2568556220"
+  },
+  {
+    "source": "922",
+    "target": "36",
+    "type": "researches",
+    "doc_id": "2568556220"
+  },
+  {
+    "source": "32",
+    "target": "38",
+    "type": "focuses_on",
+    "doc_id": "2568556220"
+  },
+  {
+    "source": "925",
+    "target": "32",
+    "type": "researches",
+    "doc_id": "2568556220"
+  },
+  {
+    "source": "147",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2576018195"
+  },
+  {
+    "source": "82",
+    "target": "0",
+    "type": "founded_by",
+    "doc_id": "2576018195"
+  },
+  {
+    "source": "930",
+    "target": "0",
+    "type": "founded_by",
+    "doc_id": "2576018195"
+  },
+  {
+    "source": "926",
+    "target": "255",
+    "type": "researches",
+    "doc_id": "2576018195"
+  },
+  {
+    "source": "80",
+    "target": "933",
+    "type": "researches",
+    "doc_id": "2576018195"
+  },
+  {
+    "source": "131",
+    "target": "64",
+    "type": "focuses_on",
+    "doc_id": "2576018195"
+  },
+  {
+    "source": "208",
+    "target": "931",
+    "type": "focuses_on",
+    "doc_id": "2576018195"
+  },
+  {
+    "source": "1281",
+    "target": "208",
+    "type": "competes_with",
+    "doc_id": "2576018195"
+  },
+  {
+    "source": "929",
+    "target": "208",
+    "type": "competes_with",
+    "doc_id": "2576018195"
+  },
+  {
+    "source": "256",
+    "target": "5",
+    "type": "made_by",
+    "doc_id": "2579310848"
+  },
+  {
+    "source": "249",
+    "target": "955",
+    "type": "develops",
+    "doc_id": "2579310848"
+  },
+  {
+    "source": "941",
+    "target": "11",
+    "type": "made_by",
+    "doc_id": "2579310848"
+  },
+  {
+    "source": "248",
+    "target": "149",
+    "type": "develops",
+    "doc_id": "2579310848"
+  },
+  {
+    "source": "943",
+    "target": "143",
+    "type": "made_by",
+    "doc_id": "2579310848"
+  },
+  {
+    "source": "940",
+    "target": "23",
+    "type": "made_by",
+    "doc_id": "2579310848"
+  },
+  {
+    "source": "956",
+    "target": "27",
+    "type": "made_by",
+    "doc_id": "2579310848"
+  },
+  {
+    "source": "943",
+    "target": "948",
+    "type": "focuses_on",
+    "doc_id": "2579310848"
+  },
+  {
+    "source": "966",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2589239558"
+  },
+  {
+    "source": "82",
+    "target": "258",
+    "type": "founded_by",
+    "doc_id": "2589239558"
+  },
+  {
+    "source": "39",
+    "target": "0",
+    "type": "focuses_on",
+    "doc_id": "2589239558"
+  },
+  {
+    "source": "22",
+    "target": "259",
+    "type": "focuses_on",
+    "doc_id": "2589239558"
+  },
+  {
+    "source": "258",
+    "target": "151",
+    "type": "researches",
+    "doc_id": "2589239558"
+  },
+  {
+    "source": "0",
+    "target": "151",
+    "type": "researches",
+    "doc_id": "2589239558"
+  },
+  {
+    "source": "975",
+    "target": "968",
+    "type": "made_by",
+    "doc_id": "2591802522"
+  },
+  {
+    "source": "975",
+    "target": "261",
+    "type": "made_by",
+    "doc_id": "2591802522"
+  },
+  {
+    "source": "987",
+    "target": "969",
+    "type": "made_by",
+    "doc_id": "2591802522"
+  },
+  {
+    "source": "988",
+    "target": "970",
+    "type": "made_by",
+    "doc_id": "2591802522"
+  },
+  {
+    "source": "5",
+    "target": "984",
+    "type": "researches",
+    "doc_id": "2591802522"
+  },
+  {
+    "source": "971",
+    "target": "263",
+    "type": "researches",
+    "doc_id": "2591802522"
+  },
+  {
+    "source": "967",
+    "target": "263",
+    "type": "researches",
+    "doc_id": "2591802522"
+  },
+  {
+    "source": "971",
+    "target": "967",
+    "type": "cooperates_with",
+    "doc_id": "2591802522"
+  },
+  {
+    "source": "975",
+    "target": "262",
+    "type": "focuses_on",
+    "doc_id": "2591802522"
+  },
+  {
+    "source": "988",
+    "target": "127",
+    "type": "focuses_on",
+    "doc_id": "2591802522"
+  },
+  {
+    "source": "997",
+    "target": "12",
+    "type": "made_by",
+    "doc_id": "2595303185"
+  },
+  {
+    "source": "994",
+    "target": "77",
+    "type": "made_by",
+    "doc_id": "2595303185"
+  },
+  {
+    "source": "993",
+    "target": "77",
+    "type": "made_by",
+    "doc_id": "2595303185"
+  },
+  {
+    "source": "994",
+    "target": "264",
+    "type": "competes_with",
+    "doc_id": "2595303185"
+  },
+  {
+    "source": "264",
+    "target": "999",
+    "type": "competes_with",
+    "doc_id": "2595303185"
+  },
+  {
+    "source": "32",
+    "target": "1005",
+    "type": "focuses_on",
+    "doc_id": "2595303185"
+  },
+  {
+    "source": "995",
+    "target": "996",
+    "type": "competes_with",
+    "doc_id": "2595303185"
+  },
+  {
+    "source": "998",
+    "target": "1013",
+    "type": "focuses_on",
+    "doc_id": "2595303185"
+  },
+  {
+    "source": "999",
+    "target": "1010",
+    "type": "focuses_on",
+    "doc_id": "2595303185"
+  },
+  {
+    "source": "1019",
+    "target": "1016",
+    "type": "made_by",
+    "doc_id": "2599862109"
+  },
+  {
+    "source": "1019",
+    "target": "1020",
+    "type": "develops",
+    "doc_id": "2599862109"
+  },
+  {
+    "source": "1023",
+    "target": "11",
+    "type": "made_by",
+    "doc_id": "2599862109"
+  },
+  {
+    "source": "1025",
+    "target": "11",
+    "type": "made_by",
+    "doc_id": "2599862109"
+  },
+  {
+    "source": "1028",
+    "target": "265",
+    "type": "made_by",
+    "doc_id": "2599862109"
+  },
+  {
+    "source": "1029",
+    "target": "77",
+    "type": "made_by",
+    "doc_id": "2599862109"
+  },
+  {
+    "source": "153",
+    "target": "20",
+    "type": "made_by",
+    "doc_id": "2599862109"
+  },
+  {
+    "source": "1017",
+    "target": "8",
+    "type": "competes_with",
+    "doc_id": "2599862109"
+  },
+  {
+    "source": "1022",
+    "target": "9",
+    "type": "competes_with",
+    "doc_id": "2599862109"
+  },
+  {
+    "source": "1042",
+    "target": "0",
+    "type": "develops",
+    "doc_id": "2602417889"
+  },
+  {
+    "source": "1042",
+    "target": "155",
+    "type": "develops",
+    "doc_id": "2602417889"
+  },
+  {
+    "source": "65",
+    "target": "1045",
+    "type": "researches",
+    "doc_id": "2602417889"
+  },
+  {
+    "source": "65",
+    "target": "1044",
+    "type": "focuses_on",
+    "doc_id": "2602417889"
+  },
+  {
+    "source": "65",
+    "target": "38",
+    "type": "researches",
+    "doc_id": "2602417889"
+  },
+  {
+    "source": "65",
+    "target": "1046",
+    "type": "researches",
+    "doc_id": "2602417889"
+  },
+  {
+    "source": "1042",
+    "target": "56",
+    "type": "researches",
+    "doc_id": "2602417889"
+  },
+  {
+    "source": "1042",
+    "target": "1053",
+    "type": "develops",
+    "doc_id": "2602417889"
+  },
+  {
+    "source": "1044",
+    "target": "1045",
+    "type": "focuses_on",
+    "doc_id": "2602417889"
+  },
+  {
+    "source": "56",
+    "target": "1044",
+    "type": "competes_with",
+    "doc_id": "2602417889"
+  },
+  {
+    "source": "1057",
+    "target": "266",
+    "type": "made_by",
+    "doc_id": "2604867103"
+  },
+  {
+    "source": "1057",
+    "target": "1054",
+    "type": "made_by",
+    "doc_id": "2604867103"
+  },
+  {
+    "source": "1058",
+    "target": "4",
+    "type": "made_by",
+    "doc_id": "2604867103"
+  },
+  {
+    "source": "1058",
+    "target": "267",
+    "type": "made_by",
+    "doc_id": "2604867103"
+  },
+  {
+    "source": "1059",
+    "target": "1055",
+    "type": "made_by",
+    "doc_id": "2604867103"
+  },
+  {
+    "source": "1059",
+    "target": "1056",
+    "type": "made_by",
+    "doc_id": "2604867103"
+  },
+  {
+    "source": "1060",
+    "target": "268",
+    "type": "made_by",
+    "doc_id": "2604867103"
+  },
+  {
+    "source": "1061",
+    "target": "269",
+    "type": "made_by",
+    "doc_id": "2604867103"
+  },
+  {
+    "source": "1059",
+    "target": "270",
+    "type": "focuses_on",
+    "doc_id": "2604867103"
+  },
+  {
+    "source": "1058",
+    "target": "1066",
+    "type": "focuses_on",
+    "doc_id": "2604867103"
+  },
+  {
+    "source": "1074",
+    "target": "77",
+    "type": "made_by",
+    "doc_id": "2612979687"
+  },
+  {
+    "source": "1076",
+    "target": "1072",
+    "type": "made_by",
+    "doc_id": "2612979687"
+  },
+  {
+    "source": "1076",
+    "target": "1077",
+    "type": "cooperates_with",
+    "doc_id": "2612979687"
+  },
+  {
+    "source": "1080",
+    "target": "3",
+    "type": "made_by",
+    "doc_id": "2612979687"
+  },
+  {
+    "source": "1081",
+    "target": "1073",
+    "type": "made_by",
+    "doc_id": "2612979687"
+  },
+  {
+    "source": "1083",
+    "target": "156",
+    "type": "made_by",
+    "doc_id": "2612979687"
+  },
+  {
+    "source": "1083",
+    "target": "1084",
+    "type": "cooperates_with",
+    "doc_id": "2612979687"
+  },
+  {
+    "source": "1071",
+    "target": "11",
+    "type": "competes_with",
+    "doc_id": "2612979687"
+  },
+  {
+    "source": "1081",
+    "target": "1082",
+    "type": "cooperates_with",
+    "doc_id": "2612979687"
+  },
+  {
+    "source": "136",
+    "target": "1078",
+    "type": "develops",
+    "doc_id": "2612979687"
+  },
+  {
+    "source": "1092",
+    "target": "171",
+    "type": "made_by",
+    "doc_id": "2615972519"
+  },
+  {
+    "source": "1093",
+    "target": "45",
+    "type": "made_by",
+    "doc_id": "2615972519"
+  },
+  {
+    "source": "1094",
+    "target": "14",
+    "type": "made_by",
+    "doc_id": "2615972519"
+  },
+  {
+    "source": "1095",
+    "target": "14",
+    "type": "made_by",
+    "doc_id": "2615972519"
+  },
+  {
+    "source": "274",
+    "target": "272",
+    "type": "made_by",
+    "doc_id": "2615972519"
+  },
+  {
+    "source": "1096",
+    "target": "93",
+    "type": "made_by",
+    "doc_id": "2615972519"
+  },
+  {
+    "source": "22",
+    "target": "1097",
+    "type": "focuses_on",
+    "doc_id": "2615972519"
+  },
+  {
+    "source": "22",
+    "target": "69",
+    "type": "focuses_on",
+    "doc_id": "2615972519"
+  },
+  {
+    "source": "1092",
+    "target": "22",
+    "type": "competes_with",
+    "doc_id": "2615972519"
+  },
+  {
+    "source": "1101",
+    "target": "1112",
+    "type": "researches",
+    "doc_id": "2618443676"
+  },
+  {
+    "source": "98",
+    "target": "1105",
+    "type": "researches",
+    "doc_id": "2618443676"
+  },
+  {
+    "source": "1101",
+    "target": "1105",
+    "type": "researches",
+    "doc_id": "2618443676"
+  },
+  {
+    "source": "1103",
+    "target": "1107",
+    "type": "researches",
+    "doc_id": "2618443676"
+  },
+  {
+    "source": "1104",
+    "target": "1109",
+    "type": "researches",
+    "doc_id": "2618443676"
+  },
+  {
+    "source": "17",
+    "target": "230",
+    "type": "focuses_on",
+    "doc_id": "2618443676"
+  },
+  {
+    "source": "82",
+    "target": "48",
+    "type": "focuses_on",
+    "doc_id": "2618443676"
+  },
+  {
+    "source": "104",
+    "target": "0",
+    "type": "competes_with",
+    "doc_id": "2618443676"
+  },
+  {
+    "source": "1134",
+    "target": "1114",
+    "type": "made_by",
+    "doc_id": "2621111964"
+  },
+  {
+    "source": "1134",
+    "target": "1119",
+    "type": "develops",
+    "doc_id": "2621111964"
+  },
+  {
+    "source": "1134",
+    "target": "214",
+    "type": "competes_with",
+    "doc_id": "2621111964"
+  },
+  {
+    "source": "1134",
+    "target": "1122",
+    "type": "competes_with",
+    "doc_id": "2621111964"
+  },
+  {
+    "source": "1135",
+    "target": "270",
+    "type": "focuses_on",
+    "doc_id": "2621111964"
+  },
+  {
+    "source": "1136",
+    "target": "1123",
+    "type": "focuses_on",
+    "doc_id": "2621111964"
+  },
+  {
+    "source": "1136",
+    "target": "1130",
+    "type": "focuses_on",
+    "doc_id": "2621111964"
+  },
+  {
+    "source": "1137",
+    "target": "275",
+    "type": "focuses_on",
+    "doc_id": "2621111964"
+  },
+  {
+    "source": "1134",
+    "target": "245",
+    "type": "focuses_on",
+    "doc_id": "2621111964"
+  },
+  {
+    "source": "1134",
+    "target": "1127",
+    "type": "focuses_on",
+    "doc_id": "2621111964"
+  },
+  {
+    "source": "1138",
+    "target": "4",
+    "type": "made_by",
+    "doc_id": "2622118209"
+  },
+  {
+    "source": "49",
+    "target": "1138",
+    "type": "develops",
+    "doc_id": "2622118209"
+  },
+  {
+    "source": "49",
+    "target": "9",
+    "type": "competes_with",
+    "doc_id": "2622118209"
+  },
+  {
+    "source": "49",
+    "target": "13",
+    "type": "competes_with",
+    "doc_id": "2622118209"
+  },
+  {
+    "source": "49",
+    "target": "105",
+    "type": "competes_with",
+    "doc_id": "2622118209"
+  },
+  {
+    "source": "49",
+    "target": "103",
+    "type": "focuses_on",
+    "doc_id": "2622118209"
+  },
+  {
+    "source": "49",
+    "target": "1145",
+    "type": "cooperates_with",
+    "doc_id": "2622118209"
+  },
+  {
+    "source": "49",
+    "target": "1144",
+    "type": "cooperates_with",
+    "doc_id": "2622118209"
+  },
+  {
+    "source": "1141",
+    "target": "49",
+    "type": "develops",
+    "doc_id": "2622118209"
+  },
+  {
+    "source": "1152",
+    "target": "12",
+    "type": "made_by",
+    "doc_id": "2622331241"
+  },
+  {
+    "source": "1153",
+    "target": "12",
+    "type": "made_by",
+    "doc_id": "2622331241"
+  },
+  {
+    "source": "12",
+    "target": "62",
+    "type": "focuses_on",
+    "doc_id": "2622331241"
+  },
+  {
+    "source": "12",
+    "target": "28",
+    "type": "focuses_on",
+    "doc_id": "2622331241"
+  },
+  {
+    "source": "1156",
+    "target": "12",
+    "type": "founded_by",
+    "doc_id": "2622331241"
+  },
+  {
+    "source": "1152",
+    "target": "1154",
+    "type": "competes_with",
+    "doc_id": "2622331241"
+  },
+  {
+    "source": "2478",
+    "target": "1160",
+    "type": "focuses_on",
+    "doc_id": "2622331241"
+  },
+  {
+    "source": "2478",
+    "target": "1162",
+    "type": "focuses_on",
+    "doc_id": "2622331241"
+  },
+  {
+    "source": "1157",
+    "target": "12",
+    "type": "cooperates_with",
+    "doc_id": "2622331241"
+  },
+  {
+    "source": "1169",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2622474070"
+  },
+  {
+    "source": "1170",
+    "target": "16",
+    "type": "made_by",
+    "doc_id": "2622474070"
+  },
+  {
+    "source": "1180",
+    "target": "16",
+    "type": "made_by",
+    "doc_id": "2622474070"
+  },
+  {
+    "source": "1192",
+    "target": "24",
+    "type": "made_by",
+    "doc_id": "2622474070"
+  },
+  {
+    "source": "1183",
+    "target": "24",
+    "type": "develops",
+    "doc_id": "2622474070"
+  },
+  {
+    "source": "24",
+    "target": "267",
+    "type": "cooperates_with",
+    "doc_id": "2622474070"
+  },
+  {
+    "source": "1184",
+    "target": "4",
+    "type": "made_by",
+    "doc_id": "2622474070"
+  },
+  {
+    "source": "71",
+    "target": "4",
+    "type": "made_by",
+    "doc_id": "2622474070"
+  },
+  {
+    "source": "1196",
+    "target": "132",
+    "type": "made_by",
+    "doc_id": "2627027230"
+  },
+  {
+    "source": "1199",
+    "target": "2242",
+    "type": "made_by",
+    "doc_id": "2627027230"
+  },
+  {
+    "source": "2242",
+    "target": "5",
+    "type": "cooperates_with",
+    "doc_id": "2627027230"
+  },
+  {
+    "source": "1210",
+    "target": "0",
+    "type": "cooperates_with",
+    "doc_id": "2627027230"
+  },
+  {
+    "source": "1211",
+    "target": "0",
+    "type": "cooperates_with",
+    "doc_id": "2627027230"
+  },
+  {
+    "source": "1212",
+    "target": "0",
+    "type": "cooperates_with",
+    "doc_id": "2627027230"
+  },
+  {
+    "source": "0",
+    "target": "132",
+    "type": "competes_with",
+    "doc_id": "2627027230"
+  },
+  {
+    "source": "85",
+    "target": "53",
+    "type": "cooperates_with",
+    "doc_id": "2627027230"
+  },
+  {
+    "source": "1197",
+    "target": "20",
+    "type": "made_by",
+    "doc_id": "2627027230"
+  },
+  {
+    "source": "1236",
+    "target": "10",
+    "type": "made_by",
+    "doc_id": "2632544648"
+  },
+  {
+    "source": "1237",
+    "target": "68",
+    "type": "made_by",
+    "doc_id": "2632544648"
+  },
+  {
+    "source": "1231",
+    "target": "107",
+    "type": "made_by",
+    "doc_id": "2632544648"
+  },
+  {
+    "source": "1239",
+    "target": "1220",
+    "type": "made_by",
+    "doc_id": "2632544648"
+  },
+  {
+    "source": "1238",
+    "target": "1227",
+    "type": "founded_by",
+    "doc_id": "2632544648"
+  },
+  {
+    "source": "1238",
+    "target": "1226",
+    "type": "made_by",
+    "doc_id": "2632544648"
+  },
+  {
+    "source": "1237",
+    "target": "1230",
+    "type": "focuses_on",
+    "doc_id": "2632544648"
+  },
+  {
+    "source": "1231",
+    "target": "30",
+    "type": "focuses_on",
+    "doc_id": "2632544648"
+  },
+  {
+    "source": "1236",
+    "target": "1225",
+    "type": "competes_with",
+    "doc_id": "2632544648"
+  },
+  {
+    "source": "1238",
+    "target": "57",
+    "type": "focuses_on",
+    "doc_id": "2632544648"
+  },
+  {
+    "source": "13",
+    "target": "61",
+    "type": "made_by",
+    "doc_id": "2634968983"
+  },
+  {
+    "source": "2435",
+    "target": "41",
+    "type": "made_by",
+    "doc_id": "2634968983"
+  },
+  {
+    "source": "105",
+    "target": "21",
+    "type": "made_by",
+    "doc_id": "2634968983"
+  },
+  {
+    "source": "157",
+    "target": "14",
+    "type": "made_by",
+    "doc_id": "2634968983"
+  },
+  {
+    "source": "13",
+    "target": "2435",
+    "type": "competes_with",
+    "doc_id": "2634968983"
+  },
+  {
+    "source": "13",
+    "target": "105",
+    "type": "competes_with",
+    "doc_id": "2634968983"
+  },
+  {
+    "source": "1241",
+    "target": "1247",
+    "type": "focuses_on",
+    "doc_id": "2634968983"
+  },
+  {
+    "source": "285",
+    "target": "86",
+    "type": "focuses_on",
+    "doc_id": "2634968983"
+  },
+  {
+    "source": "14",
+    "target": "1242",
+    "type": "researches",
+    "doc_id": "2634968983"
+  },
+  {
+    "source": "215",
+    "target": "0",
+    "type": "focuses_on",
+    "doc_id": "2635793218"
+  },
+  {
+    "source": "215",
+    "target": "1249",
+    "type": "develops",
+    "doc_id": "2635793218"
+  },
+  {
+    "source": "215",
+    "target": "1250",
+    "type": "develops",
+    "doc_id": "2635793218"
+  },
+  {
+    "source": "215",
+    "target": "287",
+    "type": "cooperates_with",
+    "doc_id": "2635793218"
+  },
+  {
+    "source": "22",
+    "target": "1252",
+    "type": "focuses_on",
+    "doc_id": "2635793218"
+  },
+  {
+    "source": "22",
+    "target": "17",
+    "type": "competes_with",
+    "doc_id": "2635793218"
+  },
+  {
+    "source": "1249",
+    "target": "1254",
+    "type": "focuses_on",
+    "doc_id": "2635793218"
+  },
+  {
+    "source": "215",
+    "target": "30",
+    "type": "researches",
+    "doc_id": "2635793218"
+  },
+  {
+    "source": "0",
+    "target": "22",
+    "type": "develops",
+    "doc_id": "2644289456"
+  },
+  {
+    "source": "0",
+    "target": "1257",
+    "type": "develops",
+    "doc_id": "2644289456"
+  },
+  {
+    "source": "1259",
+    "target": "1265",
+    "type": "researches",
+    "doc_id": "2644289456"
+  },
+  {
+    "source": "68",
+    "target": "1265",
+    "type": "researches",
+    "doc_id": "2644289456"
+  },
+  {
+    "source": "22",
+    "target": "255",
+    "type": "focuses_on",
+    "doc_id": "2644289456"
+  },
+  {
+    "source": "1265",
+    "target": "48",
+    "type": "competes_with",
+    "doc_id": "2644289456"
+  },
+  {
+    "source": "1256",
+    "target": "1266",
+    "type": "researches",
+    "doc_id": "2644289456"
+  },
+  {
+    "source": "1269",
+    "target": "68",
+    "type": "develops",
+    "doc_id": "2647215663"
+  },
+  {
+    "source": "1269",
+    "target": "83",
+    "type": "develops",
+    "doc_id": "2647215663"
+  },
+  {
+    "source": "1289",
+    "target": "159",
+    "type": "develops",
+    "doc_id": "2647215663"
+  },
+  {
+    "source": "1289",
+    "target": "96",
+    "type": "develops",
+    "doc_id": "2647215663"
+  },
+  {
+    "source": "1271",
+    "target": "68",
+    "type": "develops",
+    "doc_id": "2647215663"
+  },
+  {
+    "source": "1271",
+    "target": "16",
+    "type": "develops",
+    "doc_id": "2647215663"
+  },
+  {
+    "source": "1272",
+    "target": "3",
+    "type": "develops",
+    "doc_id": "2647215663"
+  },
+  {
+    "source": "1272",
+    "target": "1268",
+    "type": "develops",
+    "doc_id": "2647215663"
+  },
+  {
+    "source": "1271",
+    "target": "1281",
+    "type": "focuses_on",
+    "doc_id": "2647215663"
+  },
+  {
+    "source": "1272",
+    "target": "1282",
+    "type": "competes_with",
+    "doc_id": "2647215663"
+  },
+  {
+    "source": "1292",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2650564803"
+  },
+  {
+    "source": "1293",
+    "target": "5",
+    "type": "made_by",
+    "doc_id": "2650564803"
+  },
+  {
+    "source": "1293",
+    "target": "144",
+    "type": "focuses_on",
+    "doc_id": "2650564803"
+  },
+  {
+    "source": "5",
+    "target": "291",
+    "type": "researches",
+    "doc_id": "2650564803"
+  },
+  {
+    "source": "0",
+    "target": "1294",
+    "type": "focuses_on",
+    "doc_id": "2650564803"
+  },
+  {
+    "source": "10",
+    "target": "281",
+    "type": "competes_with",
+    "doc_id": "2650564803"
+  },
+  {
+    "source": "145",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2652962252"
+  },
+  {
+    "source": "277",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2652962252"
+  },
+  {
+    "source": "13",
+    "target": "71",
+    "type": "competes_with",
+    "doc_id": "2652962252"
+  },
+  {
+    "source": "13",
+    "target": "108",
+    "type": "competes_with",
+    "doc_id": "2652962252"
+  },
+  {
+    "source": "145",
+    "target": "1302",
+    "type": "cooperates_with",
+    "doc_id": "2652962252"
+  },
+  {
+    "source": "294",
+    "target": "8",
+    "type": "made_by",
+    "doc_id": "2656546876"
+  },
+  {
+    "source": "1321",
+    "target": "8",
+    "type": "made_by",
+    "doc_id": "2656546876"
+  },
+  {
+    "source": "1322",
+    "target": "8",
+    "type": "made_by",
+    "doc_id": "2656546876"
+  },
+  {
+    "source": "295",
+    "target": "8",
+    "type": "made_by",
+    "doc_id": "2656546876"
+  },
+  {
+    "source": "58",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2656546876"
+  },
+  {
+    "source": "1323",
+    "target": "3",
+    "type": "made_by",
+    "doc_id": "2656546876"
+  },
+  {
+    "source": "107",
+    "target": "1326",
+    "type": "researches",
+    "doc_id": "2656546876"
+  },
+  {
+    "source": "107",
+    "target": "1314",
+    "type": "cooperates_with",
+    "doc_id": "2656546876"
+  },
+  {
+    "source": "295",
+    "target": "22",
+    "type": "competes_with",
+    "doc_id": "2656546876"
+  },
+  {
+    "source": "9",
+    "target": "1324",
+    "type": "cooperates_with",
+    "doc_id": "2656546876"
+  },
+  {
+    "source": "1451",
+    "target": "3",
+    "type": "made_by",
+    "doc_id": "2665481551"
+  },
+  {
+    "source": "3",
+    "target": "1451",
+    "type": "develops",
+    "doc_id": "2665481551"
+  },
+  {
+    "source": "1451",
+    "target": "300",
+    "type": "competes_with",
+    "doc_id": "2665481551"
+  },
+  {
+    "source": "1451",
+    "target": "1342",
+    "type": "focuses_on",
+    "doc_id": "2665481551"
+  },
+  {
+    "source": "1451",
+    "target": "1341",
+    "type": "focuses_on",
+    "doc_id": "2665481551"
+  },
+  {
+    "source": "1338",
+    "target": "1340",
+    "type": "focuses_on",
+    "doc_id": "2665481551"
+  },
+  {
+    "source": "1342",
+    "target": "1343",
+    "type": "focuses_on",
+    "doc_id": "2665481551"
+  },
+  {
+    "source": "1451",
+    "target": "1355",
+    "type": "researches",
+    "doc_id": "2665481551"
+  },
+  {
+    "source": "3",
+    "target": "1804",
+    "type": "researches",
+    "doc_id": "2665481551"
+  },
+  {
+    "source": "1361",
+    "target": "34",
+    "type": "made_by",
+    "doc_id": "2671738045"
+  },
+  {
+    "source": "54",
+    "target": "132",
+    "type": "made_by",
+    "doc_id": "2671738045"
+  },
+  {
+    "source": "132",
+    "target": "5",
+    "type": "cooperates_with",
+    "doc_id": "2671738045"
+  },
+  {
+    "source": "132",
+    "target": "66",
+    "type": "researches",
+    "doc_id": "2671738045"
+  },
+  {
+    "source": "1364",
+    "target": "1356",
+    "type": "made_by",
+    "doc_id": "2671738045"
+  },
+  {
+    "source": "1368",
+    "target": "50",
+    "type": "made_by",
+    "doc_id": "2671738045"
+  },
+  {
+    "source": "1362",
+    "target": "3",
+    "type": "made_by",
+    "doc_id": "2671738045"
+  },
+  {
+    "source": "3",
+    "target": "1370",
+    "type": "researches",
+    "doc_id": "2671738045"
+  },
+  {
+    "source": "34",
+    "target": "0",
+    "type": "competes_with",
+    "doc_id": "2671738045"
+  },
+  {
+    "source": "85",
+    "target": "1381",
+    "type": "founded_by",
+    "doc_id": "2674448007"
+  },
+  {
+    "source": "85",
+    "target": "1384",
+    "type": "researches",
+    "doc_id": "2674448007"
+  },
+  {
+    "source": "305",
+    "target": "1383",
+    "type": "researches",
+    "doc_id": "2674448007"
+  },
+  {
+    "source": "304",
+    "target": "1383",
+    "type": "researches",
+    "doc_id": "2674448007"
+  },
+  {
+    "source": "20",
+    "target": "149",
+    "type": "develops",
+    "doc_id": "2674448007"
+  },
+  {
+    "source": "149",
+    "target": "1383",
+    "type": "focuses_on",
+    "doc_id": "2674448007"
+  },
+  {
+    "source": "20",
+    "target": "1382",
+    "type": "cooperates_with",
+    "doc_id": "2674448007"
+  },
+  {
+    "source": "1381",
+    "target": "1383",
+    "type": "focuses_on",
+    "doc_id": "2674448007"
+  },
+  {
+    "source": "20",
+    "target": "11",
+    "type": "competes_with",
+    "doc_id": "2674448007"
+  },
+  {
+    "source": "271",
+    "target": "1384",
+    "type": "focuses_on",
+    "doc_id": "2674448007"
+  },
+  {
+    "source": "1396",
+    "target": "10",
+    "type": "acquired_by",
+    "doc_id": "2683775240"
+  },
+  {
+    "source": "1394",
+    "target": "1393",
+    "type": "acquired_by",
+    "doc_id": "2683775240"
+  },
+  {
+    "source": "10",
+    "target": "1397",
+    "type": "develops",
+    "doc_id": "2683775240"
+  },
+  {
+    "source": "10",
+    "target": "1399",
+    "type": "develops",
+    "doc_id": "2683775240"
+  },
+  {
+    "source": "3",
+    "target": "1407",
+    "type": "researches",
+    "doc_id": "2683775240"
+  },
+  {
+    "source": "3",
+    "target": "1395",
+    "type": "develops",
+    "doc_id": "2683775240"
+  },
+  {
+    "source": "0",
+    "target": "55",
+    "type": "develops",
+    "doc_id": "2683775240"
+  },
+  {
+    "source": "55",
+    "target": "1403",
+    "type": "competes_with",
+    "doc_id": "2683775240"
+  },
+  {
+    "source": "5",
+    "target": "1410",
+    "type": "researches",
+    "doc_id": "2683775240"
+  },
+  {
+    "source": "149",
+    "target": "20",
+    "type": "made_by",
+    "doc_id": "2687528881"
+  },
+  {
+    "source": "1414",
+    "target": "1418",
+    "type": "researches",
+    "doc_id": "2687528881"
+  },
+  {
+    "source": "5",
+    "target": "1419",
+    "type": "researches",
+    "doc_id": "2687528881"
+  },
+  {
+    "source": "68",
+    "target": "1420",
+    "type": "researches",
+    "doc_id": "2687528881"
+  },
+  {
+    "source": "68",
+    "target": "5",
+    "type": "cooperates_with",
+    "doc_id": "2687528881"
+  },
+  {
+    "source": "1427",
+    "target": "33",
+    "type": "focuses_on",
+    "doc_id": "2687528881"
+  },
+  {
+    "source": "1426",
+    "target": "1428",
+    "type": "cooperates_with",
+    "doc_id": "2687528881"
+  },
+  {
+    "source": "1449",
+    "target": "3",
+    "type": "made_by",
+    "doc_id": "2689650728"
+  },
+  {
+    "source": "1449",
+    "target": "304",
+    "type": "made_by",
+    "doc_id": "2689650728"
+  },
+  {
+    "source": "65",
+    "target": "3",
+    "type": "founded_by",
+    "doc_id": "2689650728"
+  },
+  {
+    "source": "299",
+    "target": "3",
+    "type": "made_by",
+    "doc_id": "2689650728"
+  },
+  {
+    "source": "299",
+    "target": "124",
+    "type": "competes_with",
+    "doc_id": "2689650728"
+  },
+  {
+    "source": "85",
+    "target": "53",
+    "type": "focuses_on",
+    "doc_id": "2689650728"
+  },
+  {
+    "source": "1432",
+    "target": "968",
+    "type": "made_by",
+    "doc_id": "2689650728"
+  },
+  {
+    "source": "1432",
+    "target": "188",
+    "type": "cooperates_with",
+    "doc_id": "2689650728"
+  },
+  {
+    "source": "20",
+    "target": "1462",
+    "type": "develops",
+    "doc_id": "2700822328"
+  },
+  {
+    "source": "6",
+    "target": "1804",
+    "type": "focuses_on",
+    "doc_id": "2700822328"
+  },
+  {
+    "source": "6",
+    "target": "1454",
+    "type": "focuses_on",
+    "doc_id": "2700822328"
+  },
+  {
+    "source": "6",
+    "target": "219",
+    "type": "focuses_on",
+    "doc_id": "2700822328"
+  },
+  {
+    "source": "6",
+    "target": "1456",
+    "type": "focuses_on",
+    "doc_id": "2700822328"
+  },
+  {
+    "source": "6",
+    "target": "1457",
+    "type": "focuses_on",
+    "doc_id": "2700822328"
+  },
+  {
+    "source": "1454",
+    "target": "70",
+    "type": "focuses_on",
+    "doc_id": "2700822328"
+  },
+  {
+    "source": "1462",
+    "target": "6",
+    "type": "researches",
+    "doc_id": "2700822328"
+  },
+  {
+    "source": "6",
+    "target": "1453",
+    "type": "cooperates_with",
+    "doc_id": "2700822328"
+  },
+  {
+    "source": "20",
+    "target": "6",
+    "type": "researches",
+    "doc_id": "2700822328"
+  },
+  {
+    "source": "109",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2702554771"
+  },
+  {
+    "source": "1465",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2702554771"
+  },
+  {
+    "source": "0",
+    "target": "1463",
+    "type": "cooperates_with",
+    "doc_id": "2702554771"
+  },
+  {
+    "source": "307",
+    "target": "10",
+    "type": "made_by",
+    "doc_id": "2702554771"
+  },
+  {
+    "source": "1467",
+    "target": "159",
+    "type": "made_by",
+    "doc_id": "2702554771"
+  },
+  {
+    "source": "1469",
+    "target": "4",
+    "type": "made_by",
+    "doc_id": "2702554771"
+  },
+  {
+    "source": "0",
+    "target": "6",
+    "type": "focuses_on",
+    "doc_id": "2702554771"
+  },
+  {
+    "source": "11",
+    "target": "6",
+    "type": "focuses_on",
+    "doc_id": "2702554771"
+  },
+  {
+    "source": "1480",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2703288693"
+  },
+  {
+    "source": "1481",
+    "target": "1479",
+    "type": "made_by",
+    "doc_id": "2703288693"
+  },
+  {
+    "source": "111",
+    "target": "16",
+    "type": "made_by",
+    "doc_id": "2703288693"
+  },
+  {
+    "source": "164",
+    "target": "16",
+    "type": "made_by",
+    "doc_id": "2703288693"
+  },
+  {
+    "source": "1482",
+    "target": "4",
+    "type": "made_by",
+    "doc_id": "2703288693"
+  },
+  {
+    "source": "309",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2703288693"
+  },
+  {
+    "source": "1480",
+    "target": "26",
+    "type": "competes_with",
+    "doc_id": "2703288693"
+  },
+  {
+    "source": "111",
+    "target": "163",
+    "type": "competes_with",
+    "doc_id": "2703288693"
+  },
+  {
+    "source": "1",
+    "target": "56",
+    "type": "focuses_on",
+    "doc_id": "2703288693"
+  },
+  {
+    "source": "16",
+    "target": "1485",
+    "type": "researches",
+    "doc_id": "2703288693"
+  },
+  {
+    "source": "1496",
+    "target": "310",
+    "type": "made_by",
+    "doc_id": "2703427171"
+  },
+  {
+    "source": "310",
+    "target": "1494",
+    "type": "researches",
+    "doc_id": "2703427171"
+  },
+  {
+    "source": "1496",
+    "target": "1491",
+    "type": "competes_with",
+    "doc_id": "2703427171"
+  },
+  {
+    "source": "310",
+    "target": "231",
+    "type": "focuses_on",
+    "doc_id": "2703427171"
+  },
+  {
+    "source": "1492",
+    "target": "310",
+    "type": "cooperates_with",
+    "doc_id": "2703427171"
+  },
+  {
+    "source": "1493",
+    "target": "310",
+    "type": "cooperates_with",
+    "doc_id": "2703427171"
+  },
+  {
+    "source": "1",
+    "target": "112",
+    "type": "focuses_on",
+    "doc_id": "2703427171"
+  },
+  {
+    "source": "1496",
+    "target": "1495",
+    "type": "focuses_on",
+    "doc_id": "2703427171"
+  },
+  {
+    "source": "1496",
+    "target": "260",
+    "type": "focuses_on",
+    "doc_id": "2703427171"
+  },
+  {
+    "source": "111",
+    "target": "40",
+    "type": "focuses_on",
+    "doc_id": "2703517602"
+  },
+  {
+    "source": "111",
+    "target": "33",
+    "type": "focuses_on",
+    "doc_id": "2703517602"
+  },
+  {
+    "source": "111",
+    "target": "213",
+    "type": "focuses_on",
+    "doc_id": "2703517602"
+  },
+  {
+    "source": "16",
+    "target": "1497",
+    "type": "researches",
+    "doc_id": "2703517602"
+  },
+  {
+    "source": "164",
+    "target": "6",
+    "type": "focuses_on",
+    "doc_id": "2703517602"
+  },
+  {
+    "source": "1497",
+    "target": "40",
+    "type": "focuses_on",
+    "doc_id": "2703517602"
+  },
+  {
+    "source": "113",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2703885080"
+  },
+  {
+    "source": "100",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2703885080"
+  },
+  {
+    "source": "165",
+    "target": "4",
+    "type": "made_by",
+    "doc_id": "2703885080"
+  },
+  {
+    "source": "1499",
+    "target": "27",
+    "type": "made_by",
+    "doc_id": "2703885080"
+  },
+  {
+    "source": "27",
+    "target": "156",
+    "type": "cooperates_with",
+    "doc_id": "2703885080"
+  },
+  {
+    "source": "49",
+    "target": "171",
+    "type": "cooperates_with",
+    "doc_id": "2703885080"
+  },
+  {
+    "source": "171",
+    "target": "5",
+    "type": "competes_with",
+    "doc_id": "2703885080"
+  },
+  {
+    "source": "0",
+    "target": "1502",
+    "type": "researches",
+    "doc_id": "2703885080"
+  },
+  {
+    "source": "100",
+    "target": "58",
+    "type": "cooperates_with",
+    "doc_id": "2703885080"
+  },
+  {
+    "source": "1515",
+    "target": "23",
+    "type": "made_by",
+    "doc_id": "2704065453"
+  },
+  {
+    "source": "23",
+    "target": "60",
+    "type": "researches",
+    "doc_id": "2704065453"
+  },
+  {
+    "source": "23",
+    "target": "1509",
+    "type": "develops",
+    "doc_id": "2704065453"
+  },
+  {
+    "source": "1",
+    "target": "1509",
+    "type": "researches",
+    "doc_id": "2704065453"
+  },
+  {
+    "source": "16",
+    "target": "1509",
+    "type": "researches",
+    "doc_id": "2704065453"
+  },
+  {
+    "source": "171",
+    "target": "1510",
+    "type": "researches",
+    "doc_id": "2704065453"
+  },
+  {
+    "source": "1303",
+    "target": "1510",
+    "type": "researches",
+    "doc_id": "2704065453"
+  },
+  {
+    "source": "1",
+    "target": "16",
+    "type": "competes_with",
+    "doc_id": "2704065453"
+  },
+  {
+    "source": "60",
+    "target": "1512",
+    "type": "competes_with",
+    "doc_id": "2704065453"
+  },
+  {
+    "source": "1511",
+    "target": "1510",
+    "type": "focuses_on",
+    "doc_id": "2704065453"
+  },
+  {
+    "source": "49",
+    "target": "73",
+    "type": "cooperates_with",
+    "doc_id": "2704140634"
+  },
+  {
+    "source": "1522",
+    "target": "4",
+    "type": "made_by",
+    "doc_id": "2704140634"
+  },
+  {
+    "source": "73",
+    "target": "171",
+    "type": "made_by",
+    "doc_id": "2704140634"
+  },
+  {
+    "source": "4",
+    "target": "1516",
+    "type": "cooperates_with",
+    "doc_id": "2704140634"
+  },
+  {
+    "source": "1517",
+    "target": "4",
+    "type": "cooperates_with",
+    "doc_id": "2704140634"
+  },
+  {
+    "source": "1519",
+    "target": "4",
+    "type": "cooperates_with",
+    "doc_id": "2704140634"
+  },
+  {
+    "source": "1518",
+    "target": "1516",
+    "type": "cooperates_with",
+    "doc_id": "2704140634"
+  },
+  {
+    "source": "1555",
+    "target": "73",
+    "type": "cooperates_with",
+    "doc_id": "2704140634"
+  },
+  {
+    "source": "1537",
+    "target": "82",
+    "type": "founded_by",
+    "doc_id": "2704259032"
+  },
+  {
+    "source": "4",
+    "target": "71",
+    "type": "develops",
+    "doc_id": "2704259032"
+  },
+  {
+    "source": "0",
+    "target": "84",
+    "type": "focuses_on",
+    "doc_id": "2704259032"
+  },
+  {
+    "source": "171",
+    "target": "84",
+    "type": "focuses_on",
+    "doc_id": "2704259032"
+  },
+  {
+    "source": "50",
+    "target": "84",
+    "type": "focuses_on",
+    "doc_id": "2704259032"
+  },
+  {
+    "source": "5",
+    "target": "42",
+    "type": "develops",
+    "doc_id": "2704259032"
+  },
+  {
+    "source": "14",
+    "target": "42",
+    "type": "develops",
+    "doc_id": "2704259032"
+  },
+  {
+    "source": "61",
+    "target": "42",
+    "type": "develops",
+    "doc_id": "2704259032"
+  },
+  {
+    "source": "4",
+    "target": "14",
+    "type": "competes_with",
+    "doc_id": "2704259032"
+  },
+  {
+    "source": "61",
+    "target": "6",
+    "type": "focuses_on",
+    "doc_id": "2704259032"
+  },
+  {
+    "source": "1550",
+    "target": "107",
+    "type": "made_by",
+    "doc_id": "2704514741"
+  },
+  {
+    "source": "107",
+    "target": "1543",
+    "type": "researches",
+    "doc_id": "2704514741"
+  },
+  {
+    "source": "1550",
+    "target": "1544",
+    "type": "focuses_on",
+    "doc_id": "2704514741"
+  },
+  {
+    "source": "1550",
+    "target": "1545",
+    "type": "focuses_on",
+    "doc_id": "2704514741"
+  },
+  {
+    "source": "1550",
+    "target": "1546",
+    "type": "focuses_on",
+    "doc_id": "2704514741"
+  },
+  {
+    "source": "1550",
+    "target": "1547",
+    "type": "focuses_on",
+    "doc_id": "2704514741"
+  },
+  {
+    "source": "1",
+    "target": "1543",
+    "type": "researches",
+    "doc_id": "2704514741"
+  },
+  {
+    "source": "1303",
+    "target": "1543",
+    "type": "researches",
+    "doc_id": "2704514741"
+  },
+  {
+    "source": "107",
+    "target": "313",
+    "type": "researches",
+    "doc_id": "2704514741"
+  },
+  {
+    "source": "1",
+    "target": "1303",
+    "type": "competes_with",
+    "doc_id": "2704514741"
+  },
+  {
+    "source": "314",
+    "target": "1551",
+    "type": "made_by",
+    "doc_id": "2704576332"
+  },
+  {
+    "source": "1552",
+    "target": "16",
+    "type": "made_by",
+    "doc_id": "2704576332"
+  },
+  {
+    "source": "314",
+    "target": "32",
+    "type": "competes_with",
+    "doc_id": "2704576332"
+  },
+  {
+    "source": "1551",
+    "target": "1553",
+    "type": "cooperates_with",
+    "doc_id": "2704576332"
+  },
+  {
+    "source": "1557",
+    "target": "314",
+    "type": "made_by",
+    "doc_id": "2704576332"
+  },
+  {
+    "source": "16",
+    "target": "1554",
+    "type": "cooperates_with",
+    "doc_id": "2704576332"
+  },
+  {
+    "source": "16",
+    "target": "1555",
+    "type": "cooperates_with",
+    "doc_id": "2704576332"
+  },
+  {
+    "source": "314",
+    "target": "1558",
+    "type": "focuses_on",
+    "doc_id": "2704576332"
+  },
+  {
+    "source": "1569",
+    "target": "3",
+    "type": "develops",
+    "doc_id": "2704919347"
+  },
+  {
+    "source": "1569",
+    "target": "167",
+    "type": "develops",
+    "doc_id": "2704919347"
+  },
+  {
+    "source": "1569",
+    "target": "1567",
+    "type": "develops",
+    "doc_id": "2704919347"
+  },
+  {
+    "source": "65",
+    "target": "1569",
+    "type": "researches",
+    "doc_id": "2704919347"
+  },
+  {
+    "source": "12",
+    "target": "7",
+    "type": "focuses_on",
+    "doc_id": "2704919347"
+  },
+  {
+    "source": "3",
+    "target": "1568",
+    "type": "researches",
+    "doc_id": "2704919347"
+  },
+  {
+    "source": "24",
+    "target": "1569",
+    "type": "researches",
+    "doc_id": "2704919347"
+  },
+  {
+    "source": "89",
+    "target": "5",
+    "type": "made_by",
+    "doc_id": "2704973362"
+  },
+  {
+    "source": "5",
+    "target": "1574",
+    "type": "develops",
+    "doc_id": "2704973362"
+  },
+  {
+    "source": "89",
+    "target": "1573",
+    "type": "focuses_on",
+    "doc_id": "2704973362"
+  },
+  {
+    "source": "168",
+    "target": "171",
+    "type": "made_by",
+    "doc_id": "2705047087"
+  },
+  {
+    "source": "169",
+    "target": "171",
+    "type": "made_by",
+    "doc_id": "2705047087"
+  },
+  {
+    "source": "315",
+    "target": "171",
+    "type": "made_by",
+    "doc_id": "2705047087"
+  },
+  {
+    "source": "1575",
+    "target": "171",
+    "type": "made_by",
+    "doc_id": "2705047087"
+  },
+  {
+    "source": "1576",
+    "target": "171",
+    "type": "made_by",
+    "doc_id": "2705047087"
+  },
+  {
+    "source": "168",
+    "target": "1581",
+    "type": "focuses_on",
+    "doc_id": "2705047087"
+  },
+  {
+    "source": "169",
+    "target": "317",
+    "type": "focuses_on",
+    "doc_id": "2705047087"
+  },
+  {
+    "source": "315",
+    "target": "1578",
+    "type": "focuses_on",
+    "doc_id": "2705047087"
+  },
+  {
+    "source": "1575",
+    "target": "1578",
+    "type": "focuses_on",
+    "doc_id": "2705047087"
+  },
+  {
+    "source": "171",
+    "target": "76",
+    "type": "competes_with",
+    "doc_id": "2705047087"
+  },
+  {
+    "source": "2435",
+    "target": "1589",
+    "type": "focuses_on",
+    "doc_id": "2705059312"
+  },
+  {
+    "source": "4",
+    "target": "28",
+    "type": "focuses_on",
+    "doc_id": "2705059312"
+  },
+  {
+    "source": "1303",
+    "target": "28",
+    "type": "researches",
+    "doc_id": "2705059312"
+  },
+  {
+    "source": "321",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2705290835"
+  },
+  {
+    "source": "170",
+    "target": "34",
+    "type": "made_by",
+    "doc_id": "2705290835"
+  },
+  {
+    "source": "87",
+    "target": "171",
+    "type": "made_by",
+    "doc_id": "2705290835"
+  },
+  {
+    "source": "319",
+    "target": "8",
+    "type": "made_by",
+    "doc_id": "2705290835"
+  },
+  {
+    "source": "109",
+    "target": "1593",
+    "type": "competes_with",
+    "doc_id": "2705290835"
+  },
+  {
+    "source": "89",
+    "target": "1599",
+    "type": "focuses_on",
+    "doc_id": "2705290835"
+  },
+  {
+    "source": "170",
+    "target": "113",
+    "type": "competes_with",
+    "doc_id": "2705290835"
+  },
+  {
+    "source": "87",
+    "target": "1597",
+    "type": "researches",
+    "doc_id": "2705290835"
+  },
+  {
+    "source": "1603",
+    "target": "1604",
+    "type": "focuses_on",
+    "doc_id": "2705296344"
+  },
+  {
+    "source": "1606",
+    "target": "5",
+    "type": "cooperates_with",
+    "doc_id": "2705369390"
+  },
+  {
+    "source": "1607",
+    "target": "5",
+    "type": "cooperates_with",
+    "doc_id": "2705369390"
+  },
+  {
+    "source": "143",
+    "target": "5",
+    "type": "cooperates_with",
+    "doc_id": "2705369390"
+  },
+  {
+    "source": "5",
+    "target": "1609",
+    "type": "researches",
+    "doc_id": "2705369390"
+  },
+  {
+    "source": "5",
+    "target": "1610",
+    "type": "researches",
+    "doc_id": "2705369390"
+  },
+  {
+    "source": "5",
+    "target": "321",
+    "type": "focuses_on",
+    "doc_id": "2705369390"
+  },
+  {
+    "source": "1612",
+    "target": "1614",
+    "type": "develops",
+    "doc_id": "2705556472"
+  },
+  {
+    "source": "1614",
+    "target": "322",
+    "type": "focuses_on",
+    "doc_id": "2705556472"
+  },
+  {
+    "source": "321",
+    "target": "58",
+    "type": "develops",
+    "doc_id": "2705635548"
+  },
+  {
+    "source": "1617",
+    "target": "34",
+    "type": "made_by",
+    "doc_id": "2705635548"
+  },
+  {
+    "source": "1617",
+    "target": "170",
+    "type": "develops",
+    "doc_id": "2705635548"
+  },
+  {
+    "source": "1617",
+    "target": "321",
+    "type": "competes_with",
+    "doc_id": "2705635548"
+  },
+  {
+    "source": "1619",
+    "target": "321",
+    "type": "focuses_on",
+    "doc_id": "2705635548"
+  },
+  {
+    "source": "1620",
+    "target": "321",
+    "type": "focuses_on",
+    "doc_id": "2705635548"
+  },
+  {
+    "source": "321",
+    "target": "1624",
+    "type": "researches",
+    "doc_id": "2705635548"
+  },
+  {
+    "source": "0",
+    "target": "1625",
+    "type": "researches",
+    "doc_id": "2705635548"
+  },
+  {
+    "source": "11",
+    "target": "210",
+    "type": "cooperates_with",
+    "doc_id": "2706037259"
+  },
+  {
+    "source": "0",
+    "target": "67",
+    "type": "cooperates_with",
+    "doc_id": "2706037259"
+  },
+  {
+    "source": "0",
+    "target": "1628",
+    "type": "develops",
+    "doc_id": "2706037259"
+  },
+  {
+    "source": "210",
+    "target": "158",
+    "type": "focuses_on",
+    "doc_id": "2706037259"
+  },
+  {
+    "source": "0",
+    "target": "1629",
+    "type": "focuses_on",
+    "doc_id": "2706037259"
+  },
+  {
+    "source": "11",
+    "target": "1628",
+    "type": "cooperates_with",
+    "doc_id": "2706037259"
+  },
+  {
+    "source": "1634",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2706177182"
+  },
+  {
+    "source": "1633",
+    "target": "1634",
+    "type": "develops",
+    "doc_id": "2706177182"
+  },
+  {
+    "source": "1633",
+    "target": "323",
+    "type": "develops",
+    "doc_id": "2706177182"
+  },
+  {
+    "source": "1634",
+    "target": "323",
+    "type": "cooperates_with",
+    "doc_id": "2706177182"
+  },
+  {
+    "source": "1634",
+    "target": "40",
+    "type": "focuses_on",
+    "doc_id": "2706177182"
+  },
+  {
+    "source": "1",
+    "target": "40",
+    "type": "researches",
+    "doc_id": "2706177182"
+  },
+  {
+    "source": "1632",
+    "target": "1633",
+    "type": "competes_with",
+    "doc_id": "2706177182"
+  },
+  {
+    "source": "1633",
+    "target": "162",
+    "type": "focuses_on",
+    "doc_id": "2706177182"
+  },
+  {
+    "source": "1651",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2706177182"
+  },
+  {
+    "source": "1634",
+    "target": "1648",
+    "type": "focuses_on",
+    "doc_id": "2706177182"
+  },
+  {
+    "source": "8",
+    "target": "4",
+    "type": "competes_with",
+    "doc_id": "2707007075"
+  },
+  {
+    "source": "1",
+    "target": "173",
+    "type": "develops",
+    "doc_id": "2707007075"
+  },
+  {
+    "source": "319",
+    "target": "26",
+    "type": "competes_with",
+    "doc_id": "2707007075"
+  },
+  {
+    "source": "319",
+    "target": "1653",
+    "type": "focuses_on",
+    "doc_id": "2707007075"
+  },
+  {
+    "source": "89",
+    "target": "115",
+    "type": "focuses_on",
+    "doc_id": "2707007075"
+  },
+  {
+    "source": "1",
+    "target": "1749",
+    "type": "researches",
+    "doc_id": "2707007075"
+  },
+  {
+    "source": "1667",
+    "target": "93",
+    "type": "made_by",
+    "doc_id": "2707501024"
+  },
+  {
+    "source": "1667",
+    "target": "1662",
+    "type": "focuses_on",
+    "doc_id": "2707501024"
+  },
+  {
+    "source": "1667",
+    "target": "1663",
+    "type": "focuses_on",
+    "doc_id": "2707501024"
+  },
+  {
+    "source": "1661",
+    "target": "93",
+    "type": "founded_by",
+    "doc_id": "2707501024"
+  },
+  {
+    "source": "1060",
+    "target": "1662",
+    "type": "focuses_on",
+    "doc_id": "2707501024"
+  },
+  {
+    "source": "1",
+    "target": "7",
+    "type": "researches",
+    "doc_id": "2707501024"
+  },
+  {
+    "source": "16",
+    "target": "7",
+    "type": "researches",
+    "doc_id": "2707501024"
+  },
+  {
+    "source": "4",
+    "target": "7",
+    "type": "researches",
+    "doc_id": "2707501024"
+  },
+  {
+    "source": "1663",
+    "target": "1060",
+    "type": "competes_with",
+    "doc_id": "2707501024"
+  },
+  {
+    "source": "93",
+    "target": "1662",
+    "type": "researches",
+    "doc_id": "2707501024"
+  },
+  {
+    "source": "174",
+    "target": "8",
+    "type": "made_by",
+    "doc_id": "2707705947"
+  },
+  {
+    "source": "8",
+    "target": "64",
+    "type": "focuses_on",
+    "doc_id": "2707705947"
+  },
+  {
+    "source": "174",
+    "target": "7",
+    "type": "focuses_on",
+    "doc_id": "2707705947"
+  },
+  {
+    "source": "174",
+    "target": "137",
+    "type": "focuses_on",
+    "doc_id": "2707705947"
+  },
+  {
+    "source": "174",
+    "target": "296",
+    "type": "cooperates_with",
+    "doc_id": "2707705947"
+  },
+  {
+    "source": "174",
+    "target": "1668",
+    "type": "cooperates_with",
+    "doc_id": "2707705947"
+  },
+  {
+    "source": "153",
+    "target": "8",
+    "type": "made_by",
+    "doc_id": "2708405748"
+  },
+  {
+    "source": "1669",
+    "target": "8",
+    "type": "made_by",
+    "doc_id": "2708405748"
+  },
+  {
+    "source": "174",
+    "target": "1669",
+    "type": "cooperates_with",
+    "doc_id": "2708405748"
+  },
+  {
+    "source": "1671",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2709739716"
+  },
+  {
+    "source": "1672",
+    "target": "13",
+    "type": "acquired_by",
+    "doc_id": "2709739716"
+  },
+  {
+    "source": "128",
+    "target": "293",
+    "type": "made_by",
+    "doc_id": "2709739716"
+  },
+  {
+    "source": "1675",
+    "target": "41",
+    "type": "made_by",
+    "doc_id": "2709739716"
+  },
+  {
+    "source": "1671",
+    "target": "1675",
+    "type": "competes_with",
+    "doc_id": "2709739716"
+  },
+  {
+    "source": "128",
+    "target": "2478",
+    "type": "competes_with",
+    "doc_id": "2709739716"
+  },
+  {
+    "source": "13",
+    "target": "171",
+    "type": "competes_with",
+    "doc_id": "2709739716"
+  },
+  {
+    "source": "1680",
+    "target": "293",
+    "type": "focuses_on",
+    "doc_id": "2709739716"
+  },
+  {
+    "source": "1687",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2709924660"
+  },
+  {
+    "source": "1688",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2709924660"
+  },
+  {
+    "source": "1689",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2709924660"
+  },
+  {
+    "source": "1708",
+    "target": "1707",
+    "type": "researches",
+    "doc_id": "2709924660"
+  },
+  {
+    "source": "265",
+    "target": "266",
+    "type": "cooperates_with",
+    "doc_id": "2709924660"
+  },
+  {
+    "source": "265",
+    "target": "93",
+    "type": "cooperates_with",
+    "doc_id": "2709924660"
+  },
+  {
+    "source": "1690",
+    "target": "1708",
+    "type": "researches",
+    "doc_id": "2709924660"
+  },
+  {
+    "source": "13",
+    "target": "102",
+    "type": "focuses_on",
+    "doc_id": "2709924660"
+  },
+  {
+    "source": "1689",
+    "target": "1703",
+    "type": "focuses_on",
+    "doc_id": "2709924660"
+  },
+  {
+    "source": "328",
+    "target": "1",
+    "type": "founded_by",
+    "doc_id": "2710189046"
+  },
+  {
+    "source": "1",
+    "target": "10",
+    "type": "cooperates_with",
+    "doc_id": "2710189046"
+  },
+  {
+    "source": "1",
+    "target": "24",
+    "type": "cooperates_with",
+    "doc_id": "2710189046"
+  },
+  {
+    "source": "1",
+    "target": "88",
+    "type": "cooperates_with",
+    "doc_id": "2710189046"
+  },
+  {
+    "source": "1",
+    "target": "160",
+    "type": "cooperates_with",
+    "doc_id": "2710189046"
+  },
+  {
+    "source": "1",
+    "target": "1723",
+    "type": "develops",
+    "doc_id": "2710189046"
+  },
+  {
+    "source": "1",
+    "target": "1724",
+    "type": "develops",
+    "doc_id": "2710189046"
+  },
+  {
+    "source": "1",
+    "target": "1725",
+    "type": "develops",
+    "doc_id": "2710189046"
+  },
+  {
+    "source": "1713",
+    "target": "24",
+    "type": "made_by",
+    "doc_id": "2710189046"
+  },
+  {
+    "source": "1728",
+    "target": "1727",
+    "type": "made_by",
+    "doc_id": "2710916122"
+  },
+  {
+    "source": "1727",
+    "target": "1728",
+    "type": "develops",
+    "doc_id": "2710916122"
+  },
+  {
+    "source": "1727",
+    "target": "1734",
+    "type": "researches",
+    "doc_id": "2710916122"
+  },
+  {
+    "source": "1728",
+    "target": "1735",
+    "type": "focuses_on",
+    "doc_id": "2710916122"
+  },
+  {
+    "source": "1728",
+    "target": "1736",
+    "type": "focuses_on",
+    "doc_id": "2710916122"
+  },
+  {
+    "source": "1730",
+    "target": "1745",
+    "type": "researches",
+    "doc_id": "2710916122"
+  },
+  {
+    "source": "8",
+    "target": "7",
+    "type": "researches",
+    "doc_id": "2710916122"
+  },
+  {
+    "source": "3",
+    "target": "112",
+    "type": "researches",
+    "doc_id": "2710916122"
+  },
+  {
+    "source": "8",
+    "target": "3",
+    "type": "competes_with",
+    "doc_id": "2710916122"
+  },
+  {
+    "source": "1746",
+    "target": "8",
+    "type": "made_by",
+    "doc_id": "2713683682"
+  },
+  {
+    "source": "1747",
+    "target": "8",
+    "type": "made_by",
+    "doc_id": "2713683682"
+  },
+  {
+    "source": "1748",
+    "target": "8",
+    "type": "made_by",
+    "doc_id": "2713683682"
+  },
+  {
+    "source": "1746",
+    "target": "331",
+    "type": "develops",
+    "doc_id": "2713683682"
+  },
+  {
+    "source": "1747",
+    "target": "331",
+    "type": "develops",
+    "doc_id": "2713683682"
+  },
+  {
+    "source": "1748",
+    "target": "331",
+    "type": "develops",
+    "doc_id": "2713683682"
+  },
+  {
+    "source": "8",
+    "target": "1754",
+    "type": "focuses_on",
+    "doc_id": "2713683682"
+  },
+  {
+    "source": "3",
+    "target": "1749",
+    "type": "researches",
+    "doc_id": "2713683682"
+  },
+  {
+    "source": "1303",
+    "target": "1749",
+    "type": "researches",
+    "doc_id": "2713683682"
+  },
+  {
+    "source": "1764",
+    "target": "16",
+    "type": "made_by",
+    "doc_id": "2714023502"
+  },
+  {
+    "source": "16",
+    "target": "1772",
+    "type": "develops",
+    "doc_id": "2714023502"
+  },
+  {
+    "source": "16",
+    "target": "1765",
+    "type": "researches",
+    "doc_id": "2714023502"
+  },
+  {
+    "source": "310",
+    "target": "1770",
+    "type": "researches",
+    "doc_id": "2714023502"
+  },
+  {
+    "source": "1764",
+    "target": "1768",
+    "type": "focuses_on",
+    "doc_id": "2714023502"
+  },
+  {
+    "source": "1764",
+    "target": "17",
+    "type": "competes_with",
+    "doc_id": "2714023502"
+  },
+  {
+    "source": "1764",
+    "target": "73",
+    "type": "competes_with",
+    "doc_id": "2714023502"
+  },
+  {
+    "source": "1762",
+    "target": "16",
+    "type": "founded_by",
+    "doc_id": "2714023502"
+  },
+  {
+    "source": "16",
+    "target": "1771",
+    "type": "focuses_on",
+    "doc_id": "2714023502"
+  },
+  {
+    "source": "1772",
+    "target": "1765",
+    "type": "focuses_on",
+    "doc_id": "2714023502"
+  },
+  {
+    "source": "1785",
+    "target": "4",
+    "type": "made_by",
+    "doc_id": "2714495389"
+  },
+  {
+    "source": "4",
+    "target": "18",
+    "type": "researches",
+    "doc_id": "2714495389"
+  },
+  {
+    "source": "4",
+    "target": "15",
+    "type": "focuses_on",
+    "doc_id": "2714495389"
+  },
+  {
+    "source": "4",
+    "target": "1782",
+    "type": "develops",
+    "doc_id": "2714495389"
+  },
+  {
+    "source": "4",
+    "target": "1783",
+    "type": "researches",
+    "doc_id": "2714495389"
+  },
+  {
+    "source": "0",
+    "target": "18",
+    "type": "develops",
+    "doc_id": "2714495389"
+  },
+  {
+    "source": "12",
+    "target": "18",
+    "type": "researches",
+    "doc_id": "2714495389"
+  },
+  {
+    "source": "1",
+    "target": "12",
+    "type": "competes_with",
+    "doc_id": "2714495389"
+  },
+  {
+    "source": "133",
+    "target": "18",
+    "type": "focuses_on",
+    "doc_id": "2714495389"
+  },
+  {
+    "source": "1789",
+    "target": "554",
+    "type": "made_by",
+    "doc_id": "2718010969"
+  },
+  {
+    "source": "1793",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2718010969"
+  },
+  {
+    "source": "3",
+    "target": "1787",
+    "type": "acquired_by",
+    "doc_id": "2718010969"
+  },
+  {
+    "source": "23",
+    "target": "5",
+    "type": "cooperates_with",
+    "doc_id": "2718010969"
+  },
+  {
+    "source": "23",
+    "target": "0",
+    "type": "cooperates_with",
+    "doc_id": "2718010969"
+  },
+  {
+    "source": "21",
+    "target": "332",
+    "type": "cooperates_with",
+    "doc_id": "2718010969"
+  },
+  {
+    "source": "285",
+    "target": "1788",
+    "type": "cooperates_with",
+    "doc_id": "2718010969"
+  },
+  {
+    "source": "3",
+    "target": "1798",
+    "type": "develops",
+    "doc_id": "2718010969"
+  },
+  {
+    "source": "1",
+    "target": "106",
+    "type": "researches",
+    "doc_id": "2718010969"
+  },
+  {
+    "source": "1815",
+    "target": "268",
+    "type": "founded_by",
+    "doc_id": "2718474783"
+  },
+  {
+    "source": "1821",
+    "target": "268",
+    "type": "made_by",
+    "doc_id": "2718474783"
+  },
+  {
+    "source": "268",
+    "target": "1816",
+    "type": "researches",
+    "doc_id": "2718474783"
+  },
+  {
+    "source": "268",
+    "target": "33",
+    "type": "researches",
+    "doc_id": "2718474783"
+  },
+  {
+    "source": "33",
+    "target": "81",
+    "type": "focuses_on",
+    "doc_id": "2718474783"
+  },
+  {
+    "source": "291",
+    "target": "33",
+    "type": "competes_with",
+    "doc_id": "2718474783"
+  },
+  {
+    "source": "1816",
+    "target": "1804",
+    "type": "focuses_on",
+    "doc_id": "2718474783"
+  },
+  {
+    "source": "334",
+    "target": "268",
+    "type": "founded_by",
+    "doc_id": "2718474783"
+  },
+  {
+    "source": "1806",
+    "target": "273",
+    "type": "founded_by",
+    "doc_id": "2718474783"
+  },
+  {
+    "source": "81",
+    "target": "1819",
+    "type": "focuses_on",
+    "doc_id": "2718474783"
+  },
+  {
+    "source": "1829",
+    "target": "1822",
+    "type": "made_by",
+    "doc_id": "2720644247"
+  },
+  {
+    "source": "1830",
+    "target": "11",
+    "type": "made_by",
+    "doc_id": "2720644247"
+  },
+  {
+    "source": "226",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2720644247"
+  },
+  {
+    "source": "1833",
+    "target": "174",
+    "type": "competes_with",
+    "doc_id": "2720644247"
+  },
+  {
+    "source": "1835",
+    "target": "87",
+    "type": "competes_with",
+    "doc_id": "2720644247"
+  },
+  {
+    "source": "1832",
+    "target": "27",
+    "type": "made_by",
+    "doc_id": "2720644247"
+  },
+  {
+    "source": "1842",
+    "target": "14",
+    "type": "made_by",
+    "doc_id": "2720644247"
+  },
+  {
+    "source": "5",
+    "target": "1850",
+    "type": "researches",
+    "doc_id": "2720644247"
+  },
+  {
+    "source": "3",
+    "target": "104",
+    "type": "develops",
+    "doc_id": "2720644247"
+  },
+  {
+    "source": "59",
+    "target": "5",
+    "type": "made_by",
+    "doc_id": "2720792800"
+  },
+  {
+    "source": "155",
+    "target": "156",
+    "type": "cooperates_with",
+    "doc_id": "2720792800"
+  },
+  {
+    "source": "340",
+    "target": "1859",
+    "type": "made_by",
+    "doc_id": "2720792800"
+  },
+  {
+    "source": "1866",
+    "target": "14",
+    "type": "made_by",
+    "doc_id": "2720792800"
+  },
+  {
+    "source": "178",
+    "target": "27",
+    "type": "made_by",
+    "doc_id": "2720792800"
+  },
+  {
+    "source": "1868",
+    "target": "336",
+    "type": "made_by",
+    "doc_id": "2720792800"
+  },
+  {
+    "source": "1860",
+    "target": "171",
+    "type": "cooperates_with",
+    "doc_id": "2720792800"
+  },
+  {
+    "source": "1864",
+    "target": "1862",
+    "type": "competes_with",
+    "doc_id": "2720792800"
+  },
+  {
+    "source": "1861",
+    "target": "3",
+    "type": "competes_with",
+    "doc_id": "2720792800"
+  },
+  {
+    "source": "1884",
+    "target": "252",
+    "type": "made_by",
+    "doc_id": "2720841423"
+  },
+  {
+    "source": "252",
+    "target": "1881",
+    "type": "researches",
+    "doc_id": "2720841423"
+  },
+  {
+    "source": "252",
+    "target": "1887",
+    "type": "develops",
+    "doc_id": "2720841423"
+  },
+  {
+    "source": "1884",
+    "target": "1883",
+    "type": "focuses_on",
+    "doc_id": "2720841423"
+  },
+  {
+    "source": "1",
+    "target": "18",
+    "type": "researches",
+    "doc_id": "2720841423"
+  },
+  {
+    "source": "147",
+    "target": "1882",
+    "type": "focuses_on",
+    "doc_id": "2720841423"
+  },
+  {
+    "source": "66",
+    "target": "1882",
+    "type": "focuses_on",
+    "doc_id": "2720841423"
+  },
+  {
+    "source": "1880",
+    "target": "252",
+    "type": "cooperates_with",
+    "doc_id": "2720841423"
+  },
+  {
+    "source": "1884",
+    "target": "1885",
+    "type": "competes_with",
+    "doc_id": "2720841423"
+  },
+  {
+    "source": "1889",
+    "target": "1888",
+    "type": "made_by",
+    "doc_id": "2721126437"
+  },
+  {
+    "source": "1888",
+    "target": "1894",
+    "type": "researches",
+    "doc_id": "2721126437"
+  },
+  {
+    "source": "1303",
+    "target": "303",
+    "type": "researches",
+    "doc_id": "2721126437"
+  },
+  {
+    "source": "80",
+    "target": "15",
+    "type": "researches",
+    "doc_id": "2721126437"
+  },
+  {
+    "source": "334",
+    "target": "191",
+    "type": "researches",
+    "doc_id": "2721126437"
+  },
+  {
+    "source": "1889",
+    "target": "1896",
+    "type": "focuses_on",
+    "doc_id": "2721126437"
+  },
+  {
+    "source": "1890",
+    "target": "1899",
+    "type": "develops",
+    "doc_id": "2721126437"
+  },
+  {
+    "source": "1913",
+    "target": "167",
+    "type": "made_by",
+    "doc_id": "2722114384"
+  },
+  {
+    "source": "1913",
+    "target": "1908",
+    "type": "focuses_on",
+    "doc_id": "2722114384"
+  },
+  {
+    "source": "167",
+    "target": "1909",
+    "type": "researches",
+    "doc_id": "2722114384"
+  },
+  {
+    "source": "167",
+    "target": "1910",
+    "type": "researches",
+    "doc_id": "2722114384"
+  },
+  {
+    "source": "4",
+    "target": "6",
+    "type": "researches",
+    "doc_id": "2722114384"
+  },
+  {
+    "source": "12",
+    "target": "6",
+    "type": "researches",
+    "doc_id": "2722114384"
+  },
+  {
+    "source": "24",
+    "target": "6",
+    "type": "researches",
+    "doc_id": "2722114384"
+  },
+  {
+    "source": "343",
+    "target": "15",
+    "type": "researches",
+    "doc_id": "2722114384"
+  },
+  {
+    "source": "18",
+    "target": "1909",
+    "type": "focuses_on",
+    "doc_id": "2722114384"
+  },
+  {
+    "source": "1901",
+    "target": "167",
+    "type": "cooperates_with",
+    "doc_id": "2722114384"
+  },
+  {
+    "source": "1934",
+    "target": "1914",
+    "type": "made_by",
+    "doc_id": "2722983029"
+  },
+  {
+    "source": "1934",
+    "target": "1916",
+    "type": "made_by",
+    "doc_id": "2722983029"
+  },
+  {
+    "source": "1934",
+    "target": "1917",
+    "type": "made_by",
+    "doc_id": "2722983029"
+  },
+  {
+    "source": "1934",
+    "target": "1915",
+    "type": "made_by",
+    "doc_id": "2722983029"
+  },
+  {
+    "source": "1934",
+    "target": "1931",
+    "type": "focuses_on",
+    "doc_id": "2722983029"
+  },
+  {
+    "source": "1",
+    "target": "6",
+    "type": "focuses_on",
+    "doc_id": "2722983029"
+  },
+  {
+    "source": "11",
+    "target": "15",
+    "type": "researches",
+    "doc_id": "2722983029"
+  },
+  {
+    "source": "35",
+    "target": "1930",
+    "type": "researches",
+    "doc_id": "2722983029"
+  },
+  {
+    "source": "344",
+    "target": "1932",
+    "type": "researches",
+    "doc_id": "2722983029"
+  },
+  {
+    "source": "1914",
+    "target": "345",
+    "type": "researches",
+    "doc_id": "2722983029"
+  },
+  {
+    "source": "1939",
+    "target": "10",
+    "type": "made_by",
+    "doc_id": "2723501124"
+  },
+  {
+    "source": "1940",
+    "target": "8",
+    "type": "made_by",
+    "doc_id": "2723501124"
+  },
+  {
+    "source": "1941",
+    "target": "34",
+    "type": "made_by",
+    "doc_id": "2723501124"
+  },
+  {
+    "source": "1944",
+    "target": "341",
+    "type": "cooperates_with",
+    "doc_id": "2723501124"
+  },
+  {
+    "source": "116",
+    "target": "1935",
+    "type": "acquired_by",
+    "doc_id": "2723501124"
+  },
+  {
+    "source": "1947",
+    "target": "61",
+    "type": "made_by",
+    "doc_id": "2723501124"
+  },
+  {
+    "source": "1946",
+    "target": "4",
+    "type": "made_by",
+    "doc_id": "2723501124"
+  },
+  {
+    "source": "1942",
+    "target": "21",
+    "type": "made_by",
+    "doc_id": "2723501124"
+  },
+  {
+    "source": "0",
+    "target": "346",
+    "type": "develops",
+    "doc_id": "2723501124"
+  },
+  {
+    "source": "1967",
+    "target": "1964",
+    "type": "made_by",
+    "doc_id": "2726713068"
+  },
+  {
+    "source": "1967",
+    "target": "1963",
+    "type": "made_by",
+    "doc_id": "2726713068"
+  },
+  {
+    "source": "1967",
+    "target": "1965",
+    "type": "made_by",
+    "doc_id": "2726713068"
+  },
+  {
+    "source": "1968",
+    "target": "1964",
+    "type": "founded_by",
+    "doc_id": "2726713068"
+  },
+  {
+    "source": "1969",
+    "target": "1965",
+    "type": "founded_by",
+    "doc_id": "2726713068"
+  },
+  {
+    "source": "1966",
+    "target": "12",
+    "type": "made_by",
+    "doc_id": "2726713068"
+  },
+  {
+    "source": "1967",
+    "target": "1970",
+    "type": "focuses_on",
+    "doc_id": "2726713068"
+  },
+  {
+    "source": "68",
+    "target": "56",
+    "type": "researches",
+    "doc_id": "2726713068"
+  },
+  {
+    "source": "343",
+    "target": "42",
+    "type": "researches",
+    "doc_id": "2726713068"
+  },
+  {
+    "source": "54",
+    "target": "8",
+    "type": "made_by",
+    "doc_id": "2727031842"
+  },
+  {
+    "source": "349",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2727031842"
+  },
+  {
+    "source": "350",
+    "target": "4",
+    "type": "made_by",
+    "doc_id": "2727031842"
+  },
+  {
+    "source": "1981",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2727031842"
+  },
+  {
+    "source": "1982",
+    "target": "14",
+    "type": "made_by",
+    "doc_id": "2727031842"
+  },
+  {
+    "source": "1983",
+    "target": "21",
+    "type": "made_by",
+    "doc_id": "2727031842"
+  },
+  {
+    "source": "0",
+    "target": "1976",
+    "type": "cooperates_with",
+    "doc_id": "2727031842"
+  },
+  {
+    "source": "10",
+    "target": "1975",
+    "type": "acquired_by",
+    "doc_id": "2727031842"
+  },
+  {
+    "source": "1981",
+    "target": "1979",
+    "type": "cooperates_with",
+    "doc_id": "2727031842"
+  },
+  {
+    "source": "8",
+    "target": "0",
+    "type": "competes_with",
+    "doc_id": "2727031842"
+  },
+  {
+    "source": "2008",
+    "target": "65",
+    "type": "made_by",
+    "doc_id": "2727454131"
+  },
+  {
+    "source": "2008",
+    "target": "2009",
+    "type": "made_by",
+    "doc_id": "2727454131"
+  },
+  {
+    "source": "2008",
+    "target": "2010",
+    "type": "made_by",
+    "doc_id": "2727454131"
+  },
+  {
+    "source": "2008",
+    "target": "304",
+    "type": "made_by",
+    "doc_id": "2727454131"
+  },
+  {
+    "source": "2008",
+    "target": "2007",
+    "type": "made_by",
+    "doc_id": "2727454131"
+  },
+  {
+    "source": "2008",
+    "target": "2011",
+    "type": "focuses_on",
+    "doc_id": "2727454131"
+  },
+  {
+    "source": "2006",
+    "target": "63",
+    "type": "researches",
+    "doc_id": "2727454131"
+  },
+  {
+    "source": "65",
+    "target": "3",
+    "type": "cooperates_with",
+    "doc_id": "2727454131"
+  },
+  {
+    "source": "2008",
+    "target": "199",
+    "type": "focuses_on",
+    "doc_id": "2727454131"
+  },
+  {
+    "source": "2008",
+    "target": "18",
+    "type": "focuses_on",
+    "doc_id": "2727454131"
+  },
+  {
+    "source": "2020",
+    "target": "4",
+    "type": "made_by",
+    "doc_id": "2728155415"
+  },
+  {
+    "source": "356",
+    "target": "14",
+    "type": "made_by",
+    "doc_id": "2728155415"
+  },
+  {
+    "source": "2026",
+    "target": "8",
+    "type": "made_by",
+    "doc_id": "2728155415"
+  },
+  {
+    "source": "10",
+    "target": "0",
+    "type": "cooperates_with",
+    "doc_id": "2728155415"
+  },
+  {
+    "source": "13",
+    "target": "9",
+    "type": "competes_with",
+    "doc_id": "2728155415"
+  },
+  {
+    "source": "0",
+    "target": "116",
+    "type": "cooperates_with",
+    "doc_id": "2728433345"
+  },
+  {
+    "source": "3",
+    "target": "67",
+    "type": "cooperates_with",
+    "doc_id": "2728433345"
+  },
+  {
+    "source": "8",
+    "target": "355",
+    "type": "develops",
+    "doc_id": "2728433345"
+  },
+  {
+    "source": "5",
+    "target": "2052",
+    "type": "develops",
+    "doc_id": "2728433345"
+  },
+  {
+    "source": "14",
+    "target": "356",
+    "type": "develops",
+    "doc_id": "2728433345"
+  },
+  {
+    "source": "110",
+    "target": "362",
+    "type": "cooperates_with",
+    "doc_id": "2728433345"
+  },
+  {
+    "source": "21",
+    "target": "358",
+    "type": "cooperates_with",
+    "doc_id": "2728433345"
+  },
+  {
+    "source": "2084",
+    "target": "10",
+    "type": "made_by",
+    "doc_id": "2729057112"
+  },
+  {
+    "source": "10",
+    "target": "15",
+    "type": "researches",
+    "doc_id": "2729057112"
+  },
+  {
+    "source": "2084",
+    "target": "2073",
+    "type": "focuses_on",
+    "doc_id": "2729057112"
+  },
+  {
+    "source": "0",
+    "target": "5",
+    "type": "cooperates_with",
+    "doc_id": "2729057112"
+  },
+  {
+    "source": "0",
+    "target": "72",
+    "type": "cooperates_with",
+    "doc_id": "2729057112"
+  },
+  {
+    "source": "5",
+    "target": "72",
+    "type": "cooperates_with",
+    "doc_id": "2729057112"
+  },
+  {
+    "source": "4",
+    "target": "15",
+    "type": "researches",
+    "doc_id": "2729057112"
+  },
+  {
+    "source": "3",
+    "target": "15",
+    "type": "researches",
+    "doc_id": "2729057112"
+  },
+  {
+    "source": "2084",
+    "target": "81",
+    "type": "focuses_on",
+    "doc_id": "2729057112"
+  },
+  {
+    "source": "10",
+    "target": "2086",
+    "type": "focuses_on",
+    "doc_id": "2729057112"
+  },
+  {
+    "source": "2091",
+    "target": "888",
+    "type": "made_by",
+    "doc_id": "2729868029"
+  },
+  {
+    "source": "2099",
+    "target": "888",
+    "type": "focuses_on",
+    "doc_id": "2729868029"
+  },
+  {
+    "source": "2098",
+    "target": "888",
+    "type": "focuses_on",
+    "doc_id": "2729868029"
+  },
+  {
+    "source": "2092",
+    "target": "332",
+    "type": "made_by",
+    "doc_id": "2729868029"
+  },
+  {
+    "source": "2092",
+    "target": "93",
+    "type": "made_by",
+    "doc_id": "2729868029"
+  },
+  {
+    "source": "2093",
+    "target": "23",
+    "type": "made_by",
+    "doc_id": "2729868029"
+  },
+  {
+    "source": "2094",
+    "target": "68",
+    "type": "made_by",
+    "doc_id": "2729868029"
+  },
+  {
+    "source": "2094",
+    "target": "365",
+    "type": "made_by",
+    "doc_id": "2729868029"
+  },
+  {
+    "source": "68",
+    "target": "365",
+    "type": "cooperates_with",
+    "doc_id": "2729868029"
+  },
+  {
+    "source": "332",
+    "target": "93",
+    "type": "cooperates_with",
+    "doc_id": "2729868029"
+  },
+  {
+    "source": "2109",
+    "target": "4",
+    "type": "made_by",
+    "doc_id": "2731571214"
+  },
+  {
+    "source": "357",
+    "target": "12",
+    "type": "made_by",
+    "doc_id": "2731571214"
+  },
+  {
+    "source": "2110",
+    "target": "12",
+    "type": "made_by",
+    "doc_id": "2731571214"
+  },
+  {
+    "source": "324",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2731571214"
+  },
+  {
+    "source": "2112",
+    "target": "21",
+    "type": "made_by",
+    "doc_id": "2731571214"
+  },
+  {
+    "source": "2119",
+    "target": "14",
+    "type": "made_by",
+    "doc_id": "2731571214"
+  },
+  {
+    "source": "5",
+    "target": "8",
+    "type": "cooperates_with",
+    "doc_id": "2731571214"
+  },
+  {
+    "source": "2139",
+    "target": "24",
+    "type": "made_by",
+    "doc_id": "2732410826"
+  },
+  {
+    "source": "2139",
+    "target": "273",
+    "type": "made_by",
+    "doc_id": "2732410826"
+  },
+  {
+    "source": "2150",
+    "target": "24",
+    "type": "focuses_on",
+    "doc_id": "2732410826"
+  },
+  {
+    "source": "2142",
+    "target": "24",
+    "type": "cooperates_with",
+    "doc_id": "2732410826"
+  },
+  {
+    "source": "2141",
+    "target": "273",
+    "type": "cooperates_with",
+    "doc_id": "2732410826"
+  },
+  {
+    "source": "23",
+    "target": "2151",
+    "type": "researches",
+    "doc_id": "2732410826"
+  },
+  {
+    "source": "24",
+    "target": "273",
+    "type": "cooperates_with",
+    "doc_id": "2732410826"
+  },
+  {
+    "source": "2139",
+    "target": "313",
+    "type": "focuses_on",
+    "doc_id": "2732410826"
+  },
+  {
+    "source": "172",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2732808468"
+  },
+  {
+    "source": "370",
+    "target": "10",
+    "type": "made_by",
+    "doc_id": "2732808468"
+  },
+  {
+    "source": "2160",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2732808468"
+  },
+  {
+    "source": "369",
+    "target": "2155",
+    "type": "made_by",
+    "doc_id": "2732808468"
+  },
+  {
+    "source": "11",
+    "target": "73",
+    "type": "cooperates_with",
+    "doc_id": "2732808468"
+  },
+  {
+    "source": "73",
+    "target": "0",
+    "type": "competes_with",
+    "doc_id": "2732808468"
+  },
+  {
+    "source": "164",
+    "target": "26",
+    "type": "competes_with",
+    "doc_id": "2732808468"
+  },
+  {
+    "source": "0",
+    "target": "179",
+    "type": "cooperates_with",
+    "doc_id": "2732875970"
+  },
+  {
+    "source": "373",
+    "target": "73",
+    "type": "focuses_on",
+    "doc_id": "2732875970"
+  },
+  {
+    "source": "51",
+    "target": "2186",
+    "type": "develops",
+    "doc_id": "2732875970"
+  },
+  {
+    "source": "1",
+    "target": "328",
+    "type": "cooperates_with",
+    "doc_id": "2732875970"
+  },
+  {
+    "source": "3",
+    "target": "30",
+    "type": "researches",
+    "doc_id": "2732875970"
+  },
+  {
+    "source": "2199",
+    "target": "11",
+    "type": "made_by",
+    "doc_id": "2732898066"
+  },
+  {
+    "source": "2200",
+    "target": "2195",
+    "type": "cooperates_with",
+    "doc_id": "2732898066"
+  },
+  {
+    "source": "369",
+    "target": "27",
+    "type": "made_by",
+    "doc_id": "2732898066"
+  },
+  {
+    "source": "314",
+    "target": "2205",
+    "type": "competes_with",
+    "doc_id": "2732898066"
+  },
+  {
+    "source": "325",
+    "target": "72",
+    "type": "acquired_by",
+    "doc_id": "2732898066"
+  },
+  {
+    "source": "0",
+    "target": "372",
+    "type": "focuses_on",
+    "doc_id": "2732898066"
+  },
+  {
+    "source": "10",
+    "target": "38",
+    "type": "researches",
+    "doc_id": "2732898066"
+  },
+  {
+    "source": "374",
+    "target": "14",
+    "type": "made_by",
+    "doc_id": "2733392691"
+  },
+  {
+    "source": "168",
+    "target": "1555",
+    "type": "focuses_on",
+    "doc_id": "2733392691"
+  },
+  {
+    "source": "171",
+    "target": "24",
+    "type": "cooperates_with",
+    "doc_id": "2733392691"
+  },
+  {
+    "source": "89",
+    "target": "113",
+    "type": "competes_with",
+    "doc_id": "2733392691"
+  },
+  {
+    "source": "374",
+    "target": "32",
+    "type": "competes_with",
+    "doc_id": "2733392691"
+  },
+  {
+    "source": "2226",
+    "target": "83",
+    "type": "made_by",
+    "doc_id": "2734448170"
+  },
+  {
+    "source": "2223",
+    "target": "2526",
+    "type": "made_by",
+    "doc_id": "2734448170"
+  },
+  {
+    "source": "2224",
+    "target": "3",
+    "type": "made_by",
+    "doc_id": "2734448170"
+  },
+  {
+    "source": "2225",
+    "target": "12",
+    "type": "made_by",
+    "doc_id": "2734448170"
+  },
+  {
+    "source": "2226",
+    "target": "115",
+    "type": "focuses_on",
+    "doc_id": "2734448170"
+  },
+  {
+    "source": "2223",
+    "target": "2236",
+    "type": "focuses_on",
+    "doc_id": "2734448170"
+  },
+  {
+    "source": "5",
+    "target": "18",
+    "type": "researches",
+    "doc_id": "2734448170"
+  },
+  {
+    "source": "2225",
+    "target": "2238",
+    "type": "focuses_on",
+    "doc_id": "2734448170"
+  },
+  {
+    "source": "108",
+    "target": "14",
+    "type": "made_by",
+    "doc_id": "2735362231"
+  },
+  {
+    "source": "2244",
+    "target": "272",
+    "type": "made_by",
+    "doc_id": "2735362231"
+  },
+  {
+    "source": "2246",
+    "target": "11",
+    "type": "made_by",
+    "doc_id": "2735362231"
+  },
+  {
+    "source": "2245",
+    "target": "45",
+    "type": "made_by",
+    "doc_id": "2735362231"
+  },
+  {
+    "source": "2241",
+    "target": "35",
+    "type": "made_by",
+    "doc_id": "2735362231"
+  },
+  {
+    "source": "3",
+    "target": "8",
+    "type": "cooperates_with",
+    "doc_id": "2735362231"
+  },
+  {
+    "source": "0",
+    "target": "51",
+    "type": "competes_with",
+    "doc_id": "2735362231"
+  },
+  {
+    "source": "0",
+    "target": "2250",
+    "type": "cooperates_with",
+    "doc_id": "2735362231"
+  },
+  {
+    "source": "108",
+    "target": "2254",
+    "type": "researches",
+    "doc_id": "2735362231"
+  },
+  {
+    "source": "2262",
+    "target": "45",
+    "type": "made_by",
+    "doc_id": "2737213538"
+  },
+  {
+    "source": "45",
+    "target": "68",
+    "type": "cooperates_with",
+    "doc_id": "2737213538"
+  },
+  {
+    "source": "2262",
+    "target": "15",
+    "type": "focuses_on",
+    "doc_id": "2737213538"
+  },
+  {
+    "source": "45",
+    "target": "2276",
+    "type": "develops",
+    "doc_id": "2737213538"
+  },
+  {
+    "source": "68",
+    "target": "15",
+    "type": "researches",
+    "doc_id": "2737213538"
+  },
+  {
+    "source": "2278",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2739661566"
+  },
+  {
+    "source": "0",
+    "target": "2286",
+    "type": "researches",
+    "doc_id": "2739661566"
+  },
+  {
+    "source": "0",
+    "target": "2292",
+    "type": "develops",
+    "doc_id": "2739661566"
+  },
+  {
+    "source": "2286",
+    "target": "2278",
+    "type": "focuses_on",
+    "doc_id": "2739661566"
+  },
+  {
+    "source": "1303",
+    "target": "2287",
+    "type": "researches",
+    "doc_id": "2739661566"
+  },
+  {
+    "source": "2277",
+    "target": "56",
+    "type": "researches",
+    "doc_id": "2739661566"
+  },
+  {
+    "source": "2287",
+    "target": "56",
+    "type": "focuses_on",
+    "doc_id": "2739661566"
+  },
+  {
+    "source": "2289",
+    "target": "263",
+    "type": "focuses_on",
+    "doc_id": "2739661566"
+  },
+  {
+    "source": "2286",
+    "target": "2290",
+    "type": "cooperates_with",
+    "doc_id": "2739661566"
+  },
+  {
+    "source": "1303",
+    "target": "56",
+    "type": "researches",
+    "doc_id": "2739661566"
+  },
+  {
+    "source": "2310",
+    "target": "5",
+    "type": "made_by",
+    "doc_id": "2741244234"
+  },
+  {
+    "source": "5",
+    "target": "2302",
+    "type": "researches",
+    "doc_id": "2741244234"
+  },
+  {
+    "source": "5",
+    "target": "2303",
+    "type": "researches",
+    "doc_id": "2741244234"
+  },
+  {
+    "source": "2293",
+    "target": "141",
+    "type": "researches",
+    "doc_id": "2741244234"
+  },
+  {
+    "source": "2293",
+    "target": "273",
+    "type": "cooperates_with",
+    "doc_id": "2741244234"
+  },
+  {
+    "source": "4",
+    "target": "2307",
+    "type": "researches",
+    "doc_id": "2741244234"
+  },
+  {
+    "source": "273",
+    "target": "141",
+    "type": "researches",
+    "doc_id": "2741244234"
+  },
+  {
+    "source": "2302",
+    "target": "2304",
+    "type": "competes_with",
+    "doc_id": "2741244234"
+  },
+  {
+    "source": "2316",
+    "target": "171",
+    "type": "made_by",
+    "doc_id": "2741369286"
+  },
+  {
+    "source": "2318",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2741369286"
+  },
+  {
+    "source": "2319",
+    "target": "8",
+    "type": "made_by",
+    "doc_id": "2741369286"
+  },
+  {
+    "source": "2323",
+    "target": "77",
+    "type": "made_by",
+    "doc_id": "2741369286"
+  },
+  {
+    "source": "157",
+    "target": "16",
+    "type": "made_by",
+    "doc_id": "2741369286"
+  },
+  {
+    "source": "282",
+    "target": "2242",
+    "type": "made_by",
+    "doc_id": "2741369286"
+  },
+  {
+    "source": "8",
+    "target": "383",
+    "type": "focuses_on",
+    "doc_id": "2741369286"
+  },
+  {
+    "source": "2313",
+    "target": "184",
+    "type": "researches",
+    "doc_id": "2741369286"
+  },
+  {
+    "source": "76",
+    "target": "2312",
+    "type": "cooperates_with",
+    "doc_id": "2741369286"
+  },
+  {
+    "source": "0",
+    "target": "2348",
+    "type": "develops",
+    "doc_id": "2743222611"
+  },
+  {
+    "source": "2335",
+    "target": "2346",
+    "type": "develops",
+    "doc_id": "2743222611"
+  },
+  {
+    "source": "1",
+    "target": "2337",
+    "type": "develops",
+    "doc_id": "2743222611"
+  },
+  {
+    "source": "2337",
+    "target": "318",
+    "type": "focuses_on",
+    "doc_id": "2743222611"
+  },
+  {
+    "source": "167",
+    "target": "2344",
+    "type": "researches",
+    "doc_id": "2743222611"
+  },
+  {
+    "source": "167",
+    "target": "2350",
+    "type": "develops",
+    "doc_id": "2743222611"
+  },
+  {
+    "source": "190",
+    "target": "2350",
+    "type": "develops",
+    "doc_id": "2743222611"
+  },
+  {
+    "source": "2336",
+    "target": "2350",
+    "type": "develops",
+    "doc_id": "2743222611"
+  },
+  {
+    "source": "2344",
+    "target": "2345",
+    "type": "focuses_on",
+    "doc_id": "2743222611"
+  },
+  {
+    "source": "183",
+    "target": "318",
+    "type": "researches",
+    "doc_id": "2743222611"
+  },
+  {
+    "source": "2363",
+    "target": "2351",
+    "type": "made_by",
+    "doc_id": "2744700125"
+  },
+  {
+    "source": "2363",
+    "target": "2358",
+    "type": "focuses_on",
+    "doc_id": "2744700125"
+  },
+  {
+    "source": "2352",
+    "target": "10",
+    "type": "made_by",
+    "doc_id": "2744700125"
+  },
+  {
+    "source": "2352",
+    "target": "15",
+    "type": "focuses_on",
+    "doc_id": "2744700125"
+  },
+  {
+    "source": "12",
+    "target": "2362",
+    "type": "develops",
+    "doc_id": "2744700125"
+  },
+  {
+    "source": "2358",
+    "target": "208",
+    "type": "competes_with",
+    "doc_id": "2744700125"
+  },
+  {
+    "source": "289",
+    "target": "208",
+    "type": "competes_with",
+    "doc_id": "2744700125"
+  },
+  {
+    "source": "229",
+    "target": "2363",
+    "type": "researches",
+    "doc_id": "2744700125"
+  },
+  {
+    "source": "2378",
+    "target": "2364",
+    "type": "made_by",
+    "doc_id": "2744934122"
+  },
+  {
+    "source": "2364",
+    "target": "2373",
+    "type": "researches",
+    "doc_id": "2744934122"
+  },
+  {
+    "source": "2378",
+    "target": "2374",
+    "type": "focuses_on",
+    "doc_id": "2744934122"
+  },
+  {
+    "source": "8",
+    "target": "331",
+    "type": "develops",
+    "doc_id": "2744934122"
+  },
+  {
+    "source": "1",
+    "target": "384",
+    "type": "researches",
+    "doc_id": "2744934122"
+  },
+  {
+    "source": "2365",
+    "target": "2378",
+    "type": "researches",
+    "doc_id": "2744934122"
+  },
+  {
+    "source": "11",
+    "target": "345",
+    "type": "researches",
+    "doc_id": "2744934122"
+  },
+  {
+    "source": "386",
+    "target": "0",
+    "type": "made_by",
+    "doc_id": "2747059488"
+  },
+  {
+    "source": "387",
+    "target": "5",
+    "type": "made_by",
+    "doc_id": "2747059488"
+  },
+  {
+    "source": "352",
+    "target": "387",
+    "type": "cooperates_with",
+    "doc_id": "2747059488"
+  },
+  {
+    "source": "352",
+    "target": "386",
+    "type": "cooperates_with",
+    "doc_id": "2747059488"
+  },
+  {
+    "source": "185",
+    "target": "5",
+    "type": "made_by",
+    "doc_id": "2747059488"
+  },
+  {
+    "source": "2382",
+    "target": "14",
+    "type": "made_by",
+    "doc_id": "2747059488"
+  },
+  {
+    "source": "2388",
+    "target": "140",
+    "type": "researches",
+    "doc_id": "2747059488"
+  },
+  {
+    "source": "2405",
+    "target": "2396",
+    "type": "develops",
+    "doc_id": "2748238590"
+  },
+  {
+    "source": "2405",
+    "target": "2397",
+    "type": "develops",
+    "doc_id": "2748238590"
+  },
+  {
+    "source": "2399",
+    "target": "2398",
+    "type": "develops",
+    "doc_id": "2748238590"
+  },
+  {
+    "source": "288",
+    "target": "2407",
+    "type": "researches",
+    "doc_id": "2748238590"
+  },
+  {
+    "source": "23",
+    "target": "363",
+    "type": "develops",
+    "doc_id": "2748238590"
+  },
+  {
+    "source": "12",
+    "target": "38",
+    "type": "researches",
+    "doc_id": "2748238590"
+  },
+  {
+    "source": "2405",
+    "target": "322",
+    "type": "focuses_on",
+    "doc_id": "2748238590"
+  },
+  {
+    "source": "2396",
+    "target": "2397",
+    "type": "cooperates_with",
+    "doc_id": "2748238590"
+  },
+  {
+    "source": "2400",
+    "target": "2405",
+    "type": "develops",
+    "doc_id": "2748238590"
+  },
+  {
+    "source": "2399",
+    "target": "2408",
+    "type": "focuses_on",
+    "doc_id": "2748238590"
+  },
+  {
+    "source": "2415",
+    "target": "2411",
+    "type": "made_by",
+    "doc_id": "2748557520"
+  },
+  {
+    "source": "2417",
+    "target": "5",
+    "type": "made_by",
+    "doc_id": "2748557520"
+  },
+  {
+    "source": "390",
+    "target": "11",
+    "type": "made_by",
+    "doc_id": "2748557520"
+  },
+  {
+    "source": "352",
+    "target": "59",
+    "type": "cooperates_with",
+    "doc_id": "2748557520"
+  },
+  {
+    "source": "2414",
+    "target": "2424",
+    "type": "founded_by",
+    "doc_id": "2748557520"
+  },
+  {
+    "source": "0",
+    "target": "35",
+    "type": "cooperates_with",
+    "doc_id": "2749045048"
+  },
+  {
+    "source": "59",
+    "target": "134",
+    "type": "competes_with",
+    "doc_id": "2749045048"
+  },
+  {
+    "source": "391",
+    "target": "51",
+    "type": "made_by",
+    "doc_id": "2749045048"
+  },
+  {
+    "source": "2438",
+    "target": "24",
+    "type": "made_by",
+    "doc_id": "2749045048"
+  },
+  {
+    "source": "2439",
+    "target": "14",
+    "type": "made_by",
+    "doc_id": "2749045048"
+  },
+  {
+    "source": "2440",
+    "target": "61",
+    "type": "made_by",
+    "doc_id": "2749045048"
+  },
+  {
+    "source": "2458",
+    "target": "183",
+    "type": "made_by",
+    "doc_id": "2749437400"
+  },
+  {
+    "source": "2458",
+    "target": "93",
+    "type": "made_by",
+    "doc_id": "2749437400"
+  },
+  {
+    "source": "2458",
+    "target": "2472",
+    "type": "focuses_on",
+    "doc_id": "2749437400"
+  },
+  {
+    "source": "2458",
+    "target": "2473",
+    "type": "focuses_on",
+    "doc_id": "2749437400"
+  },
+  {
+    "source": "183",
+    "target": "93",
+    "type": "cooperates_with",
+    "doc_id": "2749437400"
+  },
+  {
+    "source": "72",
+    "target": "6",
+    "type": "researches",
+    "doc_id": "2749437400"
+  },
+  {
+    "source": "2477",
+    "target": "183",
+    "type": "made_by",
+    "doc_id": "2749437400"
+  },
+  {
+    "source": "2490",
+    "target": "76",
+    "type": "made_by",
+    "doc_id": "2750388251"
+  },
+  {
+    "source": "2490",
+    "target": "2489",
+    "type": "focuses_on",
+    "doc_id": "2750388251"
+  },
+  {
+    "source": "2479",
+    "target": "2478",
+    "type": "made_by",
+    "doc_id": "2750388251"
+  },
+  {
+    "source": "2479",
+    "target": "36",
+    "type": "focuses_on",
+    "doc_id": "2750388251"
+  },
+  {
+    "source": "83",
+    "target": "68",
+    "type": "cooperates_with",
+    "doc_id": "2750388251"
+  },
+  {
+    "source": "83",
+    "target": "15",
+    "type": "researches",
+    "doc_id": "2750388251"
+  },
+  {
+    "source": "1303",
+    "target": "280",
+    "type": "focuses_on",
+    "doc_id": "2750388251"
+  },
+  {
+    "source": "1",
+    "target": "38",
+    "type": "researches",
+    "doc_id": "2750388251"
+  },
+  {
+    "source": "76",
+    "target": "344",
+    "type": "cooperates_with",
+    "doc_id": "2750388251"
+  },
+  {
+    "source": "2500",
+    "target": "1",
+    "type": "develops",
+    "doc_id": "2751376919"
+  },
+  {
+    "source": "2500",
+    "target": "288",
+    "type": "develops",
+    "doc_id": "2751376919"
+  },
+  {
+    "source": "2500",
+    "target": "267",
+    "type": "develops",
+    "doc_id": "2751376919"
+  },
+  {
+    "source": "2504",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2751376919"
+  },
+  {
+    "source": "2505",
+    "target": "45",
+    "type": "made_by",
+    "doc_id": "2751376919"
+  },
+  {
+    "source": "45",
+    "target": "120",
+    "type": "researches",
+    "doc_id": "2751376919"
+  },
+  {
+    "source": "1",
+    "target": "2501",
+    "type": "researches",
+    "doc_id": "2751376919"
+  },
+  {
+    "source": "2500",
+    "target": "100",
+    "type": "competes_with",
+    "doc_id": "2751376919"
+  },
+  {
+    "source": "16",
+    "target": "18",
+    "type": "researches",
+    "doc_id": "2751376919"
+  },
+  {
+    "source": "392",
+    "target": "115",
+    "type": "focuses_on",
+    "doc_id": "2751376919"
+  },
+  {
+    "source": "366",
+    "target": "10",
+    "type": "made_by",
+    "doc_id": "2752048955"
+  },
+  {
+    "source": "2512",
+    "target": "10",
+    "type": "made_by",
+    "doc_id": "2752048955"
+  },
+  {
+    "source": "2521",
+    "target": "8",
+    "type": "made_by",
+    "doc_id": "2752048955"
+  },
+  {
+    "source": "8",
+    "target": "2508",
+    "type": "cooperates_with",
+    "doc_id": "2752048955"
+  },
+  {
+    "source": "0",
+    "target": "2509",
+    "type": "acquired_by",
+    "doc_id": "2752048955"
+  },
+  {
+    "source": "0",
+    "target": "2510",
+    "type": "acquired_by",
+    "doc_id": "2752048955"
+  },
+  {
+    "source": "35",
+    "target": "2511",
+    "type": "acquired_by",
+    "doc_id": "2752048955"
+  },
+  {
+    "source": "2532",
+    "target": "107",
+    "type": "researches",
+    "doc_id": "2752048955"
+  },
+  {
+    "source": "2555",
+    "target": "266",
+    "type": "made_by",
+    "doc_id": "2752477203"
+  },
+  {
+    "source": "2556",
+    "target": "1",
+    "type": "made_by",
+    "doc_id": "2752477203"
+  },
+  {
+    "source": "2557",
+    "target": "16",
+    "type": "made_by",
+    "doc_id": "2752477203"
+  },
+  {
+    "source": "266",
+    "target": "2569",
+    "type": "researches",
+    "doc_id": "2752477203"
+  },
+  {
+    "source": "244",
+    "target": "38",
+    "type": "researches",
+    "doc_id": "2752477203"
+  },
+  {
+    "source": "2555",
+    "target": "2558",
+    "type": "competes_with",
+    "doc_id": "2752477203"
+  },
+  {
+    "source": "2555",
+    "target": "2559",
+    "type": "competes_with",
+    "doc_id": "2752477203"
+  },
+  {
+    "source": "2555",
+    "target": "2560",
+    "type": "competes_with",
+    "doc_id": "2752477203"
+  },
+  {
+    "source": "2557",
+    "target": "2572",
+    "type": "focuses_on",
+    "doc_id": "2752477203"
+  },
+  {
+    "source": "2568",
+    "target": "2555",
+    "type": "develops",
+    "doc_id": "2752477203"
+  },
+  {
+    "source": "2575",
+    "target": "187",
+    "type": "made_by",
+    "doc_id": "2752292150"
+  },
+  {
+    "source": "6",
+    "target": "2577",
+    "type": "focuses_on",
+    "doc_id": "2752292150"
+  },
+  {
+    "source": "2578",
+    "target": "2579",
+    "type": "focuses_on",
+    "doc_id": "2752292150"
+  },
+  {
+    "source": "2580",
+    "target": "6",
+    "type": "focuses_on",
+    "doc_id": "2752292150"
+  },
+  {
+    "source": "2581",
+    "target": "6",
+    "type": "focuses_on",
+    "doc_id": "2752292150"
+  },
+  {
+    "source": "2582",
+    "target": "2577",
+    "type": "focuses_on",
+    "doc_id": "2752292150"
+  }
+]
