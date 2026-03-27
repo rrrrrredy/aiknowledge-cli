@@ -66,18 +66,18 @@ def format_context(docs: List[Dict]) -> str:
 def answer_with_llm(question: str, docs: List[Dict]) -> str:
     """使用 LLM 生成回答"""
     context = format_context(docs)
-    prompt = SYSTEM_PROMPT + "\n\n" + ANSWER_PROMPT.format(context=context, question=question)
-    
+    full_prompt = ANSWER_PROMPT.format(context=context, question=question)
+
     answer = None
-    
-    # 优先 CatClaw
+
+    # 优先 CatClaw（无需 API key，使用内置 kubeplex-maas 认证）
     if _catclaw_available:
         try:
-            answer = catclaw_call(prompt, max_tokens=1500, temperature=0.2)
+            answer = catclaw_call(full_prompt, system=SYSTEM_PROMPT, max_tokens=1500, temperature=0.2)
         except Exception as e:
             pass
-    
-    # fallback: OpenAI 兼容接口
+
+    # fallback: OpenAI 兼容接口（需设置 OPENAI_API_KEY）
     if not answer and _has_openai:
         api_key = os.environ.get("OPENAI_API_KEY", "")
         if api_key:
@@ -87,14 +87,17 @@ def answer_with_llm(question: str, docs: List[Dict]) -> str:
                 client = OpenAI(api_key=api_key, base_url=api_base)
                 resp = client.chat.completions.create(
                     model=model,
-                    messages=[{"role": "user", "content": prompt}],
+                    messages=[
+                        {"role": "system", "content": SYSTEM_PROMPT},
+                        {"role": "user", "content": full_prompt},
+                    ],
                     temperature=0.2,
                     max_tokens=1500,
                 )
                 answer = resp.choices[0].message.content.strip()
             except Exception as e:
                 pass
-    
+
     if not answer:
         return answer_without_llm(question, docs)
     

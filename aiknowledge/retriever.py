@@ -33,10 +33,9 @@ class KnowledgeBase:
 
     def _tokenize(self, text: str) -> List[str]:
         """简单分词：中英文混合，按字/词切割"""
-        # 英文按空格切，中文按字切，保留数字
         tokens = []
-        # 英文词
-        for w in re.findall(r'[a-zA-Z0-9\-\.]+', text.lower()):
+        # 英文词（含版本号如 GPT-4o）
+        for w in re.findall(r'[a-zA-Z0-9][a-zA-Z0-9\-\.]*[a-zA-Z0-9]|[a-zA-Z0-9]', text.lower()):
             if len(w) >= 2:
                 tokens.append(w)
         # 中文字符（bigram）
@@ -58,15 +57,32 @@ class KnowledgeBase:
                 df[t] = df.get(t, 0) + 1
         self.idf = {t: math.log((N + 1) / (cnt + 1)) for t, cnt in df.items()}
 
+    def _entity_names(self, doc: Dict) -> List[str]:
+        """统一处理 entities 字段（list[{name,type}] 格式）"""
+        entities = doc.get("entities", [])
+        if isinstance(entities, list):
+            return [e.get("name", "") for e in entities if isinstance(e, dict)]
+        elif isinstance(entities, dict):
+            # 旧格式兼容：{type: [name, ...]}
+            names = []
+            for v in entities.values():
+                if isinstance(v, list):
+                    names.extend(v)
+            return names
+        return []
+
     def _doc_text(self, doc: Dict) -> str:
         """将文档转为可检索文本"""
         parts = [
-            doc.get("title", ""),
+            doc.get("title", "") * 3,  # 标题权重×3
             doc.get("summary", ""),
             " ".join(doc.get("key_points", [])),
+            " ".join(self._entity_names(doc)),
         ]
-        for entities in doc.get("entities", {}).values():
-            parts.extend(entities)
+        # tags 字段（增强提取后新增）
+        tags = doc.get("tags", [])
+        if tags:
+            parts.append(" ".join(tags))
         return " ".join(parts)
 
     def _tfidf_score(self, query_tokens: List[str], doc: Dict) -> float:
@@ -90,18 +106,27 @@ class KnowledgeBase:
         if not self._loaded:
             self.load()
         query_tokens = self._tokenize(query)
-        
-        # 计算分数
+
+        # 实体名精确匹配加分
         scored = []
         for doc in self.docs:
             score = self._tfidf_score(query_tokens, doc)
+
             # 标题命中额外加分
             title_tokens = self._tokenize(doc.get("title", ""))
             title_hits = sum(1 for t in query_tokens if t in title_tokens)
-            score += title_hits * 0.5
+            score += title_hits * 0.8
+
+            # 实体名精确命中加分
+            entity_names_lower = [n.lower() for n in self._entity_names(doc)]
+            query_lower = query.lower()
+            for name in entity_names_lower:
+                if name and name in query_lower:
+                    score += 1.0
+
             if score > 0:
                 scored.append((score, doc))
-        
+
         scored.sort(key=lambda x: -x[0])
         return [doc for _, doc in scored[:top_k]]
 
@@ -112,8 +137,21 @@ class KnowledgeBase:
         stats_path = DATA_DIR / "stats.json"
         if stats_path.exists():
             with open(stats_path) as f:
-                return json.load(f)
-        return {"total_docs": len(self.docs)}
+                base = json.load(f)
+        else:
+            base = {}
+
+        # 实时计算文档类型分布
+        from collections import Counter
+        type_dist = Counter(d.get("type", "unknown") for d in self.docs)
+        has_summary = sum(1 for d in self.docs if d.get("summary"))
+
+        base.update({
+            "total_docs": len(self.docs),
+            "doc_types": dict(type_dist),
+            "docs_with_summary": has_summary,
+        })
+        return base
 
     def get_all_docs(self) -> List[Dict]:
         if not self._loaded:

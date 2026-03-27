@@ -36,9 +36,8 @@ def call_llm(prompt: str, system: Optional[str] = None, max_tokens: int = 2000, 
     
     messages = []
     if system:
-        messages.append({"role": "user", "content": system + "\n\n" + prompt})
-    else:
-        messages.append({"role": "user", "content": prompt})
+        messages.append({"role": "system", "content": system})
+    messages.append({"role": "user", "content": prompt})
     
     payload = {
         "model": "catclaw-proxy-model",

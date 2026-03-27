@@ -18,7 +18,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from aiknowledge.retriever import get_kb
-from aiknowledge.answerer import answer_with_llm, answer_without_llm
+from aiknowledge.answerer import answer_with_llm, answer_without_llm, _catclaw_available
 
 BANNER = """
 ╔══════════════════════════════════════════════════╗
@@ -33,7 +33,11 @@ HELP_TEXT = """
   ask <问题>      提问（默认模式）
   search <词>     关键词检索，返回相关文档列表
   stats           显示知识库统计信息
+  /history        显示本次会话问答历史
+  /verbose        切换详细模式（显示/隐藏摘要）
+  /clear          清空历史记录
   help / /help    显示此帮助
+  quit / exit     退出
 
 环境变量：
   OPENAI_API_KEY   LLM API 密钥（支持 DeepSeek/OpenAI 等兼容接口）
@@ -52,15 +56,15 @@ def cmd_ask(question: str, top_k: int = 5):
         print("❌ 知识库中未找到相关内容。")
         return
     
-    has_llm = bool(os.environ.get("OPENAI_API_KEY", ""))
+    has_llm = _catclaw_available or bool(os.environ.get("OPENAI_API_KEY", ""))
     if has_llm:
         print(answer_with_llm(question, docs))
     else:
-        print("⚠️  未配置 OPENAI_API_KEY，使用摘要检索模式\n")
+        print("⚠️  LLM 不可用，使用摘要检索模式\n")
         print(answer_without_llm(question, docs))
 
 
-def cmd_search(query: str, top_k: int = 8):
+def cmd_search(query: str, top_k: int = 8, verbose: bool = True):
     """关键词检索命令"""
     kb = get_kb()
     docs = kb.search(query, top_k=top_k)
@@ -74,17 +78,21 @@ def cmd_search(query: str, top_k: int = 8):
         title = doc.get("title", "未知")
         date  = doc.get("date", "")
         dtype = doc.get("type", "")
-        url   = doc.get("km_url", "")
-        entities_count = sum(len(v) for v in doc.get("entities", {}).values())
+        entities = doc.get("entities", [])
+        entities_count = len(entities) if isinstance(entities, list) else sum(len(v) for v in entities.values() if isinstance(v, list))
         
         print(f"  [{i+1}] {title}")
         if date:
-            print(f"       📅 {date}  类型: {dtype}  实体数: {entities_count}")
-        if url:
-            print(f"       🔗 {url}")
+            print(f"       📅 {date}  |  类型: {dtype}  |  实体: {entities_count}")
         summary = doc.get("summary", "")
-        if summary:
-            print(f"       {summary[:120]}...")
+        if summary and verbose:
+            # Show full summary in verbose mode
+            lines = [summary[j:j+80] for j in range(0, len(summary), 80)]
+            print(f"       摘要：{lines[0]}")
+            for line in lines[1:3]:
+                print(f"             {line}")
+        elif not summary and verbose:
+            print(f"       摘要：（暂无）")
         print()
 
 
@@ -117,6 +125,8 @@ def interactive_mode():
     print(f"✅ 知识库已加载：{stats.get('total_docs', 0)} 篇文档，{stats.get('total_nodes', 0)} 个实体\n")
     
     top_k = int(os.environ.get("TOP_K", "5"))
+    verbose = True
+    history = []  # [(question, answer_snippet)]
     
     while True:
         try:
@@ -128,20 +138,44 @@ def interactive_mode():
         if not user_input:
             continue
         
-        if user_input.lower() in ("/help", "help", "h"):
+        low = user_input.lower()
+        
+        if low in ("/help", "help", "h"):
             print(HELP_TEXT)
-        elif user_input.lower().startswith("/search ") or user_input.lower().startswith("search "):
+        elif low.startswith("/search ") or low.startswith("search "):
             query = user_input.split(" ", 1)[1].strip()
-            cmd_search(query, top_k=top_k)
-        elif user_input.lower() in ("/stats", "stats"):
+            cmd_search(query, top_k=top_k, verbose=verbose)
+        elif low in ("/stats", "stats"):
             cmd_stats()
-        elif user_input.lower() in ("/quit", "/exit", "quit", "exit", "q"):
+        elif low == "/history":
+            if not history:
+                print("  （暂无历史记录）\n")
+            else:
+                print(f"\n📜 本次会话记录（共 {len(history)} 条）\n")
+                for idx, (q, a) in enumerate(history, 1):
+                    print(f"  [{idx}] Q: {q}")
+                    print(f"      A: {a[:120]}{'…' if len(a) > 120 else ''}\n")
+        elif low == "/verbose":
+            verbose = not verbose
+            print(f"  详细模式：{'开启' if verbose else '关闭'}\n")
+        elif low == "/clear":
+            history.clear()
+            print("  历史已清空\n")
+        elif low in ("/quit", "/exit", "quit", "exit", "q"):
             print("👋 再见")
             break
         else:
             # 默认为问答
             print()
-            cmd_ask(user_input, top_k=top_k)
+            import io
+            from contextlib import redirect_stdout
+            buf = io.StringIO()
+            with redirect_stdout(buf):
+                cmd_ask(user_input, top_k=top_k)
+            answer_text = buf.getvalue()
+            print(answer_text, end="")
+            # Record to history
+            history.append((user_input, answer_text.strip()))
             print()
 
 
@@ -163,6 +197,7 @@ def main():
     parser.add_argument("query", nargs="?", help="问题或关键词")
     parser.add_argument("--top-k", type=int, default=5, help="检索文档数量（默认 5）")
     parser.add_argument("--no-llm", action="store_true", help="强制使用摘要模式，不调用 LLM")
+    parser.add_argument("--verbose", "-v", action="store_true", help="显示文档摘要和详细信息")
     parser.add_argument("--json", action="store_true", help="以 JSON 格式输出")
     
     args = parser.parse_args()
@@ -177,7 +212,7 @@ def main():
     elif args.command == "search":
         if not args.query:
             parser.error("search 命令需要提供关键词")
-        cmd_search(args.query, top_k=args.top_k * 2)
+        cmd_search(args.query, top_k=args.top_k * 2, verbose=args.verbose)
     elif args.command == "stats":
         cmd_stats()
     else:
