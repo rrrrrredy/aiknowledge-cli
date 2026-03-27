@@ -1,0 +1,1799 @@
+[
+  {
+    "id": "2073114610",
+    "title": "OpenAI近期信息报告-2024年初",
+    "date": "",
+    "type": "topic_research",
+    "summary": "本文是一份关于OpenAI 2024年初的内部信息报告，主要涵盖公司规模、薪酬体系、应用工程团队构成及快速迭代方法论等核心内容。\\n\\n在公司规模与薪酬方面，OpenAI当时员工约800人，公司平均年薪高达120万美金。软件工程师（对标Google L5级别）年薪约92.5万美金，由30万美金基础薪资加62.5万美金股权激励构成，但因利润参与单元性质混乱，实际薪酬难以与谷歌、苹果等大厂直接比较。Google L5对标级别是OpenAI内部人数最多的职级。\\n\\n在团队构成方面，应用工程团队成立于2020年夏季，最初仅6人，至2023年底已发展至约150人（含130名工程师及20名PM和设计师）。团队由Evan Morikawa管理，2023年5月Peter Deng（消费产品VP）加入后进一步强化了ChatGPT的产品、工程与设计整合。ChatGPT由约30名工程师及少数PM、设计师组成的精小团队打造。\\n\\n在快速迭代方法论方面，OpenAI总结出六大核心原则：①像创业公司一样快速迭代，采用小团队独立运作模式；②与研究紧密集成，采用",
+    "key_points": [
+      "OpenAI约800人，平均年薪120万美金，软件工程师（对标Google L5）年薪92.5万美金，由基础薪资与股权激励构成",
+      "ChatGPT由约30名工程师加少数PM和设计师的精小团队打造，体现高人才密度运作模式",
+      "应用工程团队采用'DERP'分工模式，将研究人员直接融入产品团队，形成研究与工程的紧密反馈循环",
+      "OpenAI六大快速迭代方法论涵盖创业式迭代、研究集成、并行研究、渐进发布、高人才密度和团队谦卑合作",
+      "Peter Deng于2023年5月加入担任消费产品VP，拥有Facebook、Instagram、Uber、Airtable等顶尖公司产品商业化经验"
+    ],
+    "entities": [
+      "OpenAI",
+      "ChatGPT",
+      "Evan Morikawa",
+      "Peter Deng",
+      "GPT-4",
+      "DALL·E 2",
+      "NeurIPS",
+      "ICML",
+      "ICCV",
+      "Airtable"
+    ],
+    "km_url": "https://km.sankuai.com/collabpage/2073114610",
+    "relations": [
+      {
+        "source": "ChatGPT",
+        "relation": "made_by",
+        "target": "OpenAI"
+      },
+      {
+        "source": "GPT-3",
+        "relation": "made_by",
+        "target": "OpenAI"
+      },
+      {
+        "source": "GPT-3 API",
+        "relation": "extends",
+        "target": "GPT-3"
+      },
+      {
+        "source": "Evan Morikawa",
+        "relation": "works_at",
+        "target": "OpenAI"
+      },
+      {
+        "source": "Peter Deng",
+        "relation": "works_at",
+        "target": "OpenAI"
+      },
+      {
+        "source": "Evan Morikawa",
+        "relation": "part_of",
+        "target": "OpenAI应用工程团队"
+      },
+      {
+        "source": "Peter Deng",
+        "relation": "part_of",
+        "target": "OpenAI应用工程团队"
+      },
+      {
+        "source": "OpenAI应用工程团队",
+        "relation": "part_of",
+        "target": "OpenAI"
+      },
+      {
+        "source": "OpenAI应用工程团队",
+        "relation": "made_by",
+        "target": "ChatGPT"
+      },
+      {
+        "source": "快速迭代方法论",
+        "relation": "is_method_of",
+        "target": "OpenAI应用工程团队"
+      },
+      {
+        "source": "高人才密度",
+        "relation": "part_of",
+        "target": "快速迭代方法论"
+      },
+      {
+        "source": "解耦和渐进发布",
+        "relation": "part_of",
+        "target": "快速迭代方法论"
+      },
+      {
+        "source": "与研究的紧密集成",
+        "relation": "part_of",
+        "target": "快速迭代方法论"
+      },
+      {
+        "source": "与AGI结合的并行研究",
+        "relation": "part_of",
+        "target": "快速迭代方法论"
+      },
+      {
+        "source": "OpenAI应用工程团队",
+        "relation": "focuses_on",
+        "target": "快速迭代方法论"
+      },
+      {
+        "source": "Peter Deng",
+        "relation": "works_at",
+        "target": "谷歌"
+      },
+      {
+        "source": "Peter Deng",
+        "relation": "works_at",
+        "target": "Facebook"
+      },
+      {
+        "source": "Peter Deng",
+        "relation": "works_at",
+        "target": "微软"
+      },
+      {
+        "source": "Peter Deng",
+        "relation": "works_at",
+        "target": "Uber"
+      },
+      {
+        "source": "Peter Deng",
+        "relation": "works_at",
+        "target": "Airtable"
+      },
+      {
+        "source": "Facebook Chat",
+        "relation": "made_by",
+        "target": "Facebook"
+      },
+      {
+        "source": "Facebook Messenger",
+        "relation": "made_by",
+        "target": "Facebook"
+      },
+      {
+        "source": "Facebook Groups",
+        "relation": "made_by",
+        "target": "Facebook"
+      },
+      {
+        "source": "Instagram",
+        "relation": "part_of",
+        "target": "Facebook"
+      },
+      {
+        "source": "Oculus",
+        "relation": "part_of",
+        "target": "Facebook"
+      },
+      {
+        "source": "NeurIPS",
+        "relation": "related_to",
+        "target": "大模型"
+      },
+      {
+        "source": "ICML",
+        "relation": "related_to",
+        "target": "大模型"
+      },
+      {
+        "source": "ICCV",
+        "relation": "related_to",
+        "target": "大模型"
+      },
+      {
+        "source": "OpenAI",
+        "relation": "researches",
+        "target": "AGI"
+      },
+      {
+        "source": "OpenAI",
+        "relation": "competes_with",
+        "target": "谷歌"
+      },
+      {
+        "source": "OpenAI",
+        "relation": "competes_with",
+        "target": "苹果"
+      },
+      {
+        "source": "自然语言处理",
+        "relation": "related_to",
+        "target": "大模型"
+      },
+      {
+        "source": "人机互动",
+        "relation": "related_to",
+        "target": "自然语言处理"
+      },
+      {
+        "source": "ChatGPT",
+        "relation": "is_type_of",
+        "target": "大模型"
+      },
+      {
+        "source": "GPT-3",
+        "relation": "is_type_of",
+        "target": "大模型"
+      }
+    ],
+    "entities_count": 31,
+    "tags": [
+      "OpenAI",
+      "应用工程团队",
+      "大模型产品研发",
+      "AI人才招聘",
+      "ChatGPT"
+    ],
+    "raw_text": "目标 ClientId: com.sankuai.it.ead.citadel \n\n:::title\nOpenAI近期信息报告-2024年初\n:::\n\n:::catalog{style=none}:::\n\n# :[font]{size=15}一、关键信息[/font]\n\n:[font]{size=13}1.OpenAI现在人数为[/font]**:[font]{size=13}800人左右[/font]**:[font]{size=13}，整个公司的平均年薪是[/font]**:[font]{size=13}120万美金[/font]**:[font]{size=13}（待进一步证实）；[/font]\n\n:[font]{size=13}2.OpenAI软件工程师（职级参考Google L5）的年薪为[/font]**:[font]{size=13}92.5万美金[/font]**:[font]{size=13}，构成为[/font]**:[font]{size=13}30万美金的base+62.5万美金的股权激励[/font]**:[font]{size=13}；除了软件工程师外，其他职位的base大概从[/font]**:[font]{size=13}10万到45万美金[/font]**:[font]{size=13}不等；[/font]\n\n:[font]{size=13}3.类Google L5这个级别是OpenAI内部是[/font]**:[font]{size=13}人数最多的职级[/font]**:[font]{size=13}；[/font]\n\n:[font]{size=13}4.顶级学术会议成为了各公司招聘大模型顶尖人才的重要战场；[/font]\n\n:[font]{size=13}5.ChatGPT是由[/font]**:[font]{size=13}一个30余人的产品团队打造，包括30名工程师，几个PM和设计师[/font]**:[font]{size=13}；[/font]\n\n:[font]{size=13}6.OpenAI应用工程团队能够快速迭代的方法论：“[/font]**:[font]{size=13}像创业公司一样快速迭代[/font]**:[font]{size=13}”、“[/font]**:[font]{size=13}与研究的紧密集成[/font]**:[font]{size=13}”、“[/font]**:[font]{size=13}与AGI结合的并行研究[/font]**:[font]{size=13}”、“[/font]**:[font]{size=13}解耦和渐进发布[/font]**:[font]{size=13}”、“[/font]**:[font]{size=13}高人才密度[/font]**:[font]{size=13}”、“[/font]**:[font]{size=13}谦卑感与团队合作[/font]**:[font]{size=13}”；[/font]\n\n:[font]{size=13}7.OpenAI的研究人员并非纯研究型学者，他们工程能力极强，会上手完成大量的工程工作并编写大量代码；[/font]\n\n:[font]{size=13}8.在招聘应用工程团队时，将有过创业经验的人与在大型科技公司大型项目开发经验的人融合在一起非常成功；[/font]\n\n:[font]{size=13}9.虽然OpenAI的报价看起来很高，但因为利润参与单元的性质很混乱，所以OpenAI的薪酬很难和谷歌、苹果等科技大公司相提并论；[/font]\n\n:[font]{size=13}10.NeurIPS、ICML、ICCV等顶级人工智能会议成为了日渐重要的招聘渠道。[/font]\n\n# :[font]{size=15}二、OpenAI应用工程团队信息[/font]\n\n## :[font]{size=15}1.团队概况[/font]\n\n:[font]{size=13}OpenAI应用工程团队（Applied Engineering Team）在公司内部成立较晚，OpenAI成立于2015年，应用工程团队则成立于2020年夏季。当时OpenAI刚刚完成对GPT-3的训练，成立这个团队是为了构建和扩展GPT-3的API。[/font]\n\n:[font]{size=13}2021年年初，OpenAI的技术员工成员（Member of Technical Staff）Evan Morikawa开始管理应用工程团队，当时团队只有6个人。2023年底，应用工程团队已经发展到了130名工程师，Evan管理其中的一半左右。还有20个人是项目经理和设计师，整个应用工程团队大约有150人。[/font]\n\n:[font]{size=13}2023年5月，Peter Deng加入，领导ChatGPT工程、产品和设计，形成了一个紧密的团队。[/font]\n\n:[font]{size=13}Peter Deng是OpenAI的VP of Consumer Product，2023年5月加入OpenAI，担任消费产品副总裁。自实习经历开始，Peter Deng一直在硅谷一线大厂，先后服务于微软、谷歌、Facebook和Uber等公司。[/font]\n\n:[font]{size=13}Peter Deng毕业于斯坦福大学，本科专业为“symbolic systems (符号系统)”，之后又攻读了媒体研究和传播硕士学位。研究方向包括人机互动、自然语言与计算机语言等。[/font]\n\n:[font]{size=13}在2006年入职谷歌。2007年加入Facebook，任职产品管理总监。期间，他参与构建了Facebook Chat，Groups和Messenger等多个核心应用程序。[/font]\n\n:[font]{size=13}2013年，在Instagram被Facebook收购之后，Peter Deng开始担任ins的产品负责人，当时ins还只是一个50人规模的小团队，后面他将ins发展为用户规模上亿，被称为“明星产品经理”。2015年，Peter Deng转入Oculus担任产品负责人。[/font]\n\n:[font]{size=13}2017年，在Facebook体系内工作九年零九个月后，Peter Deng跳槽到Uber，领导公司所有消费相关工作，并帮助公司完成IPO，以45美元的发行价登陆纽交所。[/font]\n\n:[font]{size=13}在加入OpenAI前，他是Airtable的CPO，帮助该公司完成了多笔价值数亿美元的融资。2021年，Airtable一年之内估值从57.7亿美元飙升到117亿美元，成为从1000万美金达到1亿美金最快的公司之一。[/font]\n\n:[font]{size=13}OpenAI选中Peter Deng既是看重了他丰富的产品经验，也是垂青于他突出的产品商业化能力。[/font]\n\n:::drawio{src=\"https://km.sankuai.com/api/file/cdn/2073114610/85947596016?contentType=0&isNewContent=false\" width=773 height=274}:::\n\n## :[font]{size=15}2.快速迭代方法论[/font]\n\n:[font]{size=13}通过访谈与外部资料整理，总结出OpenAI应用工程团队能够快速迭代的方法论：“[/font]**:[font]{size=13}像创业公司一样快速迭代[/font]**:[font]{size=13}”、“[/font]**:[font]{size=13}与研究的紧密集成[/font]**:[font]{size=13}”、“[/font]**:[font]{size=13}与AGI结合的并行研究[/font]**:[font]{size=13}”、“[/font]**:[font]{size=13}解耦和渐进的发布[/font]**:[font]{size=13}”、“[/font]**:[font]{size=13}高人才密度[/font]**:[font]{size=13}”、“[/font]**:[font]{size=13}谦卑感与团队合作[/font]**:[font]{size=13}”。[/font]\n\n**:[font]{size=13}①像创业公司一样快速迭代[/font]**\n\n:[font]{size=13}OpenAI内部认为，创新项目应该用小型创业公司的模式独立打造。在开发ChatGPT的产品时，应用工程团队大约30名工程师，几个PM和设计师，并在运营如下产品：[/font]\n\n:[font]{size=13}·GPT-3和Codex的API[/font]\n\n:[font]{size=13}·模型的微调[/font]\n\n:[font]{size=13}·嵌入式API[/font]\n\n:[font]{size=13}·DALL·E 2[/font]\n\n:[font]{size=13}所有这些产品都使用相同的代码库，运行在相同的计算集群上，并使用相同的构建管道。在应用工程团队内，团队按功能组建，而工程师是一个统一的团队。[/font]\n\n**:[font]{size=13}②与研究的紧密集成[/font]**\n\n:[font]{size=13}与传统科技公司工程团队“EPD”（工程、产品、设计）式分工不同，OpenAI应用工程团队的分工为“[/font]**:[font]{size=13}DERP[/font]**:[font]{size=13}”（设计、工程、研究、产品），[/font]**:[font]{size=13}多了一个“研究”的团队角色[/font]**:[font]{size=13}。这是因为在OpenAI，[/font]**:[font]{size=13}许多产品问题实际上是研究问题，也非常依赖于研究[/font]**:[font]{size=13}。[/font]\n\n:[font]{size=13}在OpenAI，[/font]**:[font]{size=13}研究和应用是独立的组织结构[/font]**:[font]{size=13}。在研究组织内，有各种不同的研究团队，例如：[/font]\n\n:[font]{size=13}·预训练团队：训练GPT-4模型[/font]\n\n:[font]{size=13}·后训练团队：对GPT-4进行微调[/font]\n\n:[font]{size=13}·超级对齐团队：对齐GPT-4[/font]\n\n:[font]{size=13}·多模态团队：使GPT-4能够看、听和说[/font]\n\n:[font]{size=13}……[/font]\n\n:[font]{size=13}研究人员往往具有浓厚的学术或行业背景，会阅读大量学术论文以保持前沿状态并进行大量的实验。同时，[/font]**:[font]{size=13}OpenAI的研究人员并非纯研究型学者，他们工程能力极强，会上手完成大量的工程工作并编写大量代码[/font]**:[font]{size=13}。[/font]\n\n:[font]{size=13}在ChatGPT的产品团队，大多数研究人员来自于后训练的研究团队。这些研究人员是最新微调技术和强化学习方法的专家，这些技术对于不断改进ChatGPT中的底层模型是必不可少的。由于这些研究人员是产品团队的一部分，并且也在进行自己的A/B实验，因此研究与工程之间的反馈循环非常紧密。[/font]\n\n**:[font]{size=13}③与AGI结合的并行研究[/font]**\n\n:[font]{size=13}OpenAI的产品团队以及整个公司的核心目标是确保通用人工智能（AGI）使全人类受益。他们所指的AGI，指的是在大多数经济上有价值的工作中超越人类的高度自治系统。OpenAI通过并行的研究计划来快速地推出产品，例如，他们能够在相对短的时间内推出了GPT-4、GPT-4V、文本到语音和语音到文本。这在很大程度上要归功于研究团队内部的并行努力。同时，他们不希望构建大量的小模型，而是直接朝着通用人工智能迈进。[/font]\n\n**:[font]{size=13}④解耦和渐进发布[/font]**\n\n:[font]{size=13}OpenAI的产品团队尽力避免采用“一次性全部”的发布模式。这不仅因为早期和经常发布是一种经过验证的产品策略，也是因为渐进式发布是OpenAI安全策略的基本原则之一。[/font]\n\n:[font]{size=13}OpenAI的产品一直遵循渐进式发布的原则，同时公司实时对其进行监控。他们产品的发布必须经过这样一个阶段，与精选的API客户进行监控试验，然后再进行渐进式的推广。ChatGPT的发布本意是收集有关对话模型的反馈，没想到这一版本引爆了一轮病毒性的媒体传播。[/font]\n\n**:[font]{size=13}⑤高人才密度[/font]**\n\n:[font]{size=13}OpenAI一直保持着业界领先的人才密度，“高人才密度”是指平均技能水平和绩效远远超过大多数公司的标准。由于专注于高人才密度，应用工程团队在招聘时会偏向招聘资深的工程师，同时还尽量保持团队的规模较小，这样也更容易授权和信任他们做出正确的决策。OpenAI在内部证明了，小规模的高级团队可以非常快速地推出产品。[/font]\n\n:[font]{size=13}在招聘应用工程团队时，将有过创业经验的人与在大型科技公司大型项目开发经验的人融合在一起非常成功。创始人类型的团队成员在最早期阶段很善于折腾，他们在ChatGPT中进行敏捷的早期迭代，表现非常出色；而曾经深入参与大规模系统扩展的工程师拥有大规模扩展复杂分布式系统的工程技能，这一点在产品的构建中尤为重要。[/font]\n\n**:[font]{size=13}⑥谦卑感与团队合作[/font]**\n\n:[font]{size=13}OpenAI在内部会普遍使用“技术团队成员”（Member of Technical Staff）这个title，不管他们的经验或专业知识如何。他们希望员工保持这种谦卑感，同时对沟通能力和团队合作能力有着很高的要求。善于构造复杂系统以追求职级攀升的人也许在硅谷其他公司很吃香，但在OpenAI内部会尽量避免这样的人加入。[/font]\n\n## :[font]{size=15}3.应用工程团队近期热招岗位信息[/font]\n\n:::collapse{}\n:[font]{size=15}点击展开内容[/font]\n---\n:::table{borderColor=\"#dddddd\" borderStyle=\"solid\" borderWidth=1 responsive=false}\n[\n  [\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          50\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \"\"\n    },\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=15}岗位[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          151\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=15}年薪范围[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          320\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=15}核心要求[/font]**\\n:::\"\n    }\n  ],\n  [\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          50\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \"\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n:[font]{size=15}数据分析工程师-应用工程[/font]\\n:::\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          151\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n:[font]{size=15} 24.5万-38.5万语法[/font]\\n:::\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          320\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n:[font]{size=15}·3年以上数据工程师经验和8年以上任何软件工程经验（包括工程数据）；[/font]\\n:::\\n\\n:::paragraph{align=center indent=0}\\n:[font]{size=15}· 至少掌握一种工程数据中常用的编程语言，例如Python、Scala或Java；[/font]\\n:::\\n\\n:::paragraph{align=center indent=0}\\n:[font]{size=15}· 拥有全面的处理技术和框架的经验，例如Hadoop、Flink和全面的存储系统（例如HDFS、S3）；[/font]\\n:::\\n\\n:::paragraph{align=center indent=0}\\n:[font]{size=15}· 拥有任何ETL调度程序的专业知识，例如Airflow、Dagster、Prefect或类似框架；[/font]\\n:::\\n\\n:::paragraph{align=center indent=0}\\n:[font]{size=15}·对Spark有深入的了解，并且能够编写、调试和优化Spark代码。[/font]\\n:::\"\n    }\n  ],\n  [\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          50\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \"\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n:[font]{size=15}在线储存基础设施工程师-应用工程[/font]\\n:::\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          151\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n:[font]{size=15}16万语法-38.5万语法[/font]\\n:::\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          320\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n:[font]{size=15}·拥有8年以上数据库基础架构和存储接口设计经验；[/font]\\n:::\\n\\n:::paragraph{align=center indent=0}\\n:[font]{size=15}·在快速、高速增长的技术环境中拥有10多年的相关行业经验；[/font]\\n:::\\n\\n:::paragraph{align=center indent=0}\\n:[font]{size=15}· 熟练使用包括CosmosDB、Postgres等数据库解决方案。[/font]\\n:::\"\n    }\n  ],\n  [\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          50\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \"\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n:[font]{size=15}高级软件�"
+  },
+  {
+    "id": "2159694113",
+    "title": "重点公司多模态在招人才分析",
+    "date": "2024-02-29",
+    "type": "topic_research",
+    "summary": "本文是一份针对百度、字节跳动、阿里巴巴、华为、腾讯等重点互联网及科技公司多模态方向在招人才需求的系统性分析报告。数据来源包括各公司官方招聘网站、Boss直聘及猎聘，共爬取483个多模态相关职位，经去重和相关性筛选后获得127个有效岗位，数据截止2024年2月29日。报告从学历要求、薪资水平、工作经验、职位属性、专业背景、核心能力、技能要求及加分项等多个维度对各公司进行横向对比分析。以百度为例，其多模态岗位学历要求以硕士（11个）和学士（14个）为主，平均薪资在40k-65k（16薪），经验要求集中在3-5年（18个），职位属性以算法和架构类为主（19个），专业背景以计算机科学和数学为主，涵盖人工智能、NLP、机器学习等方向。技能要求方面，各公司普遍要求候选人熟悉CLIP、BLIP、DALL-E、Stable Diffusion等SOTA多模态模型，熟练使用PyTorch、TensorFlow等主流深度学习框架，具备扎实的数学统计基础及Transformer、BERT、GPT等大模型架构知识。核心能力方面，各公司除重视工程能力和算法研究深度外，也强调候选人的沟通表达能力、团队协作精神和持续学习热情。整体来看，多模态领域人才需求旺盛，对候选人的技术栈深度和广度要求均较高，高薪资和较长工作年限要求反映出该领域人才竞争的激烈程度。",
+    "key_points": [
+      "从483个职位中筛选出127个有效多模态岗位，覆盖百度、字节、阿里、华为、腾讯五大公司，数据截止2024年2月29日",
+      "百度多模态岗位薪资达40k-65k（16薪），经验要求主要集中在3-5年，职位以算法和架构类为主",
+      "技术技能方面，普遍要求熟悉CLIP、BLIP、DALL-E、Stable Diffusion等SOTA模型及PyTorch/TensorFlow等框架",
+      "学历要求以硕士和学士为主，专业背景集中于计算机科学、数学、人工智能、NLP及机器学习等方向",
+      "除硬技术外，各公司同样重视候选人的沟通能力、逻辑表达、团队合作及持续学习热情等软性素质"
+    ],
+    "entities": [
+      "百度",
+      "字节跳动",
+      "阿里巴巴",
+      "华为",
+      "腾讯",
+      "Boss直聘",
+      "猎聘",
+      "CLIP",
+      "Stable Diffusion",
+      "PyTorch"
+    ],
+    "km_url": "https://km.sankuai.com/collabpage/2159694113",
+    "relations": [
+      {
+        "source": "百度",
+        "relation": "focuses_on",
+        "target": "多模态"
+      },
+      {
+        "source": "字节跳动",
+        "relation": "focuses_on",
+        "target": "多模态"
+      },
+      {
+        "source": "阿里巴巴",
+        "relation": "focuses_on",
+        "target": "多模态"
+      },
+      {
+        "source": "华为",
+        "relation": "focuses_on",
+        "target": "多模态"
+      },
+      {
+        "source": "腾讯",
+        "relation": "focuses_on",
+        "target": "多模态"
+      },
+      {
+        "source": "多模态",
+        "relation": "related_to",
+        "target": "计算机视觉"
+      },
+      {
+        "source": "多模态",
+        "relation": "related_to",
+        "target": "自然语言处理"
+      },
+      {
+        "source": "多模态大模型",
+        "relation": "is_type_of",
+        "target": "大语言模型"
+      },
+      {
+        "source": "多模态大模型",
+        "relation": "is_type_of",
+        "target": "多模态"
+      },
+      {
+        "source": "视觉语言模型",
+        "relation": "is_type_of",
+        "target": "多模态模型"
+      },
+      {
+        "source": "深度学习",
+        "relation": "enables",
+        "target": "多模态"
+      },
+      {
+        "source": "机器学习",
+        "relation": "related_to",
+        "target": "深度学习"
+      },
+      {
+        "source": "百度",
+        "relation": "competes_with",
+        "target": "字节跳动"
+      },
+      {
+        "source": "百度",
+        "relation": "competes_with",
+        "target": "阿里巴巴"
+      },
+      {
+        "source": "腾讯",
+        "relation": "competes_with",
+        "target": "华为"
+      },
+      {
+        "source": "图像识别",
+        "relation": "is_type_of",
+        "target": "计算机视觉"
+      },
+      {
+        "source": "语音识别",
+        "relation": "part_of",
+        "target": "多模态"
+      },
+      {
+        "source": "自然语言处理",
+        "relation": "part_of",
+        "target": "多模态大模型"
+      }
+    ],
+    "entities_count": 20,
+    "tags": [
+      "多模态",
+      "人才招聘分析",
+      "大模型",
+      "互联网大厂",
+      "AI岗位需求"
+    ],
+    "raw_text": "目标 ClientId: com.sankuai.it.ead.citadel \n\n:::title\n重点公司多模态在招人才分析\n:::\n\n:::catalog{style=none}:::\n\n# 一、整体情况\n\n## 1.综合说明\n\n:[font]{size=13}1.1.数据来源：百度、字节、阿里巴巴、华为、腾讯招聘官网、Boss直聘及猎聘雇主主页；[/font]\n\n:[font]{size=13}1.2.数据说明：从上述渠道爬取了共483个多模态相关职位，并通过去重、相关性排除等方式，最终筛选出了127个多模态相关有效信息岗位；数据截止2024年2月29日；[/font]\n\n:[font]{size=13}1.3.因部分岗位的敏感性和概述的模糊性，导致少量岗位信息存在信息缺失和误差，如部分岗位薪资及年限要求情况。因涉及的信息样本量较小，且薪资和年限在谈判过程中的存在一定的变化，故在信息的处理上采用了范围分布的统计口径，尽量减少对最终结果的波动。[/font]\n\n## 2.各公司整体情况\n\n:::collapse{}\n点击展开内容\n---\n:::table{borderColor=\"#dddddd\" borderStyle=\"solid\" borderWidth=1 responsive=false}\n[\n  [\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          50\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n\\n:::\"\n    },\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}公司[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}学历[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}平均薪资[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}经验[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}职位属性[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}专业[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}核心能力[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}技能要求[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}加分项[/font]**\\n:::\"\n    }\n  ],\n  [\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          50\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \"\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n:[font]{size=13}百度[/font]\\n:::\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}硕士：11[/font]\\n\\n:[font]{size=13}学士：14[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}40k-65k,16薪[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}1-3年：5[/font]\\n\\n:[font]{size=13}3-5年：18[/font]\\n\\n:[font]{size=13}5-10年：1[/font]\\n\\n:[font]{size=13}10年以上：1[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}算法、架构：19[/font]\\n\\n:[font]{size=13}应用：2[/font]\\n\\n:[font]{size=13}数据：2[/font]\\n\\n:[font]{size=13}语音、NLP：2[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}以计算机科学和数学方向的专业为主，涵盖人工智能、NLP、机器学习、电子工程和统计等方向。[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}·注重工程能力，对多模态涉及的研究方向、数据结构和算法有深入的理解和研究。[/font]\\n\\n:[font]{size=13}·较强的沟通能力和逻辑表达能力，具有持续学习的热情，良好的团队合作态度，以及强烈的责任心。[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}·熟悉CLIP、BLIP、DALL-E、Stable Diffusion等SOTA模型；[/font]\\n\\n:[font]{size=13}·熟练使用PyTorch/TF 等主流深度学习框架；[/font]\\n\\n:[font]{size=13}·具有良好的算法和数据结构基础；[/font]\\n\\n:[font]{size=13}·具有扎实的数学和统计学基础，熟悉优化、概率和线性代数等相关领域知识；[/font]\\n\\n:[font]{size=13}·熟悉常见的机器学习和深度学习算法，熟练使用至少一种深度学习框架，如 Pytorch、 TensorFlow、MXNet、PaddlePaddle等:[/font]\\n\\n:[font]{size=13}·熟练掌握机器学习基本算法，如分类、回归、聚类、概率模型等；[/font]\\n\\n:[font]{size=13}·具有深入的大模型研发背景，熟悉Transformers、BERT、GPT等现代NLP模型架构。[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size"
+  },
+  {
+    "id": "2167784495",
+    "title": "多模态系列研究——字节视频生成模型",
+    "date": "2024-01",
+    "type": "paper_digest",
+    "summary": "本文介绍了字节跳动在多模态视频生成领域的系列研究成果，涵盖五个主要方向。第一，MagicVideo-V2是字节跳动于2024年1月发布的视频生成模型，通过将T2I、I2V、V2V和帧插值模块集成到端到端pipeline中，能够生成1048×1048分辨率、94帧的高审美质量视频，用户评估显示其效果优于同类方法。第二，PixelLM是字节跳动联合北京交通大学、北京科技大学提出的像素级推理大模型，通过像素解码器和分割codebook实现多目标推理分割，无需额外视觉分割模型，并构建了包含246k问答对的MUSE数据集。第三，Vista-LLaMA是字节跳动联合浙江大学提出的视频多模态大模型，采用视觉等距离token注意力机制（EDVT）和序列化视觉投影器，有效缓解了视频内容理解中的",
+    "key_points": [
+      "MagicVideo-V2采用T2I+I2V+V2V+插值的多阶段pipeline，可生成1048×1048高分辨率、94帧高审美质量视频",
+      "PixelLM通过分割codebook和像素解码器实现多目标推理分割，构建了含246k问答对的MUSE数据集",
+      "Vista-LLaMA引入EDVT注意力机制，去除视觉token相对位置编码，有效解决视频理解中的幻觉问题",
+      "COSA通过串联图像-文本对模拟视频语料进行预训练，在长/短视频和图像多类下游任务中持续提升性能",
+      "MagicAnimate利用扩散模型结合时间注意力块，实现高时间一致性和保真度的人体图像动画生成"
+    ],
+    "entities": [
+      "MagicVideo-V2",
+      "PixelLM",
+      "Vista-LLaMA",
+      "COSA",
+      "MagicAnimate",
+      "字节跳动",
+      "新加坡国立大学",
+      "北京交通大学",
+      "浙江大学",
+      "MUSE数据集"
+    ],
+    "km_url": "https://km.sankuai.com/collabpage/2167784495",
+    "relations": [
+      {
+        "source": "字节跳动",
+        "relation": "made_by",
+        "target": "MagicVideo-V2"
+      },
+      {
+        "source": "字节跳动",
+        "relation": "made_by",
+        "target": "PixelLM"
+      },
+      {
+        "source": "MagicVideo-V2",
+        "relation": "describes",
+        "target": "MagicVideo-V2论文"
+      },
+      {
+        "source": "PixelLM",
+        "relation": "describes",
+        "target": "PixelLM论文"
+      },
+      {
+        "source": "MagicVideo-V2",
+        "relation": "focuses_on",
+        "target": "视频生成"
+      },
+      {
+        "source": "MagicVideo-V2",
+        "relation": "uses",
+        "target": "T2I模块"
+      },
+      {
+        "source": "MagicVideo-V2",
+        "relation": "uses",
+        "target": "I2V模块"
+      },
+      {
+        "source": "MagicVideo-V2",
+        "relation": "uses",
+        "target": "V2V模块"
+      },
+      {
+        "source": "MagicVideo-V2",
+        "relation": "uses",
+        "target": "帧插值模块"
+      },
+      {
+        "source": "MagicVideo-V2",
+        "relation": "uses",
+        "target": "视频运动生成器"
+      },
+      {
+        "source": "MagicVideo-V2",
+        "relation": "uses",
+        "target": "参考图像嵌入模块"
+      },
+      {
+        "source": "MagicVideo-V2",
+        "relation": "uses",
+        "target": "端到端视频生成pipeline"
+      },
+      {
+        "source": "T2I模块",
+        "relation": "is_type_of",
+        "target": "文本到图像模型"
+      },
+      {
+        "source": "I2V模块",
+        "relation": "is_type_of",
+        "target": "图生视频"
+      },
+      {
+        "source": "文本到视频生成",
+        "relation": "enables",
+        "target": "视频生成"
+      },
+      {
+        "source": "AIGC",
+        "relation": "enables",
+        "target": "视频生成"
+      },
+      {
+        "source": "PixelLM",
+        "relation": "focuses_on",
+        "target": "多目标推理分割"
+      },
+      {
+        "source": "PixelLM",
+        "relation": "focuses_on",
+        "target": "开放世界视觉任务"
+      },
+      {
+        "source": "PixelLM",
+        "relation": "uses",
+        "target": "像素解码器"
+      },
+      {
+        "source": "PixelLM",
+        "relation": "uses",
+        "target": "分割codebook"
+      },
+      {
+        "source": "PixelLM",
+        "relation": "uses",
+        "target": "可学习token"
+      },
+      {
+        "source": "PixelLM",
+        "relation": "is_type_of",
+        "target": "多模态大模型"
+      },
+      {
+        "source": "PixelLM",
+        "relation": "focuses_on",
+        "target": "像素级推理"
+      },
+      {
+        "source": "像素解码器",
+        "relation": "part_of",
+        "target": "PixelLM"
+      },
+      {
+        "source": "分割codebook",
+        "relation": "part_of",
+        "target": "PixelLM"
+      },
+      {
+        "source": "像素解码器",
+        "relation": "enables",
+        "target": "目标掩码生成"
+      },
+      {
+        "source": "大语言模型",
+        "relation": "enables",
+        "target": "视觉语言模型"
+      },
+      {
+        "source": "视觉语言模型",
+        "relation": "is_type_of",
+        "target": "多模态大模型"
+      },
+      {
+        "source": "PixelLM",
+        "relation": "powered_by",
+        "target": "大语言模型"
+      },
+      {
+        "source": "多模态大模型",
+        "relation": "focuses_on",
+        "target": "跨模态特征提取"
+      },
+      {
+        "source": "多模态大模型",
+        "relation": "enables",
+        "target": "视觉问题解答"
+      },
+      {
+        "source": "多模态大模型",
+        "relation": "enables",
+        "target": "图像字幕"
+      },
+      {
+        "source": "多模态大模型",
+        "relation": "enables",
+        "target": "视觉知识推理"
+      },
+      {
+        "source": "字节跳动",
+        "relation": "researches",
+        "target": "多模态大模型"
+      },
+      {
+        "source": "北京交通大学",
+        "relation": "researches",
+        "target": "PixelLM"
+      },
+      {
+        "source": "北京科技大学",
+        "relation": "researches",
+        "target": "PixelLM"
+      },
+      {
+        "source": "PixelLM",
+        "relation": "improves",
+        "target": "视觉分割模型"
+      },
+      {
+        "source": "可学习token",
+        "relation": "part_of",
+        "target": "分割codebook"
+      },
+      {
+        "source": "MagicVideo-V2",
+        "relation": "related_to",
+        "target": "AIGC"
+      },
+      {
+        "source": "端到端视频生成pipeline",
+        "relation": "technique_of",
+        "target": "MagicVideo-V2"
+      }
+    ],
+    "entities_count": 34,
+    "tags": [
+      "视频生成",
+      "多模态大模型",
+      "扩散模型",
+      "视觉语言学习",
+      "字节跳动"
+    ],
+    "raw_text": "目标 ClientId: com.sankuai.it.ead.citadel \n\n:::title\n多模态系列研究——字节视频生成模型\n:::\n\n# 1.MagicVideo-V2\n\n:[font]{size=13}2024年1月上旬，字节跳动发布视频生成模型 MagicVideo-V2[/font]\n\n:[font]{size=13}论文标题：MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation[/font]\n\n:[font]{size=13}论文链接：[/font][https://arxiv.org/abs/2401.04468](https://arxiv.org/abs/2401.04468)\n\n:[font]{size=13}项目地址：[/font][https://magicvideov2.github.io/](https://magicvideov2.github.io/)\n\n:[font]{size=13}MagicVideo-V2 的创新在于将文本到图像模型、视频运动生成器、参考图像嵌入模块和帧插值模块集成到端到端视频生成 pipeline 中。得益于这一架构设计，MagicVideo-V2 在「审美」上能够保持着稳定的高水平表现，不仅生成美观的高分辨率视频，还兼具比较好的保真度和流畅度。[/font]\n\n:[font]{size=13}具体而言，研究者首先使用 T2I 模块创建一个 1024×1024 的图像，封装所描述的场景。随后，I2V 模块对该静态图像进行动画处理，生成 600×600×32 的帧序列，之前的潜在噪声确保了初始帧的连续性。V2V 模块将这些帧增强到 1048×1048 分辨率，同时完善视频内容。最后，插值模块将序列扩展到 94 个帧，得到 1048×1048 分辨率的视频，所生成视频具有较高的美学质量和时间平滑性。[/font]\n\n![image.jpeg](https://km.sankuai.com/api/file/cdn/2167784495/91651555597?contentType=1&isNewContent=false){width=825.037841796875 height=497.31 small=\"https://km.sankuai.com/api/file/cdn/2167784495/91651555597?contentType=1&isNewContent=false\" origin=\"https://km.sankuai.com/api/file/cdn/2167784495/91651555597?contentType=1&isNewContent=false\"}\n\n:[font]{size=13}研究者进行的大规模用户评估证明：MagicVideo-V2 比一些知名的 T2V 方法更受青睐（绿色、灰色和粉色条分别代表 MagicVideo-V2 被评为较好、相当或较差）。[/font]\n\n![image.jpeg](https://km.sankuai.com/api/file/cdn/2167784495/91648448131?contentType=1&isNewContent=false){width=825.037841796875 height=381.96 small=\"https://km.sankuai.com/api/file/cdn/2167784495/91648448131?contentType=1&isNewContent=false\" origin=\"https://km.sankuai.com/api/file/cdn/2167784495/91648448131?contentType=1&isNewContent=false\"}\n\n![image.jpeg](https://km.sankuai.com/api/file/cdn/2167784495/91652277027?contentType=1&isNewContent=false){width=825.037841796875 height=553.84 small=\"https://km.sankuai.com/api/file/cdn/2167784495/91652277027?contentType=1&isNewContent=false\" origin=\"https://km.sankuai.com/api/file/cdn/2167784495/91652277027?contentType=1&isNewContent=false\"}\n\n:[font]{size=13}从 MagicVideo-V2 的论文中，我们可以看出，视频生成技术的进展，离不开文生图、图生视频等 AIGC 技术的铺路。而生成高审美水准内容的基础在于理解，特别是模型对于视觉和语言两种模态学习、融合能力的进步。[/font]\n\n:[font]{size=13}近年来，大语言模型的可扩展性和通用能力，催生出了统一视觉和语言学习的研究范式。为了跨越「视觉」和「语言」两种模态之间的天然鸿沟，研究者们将预训练好的大语言模型和视觉模型的表征连接起来，提取跨模态特性，完成如视觉问题解答、图像字幕、视觉知识推理和对话等任务。在这些方向上，字节跳动也有相关探索，比如 PixelLM。[/font]\n\n# 2. PixelLM：**统一视觉和语言学习的研究范式**\n\n:[font]{size=13}针对开放世界视觉任务中的多目标推理分割挑战，字节跳动联合北京交通大学、北京科技大学的研究者提出了高效像素级推理大模型 PixelLM，并将其开源。[/font]\n\n:[font]{size=13}论文标题：PixelLM:Pixel Reasoning with Large Multimodal Model[/font]\n\n:[font]{size=13}论文链接：[/font][https://arxiv.org/pdf/2312.02228.pdf](https://arxiv.org/pdf/2312.02228.pdf)\n\n:[font]{size=13}项目地址：[/font][https://pixellm.github.io/](https://pixellm.github.io/)\n\n:[font]{size=13}PixelLM 能够熟练地处理具有任意数量的开放集目标和不同推理复杂性的任务，下图展示了 PixelLM 在各种分割任务中生成高质量目标掩码的能力。[/font]\n\n![image.jpeg](https://km.sankuai.com/api/file/cdn/2167784495/91647947116?contentType=1&isNewContent=false){width=825.037841796875 height=492.73 small=\"https://km.sankuai.com/api/file/cdn/2167784495/91647947116?contentType=1&isNewContent=false\" origin=\"https://km.sankuai.com/api/file/cdn/2167784495/91647947116?contentType=1&isNewContent=false\"}\n\n:[font]{size=13}PixelLM 的核心是一个新颖的像素解码器和一个分割 codebook：codebook 包含了可学习的 token，这些 token 编码了与不同视觉尺度目标参考相关的上下文和知识，像素解码器根据 codebook token 的隐藏嵌入和图像特征生成目标掩码。在保持 LMM 基本结构的同时，PixelLM 可以在没有额外的、昂贵的视觉分割模型的情况下生成高质量的掩码，从而提高了效率和向不同应用程序的可迁移性。[/font]\n\n![image.jpeg](https://km.sankuai.com/api/file/cdn/2167784495/91645428586?contentType=1&isNewContent=false){width=825.037841796875 height=354.46 small=\"https://km.sankuai.com/api/file/cdn/2167784495/91645428586?contentType=1&isNewContent=false\" origin=\"https://km.sankuai.com/api/file/cdn/2167784495/91645428586?contentType=1&isNewContent=false\"}\n\n:[font]{size=13}值得关注的是，研究者构建了一个全面的多目标推理分割数据集 MUSE。他们从 LVIS 数据集中选取了共 910k 个高质量实例分割掩码以及基于图像内容的详细文本描述，利用这些构建了 246k 个问题 - 答案对。[/font]\n\n:[font]{size=13}相比于图像，如果涉及视频内容，模型遭遇的挑战难度就又增加了不少。因为视频不仅包含丰富多变的视觉信息，还涉及时间序列的动态变化。[/font]\n\n:[font]{size=13}现有的多模态大模型在处理视频内容时，通常将视频帧转化为一系列的视觉 token，并与语言 token 结合以生成文本。但随着生成文本长度的增加，视频内容的影响会逐渐减弱，导致生成的文本越来越多地偏离原视频内容，产生所谓的「幻觉」。[/font]\n\n:[font]{size=13}面对这一问题，字节跳动联合浙江大学提出了专门针对视频内容的复杂性设计的多模态大模型 Vista-LLaMA。[/font]\n\n# 3.Vista-LLaMA\n\n:[font]{size=13}论文标题：Vista-LLaMA:Reliable Video Narrator via Equal Distance to Visual Tokens[/font]\n\n:[font]{size=13}论文链接：[/font][https://arxiv.org/pdf/2312.08870.pdf](https://arxiv.org/pdf/2312.08870.pdf)\n\n:[font]{size=13}项目地址：[/font][https://jinxxian.github.io/Vista-LLaMA/](https://jinxxian.github.io/Vista-LLaMA/)\n\n:[font]{size=13}Vista-LLaMA 采用了一种改良的注意力机制 —— 视觉等距离 token 注意力（EDVT），在处理视觉与文本 token 时去除了传统的相对位置编码，同时保留了文本与文本之间的相对位置编码。这种方法大幅提高了语言模型对视频内容的理解深度和准确性。[/font]\n\n:[font]{size=13}特别是，Vista-LLaMA 引入的序列化视觉投影器为视频中的时间序列分析问题提供了新的视角，它通过线性投影层编码视觉 token 的时间上下文，增强了模型对视频动态变化的理解能力。[/font]\n\n![image.jpeg](https://km.sankuai.com/api/file/cdn/2167784495/91656122822?contentType=1&isNewContent=false){width=825.037841796875 height=452.24 small=\"https://km.sankuai.com/api/file/cdn/2167784495/91656122822?contentType=1&isNewContent=false\" origin=\"https://km.sankuai.com/api/file/cdn/2167784495/91656122822?contentType=1&isNewContent=false\"}\n\n:[font]{size=13}在被 ICLR 2024 接收的一项研究中，字节跳动的研究者还探讨了一种提升模型对视频内容学习能力的预训练方法。[/font]\n\n:[font]{size=13}由于视频-文本训练语料的规模和质量有限，大多数视觉语言基础模型都采用图像-文本数据集进行预训练，并主要关注视觉语义表征建模，而忽略了时间语义表征和相关性。为了解决这个问题，他们提出了 COSA，一种串联样本预训练视觉语言基础模型。[/font]\n\n# 4.COSA\n\n:[font]{size=13}论文标题：COSA: Concatenated Sample Pretrained Vision-Language Foundation Model[/font]\n\n:[font]{size=13}论文链接：[/font][https://arxiv.org/pdf/2306.09085.pdf](https://arxiv.org/pdf/2306.09085.pdf)\n\n:[font]{size=13}项目主页：[/font][https://github.com/TXH-mercury/COSA](https://github.com/TXH-mercury/COSA)\n\n:[font]{size=13}COSA 仅使用图像 - 文本语料库对视觉内容和事件级时间线索进行联合建模。研究者将多个图像 - 文本对按顺序串联起来，作为预训练的输入。这种转换能有效地将现有的图像 - 文本语料库转换成伪长格式视频 - 段落语料库，从而实现更丰富的场景转换和明确的事件 - 描述对应关系。实验证明，COSA 能够持续提高各种下游任务的性能，包括长 / 短视频 - 文本任务和图像 - 文本任务（如检索、字幕和问题解答）。[/font]\n\n![image.jpeg](https://km.sankuai.com/api/file/cdn/2167784495/91656694057?contentType=1&isNewContent=false){width=825.037841796875 height=520.23 small=\"https://km.sankuai.com/api/file/cdn/2167784495/91656694057?contentType=1&isNewContent=false\" origin=\"https://km.sankuai.com/api/file/cdn/2167784495/91656694057?contentType=1&isNewContent=false\"}  \n![image.jpeg](https://km.sankuai.com/api/file/cdn/2167784495/91654865031?contentType=1&isNewContent=false){width=825.037841796875 height=590.51 small=\"https://km.sankuai.com/api/file/cdn/2167784495/91654865031?contentType=1&isNewContent=false\" origin=\"https://km.sankuai.com/api/file/cdn/2167784495/91654865031?contentType=1&isNewContent=false\"}\n\n# 5.MagicAnimate：从图像到视频，被重新认识的「扩散模型」  \n:[font]{size=13}论文标题：MagicAnimate:Temporally Consistent Human Image Animation using Diffusion Model[/font]\n\n- [ ] :[font]{size=13}论文链接：[/font][https://arxiv.org/pdf/2311.16498.pdf](https://arxiv.org/pdf/2311.16498.pdf)\n- [ ] :[font]{size=13}项目地址：[/font][https://showlab.github.io/magicanimate/](https://showlab.github.io/magicanimate/)\n- [ ] :[font]{size=13}在视觉 - 语言模型之外，扩散模型同样是大部分视频生成模型采用的技术。[/font]\n  :[font]{size=13}通过在大量图像 - 文本配对数据集上进行严格训练，扩散模型能够完全根据文本信息生成细节丰富的图像。除了图片生成，扩散模型还可用于音频生成、时间序列生成、3D 点云生成等等。[/font]\n  :[font]{size=13}比如在一些短视频应用中，用户只需要提供一张图片，就能生成一段以假乱真的动作视频。[/font]\n  :[font]{size=13}数百年来保持神秘微笑的蒙娜丽莎，都能马上跑起来：[/font]\n- [ ] ![image.jpeg](https://km.sankuai.com/api/file/cdn/2167784495/91646754335?contentType=1&isNewContent=false){width=825.037841796875 height=280.62 small=\"https://km.sankuai.com/api/file/cdn/2167784495/91646754335?contentType=1&isNewContent=false\" origin=\"https://km.sankuai.com/api/file/cdn/2167784495/91646754335?contentType=1&isNewContent=false\"}\n- [ ] :[font]{size=13}这项有趣应用背后的技术，是新加坡国立大学和字节跳动的研究者联合推出的「MagicAnimate」。[/font]\n  :[font]{size=13}MagicAnimate 是一个基于扩散的人类图像动画框架，在根据特定的运动序列生成视频的任务中，能够很好地保证整个动画的时间一致性并提升动画保真度。而且，MagicAnimate 项目是开源的。[/font]\n- [ ] :[font]{size=13}为了解决生成动画普遍存在的「闪烁」问题，研究者通过将时间注意力（temporal attention）块合并到扩散主干网络中，来构建用于时间建模的视频扩散模型。[/font]\n  :[font]{size=13}MagicAnimate 将整个视频分解为重叠的片段，并简单地对重叠帧的预测进行平均。最后，研究者还引入图像 - 视频联合训练策略，以进一步增强参考图像保留能力和单帧保真度。虽然仅接受了真实人类数据的训练，MagicAnimate 却展现出了泛化到各种应用场景的能力，包括对未见过的领域数据进行动画处理、与文本 - 图像扩散模型的集成以及多人动画等。[/font]\n- [ ] ![image.jpeg](https://km.sankuai.com/api/file/cdn/2167784495/91656577701?contentType=1&isNewContent=false){width=825.037841796875 height=353.7 small=\"https://km.sankuai.com/api/file/cdn/2167784495/91656577701?contentType=1&isNewContent=false\" origin=\"https://km.sankuai.com/api/file/cdn/2167784495/91656577701?contentType=1&isNewContent=false\"}\n  # 6.DREAM-Talk\n- [ ] :[font]{size=13}论文标题：DREAM-Talk:Diffusion-based Realistic Emotional Audio-driven Method for Single Image Talking Face Generation[/font]\n- [ ] :[font]{size=13}论文链接：[/font][https://arxiv.org/pdf/2312.13578.pdf](https://arxiv.org/pdf/2312.13578.pdf)\n- [ ] :[font]{size=13}项目地址：[/font][https://dreamtalkemo.github.io/](https://dreamtalkemo.github.io/)\n- [ ] :[font]{size=13}DREAM-Talk是另一项基于扩散模型思想的研究，它解决了从单张肖像图像生成会说话的情绪化人脸的任务。[/font]\n  :[font]{size=13}我们知道，在这项任务中，很难同时实现富有表现力的情感对话和准确的唇语同步，通常为了保证唇语同步的准确性，表现力往往会大打折扣。[/font]\n  :[font]{size=13}「DREAM-Talk」是一个基于扩散的音频驱动框架，分为两个阶段：首先，研究者提出了一个新颖的扩散模块 EmoDiff，可根据音频和参考情绪风格生成多种高度动态的情绪表情和头部姿势。鉴于唇部动作与音频之间的强相关性，研究者随后利用音频特征和情感风格对动态进行了改进，从而提高了唇部同步的准确性，此外还部署了一个视频到视频渲染模块，实现了将表情和唇部动作转移到任意肖像。[/font]\n  :[font]{size=13}从效果上看，DREAM-Talk 在表现力、唇部同步准确性和感知质量方面的确不错：[/font]\n  ![image.jpeg](https://km.sankuai.com/api/file/cdn/2167784495/91659950650?contentType=1&isNewContent=false){width=825.037841796875 height=522.52 small=\"https://km.sankuai.com/api/file/cdn/2167784495/91659950650?contentType=1&isNewContent=false\" origin=\"https://km.sankuai.com/api/file/cdn/2167784495/91659950650?contentType=1&isNewContent=false\"}  \n  :[font]{size=13}但不管是图像生成还是视频生成，当前基于扩散模型路线的研究都还有一些基础挑战需要解决。[/font]\n  :[font]{size=13}比如很多人关心生成内容的质量问题（对应 SAG、DREAM-Talk），这可能与扩散模型的生成过程中的一些步骤有关，比如引导采样。[/font]\n  :[font]{size=13}扩散模型中的引导采样大致可分为两类：需要训练的和无需训练的。免训练引导采样是利用现成的预训练网络（如美学评估模型）来引导生成过程，旨在以更少的步骤和更高的精度从预训练的模型中获取知识。当前的训练无指导采样算法基于对干净图像的一步估计来获得指导能量函数。然而，由于预训练网络是针对干净图像进行训练的，因此干净图像的一步估计过程可能不准确，尤其是在扩散模型的早期阶段，导致早期时间步骤的指导不准确。[/font]\n  :[font]{size=13}针对该问题，字节跳动和新加坡国立大学的研究者共同提出了 Symplectic Adjoint Guidance (SAG)。[/font]\n  # 7.Symplectic Adjoint Guidance (SAG)\n- [ ] :[font]{size=13}论文标题：Towards Accurate Guided Diffusion Sampling through Symplectic Adjoint Method[/font]\n- [ ] :[font]{size=13}论文链接：[/font][https://arxiv.org/pdf/2312.12030.pdf](https://arxiv.org/pdf/2312.12030.pdf)\n  :[font]{size=13}SAG 通过两个内阶段计算梯度引导：首先，SAG 通过 n 个函数调用估计干净图像，其中 n 作为一个灵活的参数，可以根据特定的图像质量要求进行调整。其次，SAG 使用对称偶方法精确高效地获得关于内存需求的梯度。这种方法可支持各种"
+  },
+  {
+    "id": "2227377518",
+    "title": "多模态趋势下的架构选择",
+    "date": "",
+    "type": "topic_research",
+    "summary": "本文深入探讨了多模态AI趋势下的架构选择问题，重点围绕CNN与Transformer两大架构的比较、多模态Transformer的局限性、多模态大模型的实现方法，以及腾讯+港中文新CNN架构UniRepLKNet展开论述。\n\n在CNN与Transformer的比较上，文章指出CNN擅长局部空间特征提取，计算效率高；Transformer具备全局注意力和模态无关处理能力，更适合多模态学习。目前主流模型多采用CNN-Transformer混合架构。新兴架构如RWKV、Mamba、Hyena等也在挑战Transformer的主导地位。\n\n多模态Transformer存在五大局限：融合困难（早期/中间/晚期融合方式各有取舍）、跨模态对齐挑战、可迁移性难题（过拟合和跨任务差距）、效率问题（二次方复杂度）、通用性挑战。\n\n在多模态大模型实现方法上，文章总结了三种路径：以LLM为核心调用多模态组件（如HuggingGPT）、直接用多模态对齐数据训练大模型（如CLIP、VideoBERT、CoDi）、以LLM为底座训练跨模态编码器（如LLaVA）。\n\nTransformer发展脉络从Vanilla Transformer到Vision Transformer（ViT），再到多模态Transformer（VideoBERT、CLIP等），逐步打破CV与NLP壁垒。CLIP作为里程碑，将图像和文本映射到共享嵌入空间，实现零样本识别。\n\n重点案例UniRepLKNet由腾讯AI实验室与港中文联合提出，采用大卷积核保证感受野、depthwise小卷积提升特征抽象等设计准则，在ImageNet（88%精度）、COCO、ADE20K等任务上达到SOTA，速度是DeiT III-L的三倍，并在气温风速预测等时序任务上超越Transformer模型，表明CNN在多模态统一处理上并不逊于Transformer。",
+    "key_points": [
+      "腾讯AI实验室与港中文联合提出UniRepLKNet，在图像识别精度和速度上均超越Transformer架构，挑战了Transformer架构的主流地位",
+      "多模态Transformer面临融合困难、对齐挑战、可迁移性难题、效率瓶颈和通用性挑战五大核心局限性",
+      "多模态大模型有三种实现路径：以LLM为核心调用组件、直接训练多模态大模型、以LLM为底座训练跨模态编码器",
+      "CLIP是多模态预训练里程碑，通过双塔模型将图文映射到共享嵌入空间，实现零样本图像识别",
+      "当前主流模型多为CNN-Transformer混合架构，CNN负责初期局部特征提取，Transformer处理后期全局语义融合"
+    ],
+    "entities": [
+      "UniRepLKNet",
+      "腾讯AI实验室",
+      "港中文大学",
+      "HuggingGPT",
+      "CLIP",
+      "ViT",
+      "VideoBERT",
+      "LLaVA",
+      "微软亚洲研究院",
+      "OpenAI"
+    ],
+    "km_url": "https://km.sankuai.com/collabpage/2227377518",
+    "relations": [
+      {
+        "source": "腾讯AI实验室",
+        "relation": "made_by",
+        "target": "UniRepLKNet"
+      },
+      {
+        "source": "港中文",
+        "relation": "made_by",
+        "target": "UniRepLKNet"
+      },
+      {
+        "source": "UniRepLKNet",
+        "relation": "competes_with",
+        "target": "Transformer"
+      },
+      {
+        "source": "UniRepLKNet",
+        "relation": "is_type_of",
+        "target": "CNN"
+      },
+      {
+        "source": "CNN",
+        "relation": "competes_with",
+        "target": "Transformer"
+      },
+      {
+        "source": "Vision Transformer",
+        "relation": "is_variant_of",
+        "target": "Transformer"
+      },
+      {
+        "source": "CNN-Transformer混合体",
+        "relation": "part_of",
+        "target": "CNN"
+      },
+      {
+        "source": "CNN-Transformer混合体",
+        "relation": "part_of",
+        "target": "Transformer"
+      },
+      {
+        "source": "微软亚洲研究院",
+        "relation": "made_by",
+        "target": "HuggingGPT"
+      },
+      {
+        "source": "浙江大学",
+        "relation": "made_by",
+        "target": "HuggingGPT"
+      },
+      {
+        "source": "HuggingGPT",
+        "relation": "powered_by",
+        "target": "LLM"
+      },
+      {
+        "source": "HuggingGPT",
+        "relation": "enables",
+        "target": "多模态学习"
+      },
+      {
+        "source": "Transformer",
+        "relation": "enables",
+        "target": "多模态学习"
+      },
+      {
+        "source": "Transformer",
+        "relation": "enables",
+        "target": "跨模态对齐"
+      },
+      {
+        "source": "自注意力机制",
+        "relation": "part_of",
+        "target": "Transformer"
+      },
+      {
+        "source": "对比学习",
+        "relation": "technique_of",
+        "target": "跨模态对齐"
+      },
+      {
+        "source": "早期融合",
+        "relation": "is_method_of",
+        "target": "多模态学习"
+      },
+      {
+        "source": "中间融合",
+        "relation": "is_method_of",
+        "target": "多模态学习"
+      },
+      {
+        "source": "晚期融合",
+        "relation": "is_method_of",
+        "target": "多模态学习"
+      },
+      {
+        "source": "CNN",
+        "relation": "focuses_on",
+        "target": "图像识别"
+      },
+      {
+        "source": "CNN",
+        "relation": "focuses_on",
+        "target": "目标检测"
+      },
+      {
+        "source": "CNN",
+        "relation": "focuses_on",
+        "target": "图像分类"
+      },
+      {
+        "source": "CNN",
+        "relation": "focuses_on",
+        "target": "图像分割"
+      },
+      {
+        "source": "CNN",
+        "relation": "uses",
+        "target": "卷积层"
+      },
+      {
+        "source": "卷积层",
+        "relation": "enables",
+        "target": "特征提取"
+      },
+      {
+        "source": "数据增强",
+        "relation": "enhances",
+        "target": "多模态大模型"
+      },
+      {
+        "source": "单模态编码器",
+        "relation": "part_of",
+        "target": "多模态大模型"
+      },
+      {
+        "source": "预训练",
+        "relation": "technique_of",
+        "target": "多模态大模型"
+      },
+      {
+        "source": "多模态大模型",
+        "relation": "enables",
+        "target": "零样本推理"
+      },
+      {
+        "source": "多模态大模型",
+        "relation": "enables",
+        "target": "小样本推理"
+      },
+      {
+        "source": "LLM",
+        "relation": "is_type_of",
+        "target": "多模态大模型"
+      },
+      {
+        "source": "MML",
+        "relation": "same_as",
+        "target": "多模态学习"
+      },
+      {
+        "source": "Vision Transformer",
+        "relation": "competes_with",
+        "target": "CNN"
+      },
+      {
+        "source": "RWKV",
+        "relation": "competes_with",
+        "target": "Transformer"
+      },
+      {
+        "source": "Mamba",
+        "relation": "competes_with",
+        "target": "Transformer"
+      },
+      {
+        "source": "Hyena",
+        "relation": "competes_with",
+        "target": "Transformer"
+      },
+      {
+        "source": "Recurrent Memory Transformers",
+        "relation": "is_variant_of",
+        "target": "Transformer"
+      }
+    ],
+    "entities_count": 35,
+    "raw_text": "目标 ClientId: com.sankuai.it.ead.citadel \n\n:::title\n多模态趋势下的架构选择\n:::\n\n:::catalog{style=none}:::\n\n# 一、CNN VS.Transformer，做多模态谁更强？\n\n:[font]{size=13}1.一直以来，Transformer 都被认作为 AI 大模型的主流架构。但在近期的一些研究工作中，RWKV、Mamba、Hyena，以及 Recurrent Memory Transformers 等新的架构出现，也许「最先进的模型仍然是基于 Transformer 」的局面未来可能会改变。[/font]  \n:[font]{size=13}2.腾讯 AI 实验室与港中文联合团队提出的 CNN 架构「UniRepLKNet」，在图像识别精度和速度上均超过了 Transformer 架构模型。作者认为，Transformer 和 CNN 仅仅是相互交融的两种结构设计思路，没有理由认为前者具有本质的优越性。[/font]  \n:[font]{size=13}3.此前，CNN 长期以来一直是图像处理任务的首选。[/font]  \n:[font]{size=13}① CNN 擅长通过卷积层捕获局部空间信息，从而实现分层特征提取。CNN 擅长从大量图像数据中学习，并在图像分类、目标检测和分割等任务中效果显著。[/font]  \n:[font]{size=13}② CNN 由于其可并行性而具有更高计算效率，这使得它们适用于需要实时运行和资源受限的应用程序。[/font]  \n:[font]{size=13}4.在多模态学习中，Transformer 的输入可以包含一个或多个 token 序列，每个序列的属性（例如，模态标签、顺序）可以自然地进行 MML 而无需架构修改。此外，通过控制 self-attention 的输入模态可以简单地实现学习每个模态的特异性和模态间的相关性。[/font]  \n:[font]{size=13}① Transformer 的优势在于它们可以以与模态无关的方式工作。因此，它们与各种模态（和模态的组合）兼容。[/font]  \n:[font]{size=13}② 相较于 CNN， Vision Transformer 拥有全局注意力和上下文理解等至关重要的优势。[/font]  \n:[font]{size=13}③ 但 Vision Transformer 通常需要大量的训练数据才能达到与 CNN 相当的性能。[/font]  \n:[font]{size=13}5.目前，大多数先进的模型都是以 CNN-Transformer 混合体的形式设计的。这些模型主要在初期阶段使用卷积块，并将 Transformer 块的堆叠保留到最后阶段。目前，无论是卷积块还是 Transformer 块，在现有工作中都不能同时实现高效性和性能。[/font]\n\n# 二、基于 Transformer 的多模态模型又有哪些局限性？\n\n**:[font]{size=13}1.融合困难[/font]**  \n:[font]{size=13}① 一般来说，MML Transformers 主要在三个常规级别融合多种模态的信息：输入（即早期融合）、中间表示（即中间融合）和预测（即晚期融合）。将两种模态的表示直接输入标准注意力模块可以实现中间融合和潜在适应，最终得到最终双模态表示的后期融合。[/font]  \n:[font]{size=13}② 选择合适的融合方法（早期、晚期或中间融合）是实现高效多模态学习的关键难点。[/font]  \n**:[font]{size=13}2.对齐挑战[/font]**  \n:[font]{size=13}① 现实世界的数据通常以多种具有内在同步的模态出现（例如，视听对应），这支持了跨模态对齐。最近，基于 Transformers 的对齐导致利用大量网络数据（例如，图像-文本对）进行视觉和语言任务的激增。主要思想是将两种模态映射到一个共同的表示空间中，并在配对样本上进行对比学习。[/font]  \n:[font]{size=13}② 跨模态对齐是许多实际应用程序的关键因素，这要求模型能够理解和处理来自不同源的数据之间的复杂相互关系，确保数据间的有效协同。[/font]  \n**:[font]{size=13}3.可迁移性难题[/font]**  \n:[font]{size=13}① 可迁移性是基于 Transformer 的多模态学习的主要挑战，涉及如何在不同数据集和应用程序之间迁移模型的问题。数据增强和对抗性扰动策略帮助多模态 Transformers 提高泛化能力。[/font]  \n:[font]{size=13}② 过拟合是迁移的主要障碍。由于建模能力大，多模态 Transformer 在训练期间可能过度拟合数据集偏差。[/font]  \n:[font]{size=13}③ 跨任务差距是迁移的另一个主要障碍，因为不同的推理和输入输出工作流程，例如，如何使用多模态数据集来微调语言预训练模型是困难的。在实际应用中，由于缺少模态的问题，多模态预训练的 Transformer 有时需要在推理阶段处理单模态数据。[/font]  \n:[font]{size=13}④ 对于基于 Transformer 的多模态学习的可迁移性，还应考虑跨语言差距，例如从英语到非英语多模态上下文的通用跨语言泛化。[/font]  \n**:[font]{size=13}4.效率问题[/font]**  \n:[font]{size=13}多模态 Transformer 存在两个主要的效率问题：[/font]  \n:[font]{size=13}① 由于模型参数容量大，它们需要大量数据，因此依赖于大规模的训练数据集。[/font]  \n:[font]{size=13}② 它们受到时间和内存复杂度的限制，这些复杂度与输入序列长度呈二次方增长，这是由自注意引起的。这两个瓶颈是相互依赖的。[/font]  \n:[font]{size=13}稳健性难题： 在大规模语料库上预训练的多模态 Transformer 实现了各种多模态应用的最新技术，但它们的稳健性仍不清楚和研究不足。这至少涉及两个关键挑战，即如何从理论上分析稳健性，如何提高稳健性。[/font]  \n**:[font]{size=13}5.通用性挑战[/font]**  \n:[font]{size=13}① 由于多模态学习的任务和模态高度多样化，通用性是多模态 Transformer 模型的一个重要问题。最近的大量尝试研究如何使用尽可能统一的 pipeline 来处理各种模态和多模态任务。[/font]  \n:[font]{size=13}② 理想情况下，统一的多模态 Transformer 可以兼容各种数据（例如，对齐和未对齐、单模态和多模态）和任务（例如，有监督和无监督、单模态和多模态、判别和生成），同时具有 few-shot 甚至 zero-shot 泛化能力。因此，目前针对多模态 Transformer 的通用性目标的解决方案是初步探索。[/font]\n\n# 三、溯源：「多模态+大模型」是如何结合的？\n\n**:[font]{size=13}大模型+多模态包括 3 种实现方法：[/font]**  \n**:[font]{size=13}1.以 LLM 为核心，调用其他多模态组件[/font]**  \n:[font]{size=13}2023 年 5 月，微软亚洲研究院（MSRA）联合浙江大学发布了 HuggingGPT 框架，该框架能够以 LLM 为核心，调用其他的多模态组件来合作完成复杂的 AI 任务。[/font]  \n**:[font]{size=13}2.直接利用多模态的对齐数据来训练多模态大模型[/font]**  \n:[font]{size=13}① 这种方法的核心理念是分别构建多个单模态编码器，得到各自的特征向量，然后基于类 Transformer 对各个模态的特征进行交互和融合，实现在多模态的语义空间对齐。[/font]  \n:[font]{size=13}② 由此训练得到的多模态大模型具备很强的泛化能力和小样本、零样本推理能力，这得益于大规模的多模态对齐的预训练语料。与此同时，由于训练参数量较大，往往需要较多的训练资源和较长的训练时长。VideoBERT、CLIP、CoCa、CoDi 等都是基于该思路实现。[/font]  \n**:[font]{size=13}3.以 LLM 为底座模型，训练跨模态编码器：[/font]**  \n:[font]{size=13}① 以预训练好的 LLM 为底座模型，冻结 LLM 的大部分参数来训练跨模态编码器，既能够有效地利用 LLM 强大的自然语言理解和推理能力，又能完成复杂的多模态任务。[/font]  \n:[font]{size=13}② 这种训练方法还有一个显而易见的好处，在训练过程中对 LLM 的大部分参数进行了冻结，导致模型可训练的参数量远远小于真正的多模态大模型，因此其训练时长较短，对训练资源的要求也不高。[/font]  \n:[font]{size=13}③ 例如，在模型架构上，LLaVA 模型使用 Vicuna 模型作为文本编码器，使用 CLIP 模型作为图像编码器。[/font]\n\n# 四、Transformer 的发展回顾及对应的关键研究工作\n\n**:[font]{size=13}1.Vanilla Transformer: Transformer 研究领域的起源[/font]**  \n:[font]{size=13}① Vanilla Transformer 具有编码器-解码器结构，是基于 Transformer 的研究领域的起源。其编码器和解码器都由 Transformer 层/块堆叠。每个块都有两个子层，即一个多头自注意力 （MHSA） 层和一个位置全连接前馈网络（FFN）。[/font]  \n:[font]{size=13}② 得益于其自注意力机制，Vanilla Transformer 受益于自注意力机制，是最初为 NLP 提出的序列特定表示学习的突破性模型，在各种 NLP 上实现了 state-of-the-art 任务。[/font]  \n:[font]{size=13}③ Vanilla Transformer 专为高效处理长序列数据设计，利用并行计算显著提升效率。在输入标记化阶段，输入序列被转换成一组标记，为处理自然语言或其他序列数据打下基础。[/font]  \n:[font]{size=13}④ 通过自注意力和多头自注意力机制，模型能够动态关注序列的不同位置，同时从多个子空间捕获信息，增强处理能力。最后，前馈网络对自注意力层的输出进行线性变换和激活函数处理，进一步优化数据表达。这些组成部分使原生变换器在序列数据处理上表现出高效率和强大的灵活性。[/font]  \n:[font]{size=13}⑤ 随着 Vanilla Transformer 的巨大成功，许多衍生模型被提出，例如，BERT、BART、GPT、GPT-2. GPT-3. Longformer、Transformer-XL、XLNet。[/font]  \n**:[font]{size=13}2.Vision Transformer：打破了 CV 和 NLP 之间的壁垒[/font]**  \n:[font]{size=13}① Transformers 目前在 NLP 领域占据主导地位，研究者尝试将 Transformers 应用于其他模态，例如视觉领域。在视觉领域的早期尝试中，早期探索的一般流程是「CNN 特征 + 标准 Transformer 编码器」，研究人员通过调整原始图像大小到低分辨率并 reshape 为一维序列来实现 BERT 风格的预训练。[/font]  \n:[font]{size=13}② 近几年，Transformer 跨界迁移到 CV 领域的研究工作大多基于两个思路：一是注意力机制与 CNN 结合；二是在整体结构不变的情况下注意力机制替换 CNN 某些结构。[/font]  \n:[font]{size=13}③ 2020 年，谷歌大脑发表论文《An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale》，ViT 通过将图像切分为固定大小的块（patches），然后将这些块线性嵌入到与 Transformer 兼容的序列中来处理图像。[/font]  \n:[font]{size=13}④ Vision Transformer （ViT） 是一项开创性的工作，它通过将 Transformer 的编码器应用于图像来提供端到端的解决方案。[/font]  \n**:[font]{size=13}3.多模态 Transformer：进一步发展[/font]**  \n:[font]{size=13}① 在 Transformer 和 ViT 的推动下，许多 VideoTransformer 被提出来，包括 TimeSformer、Timesformer 等工作，将每一帧视频抽象成图像，并与其前一帧和后一帧相结合进行运算。与 3D 卷积神经网络（CNN）相比，TimeSformer 的训练逮度大约是其 4 倍，而推断所所需的计算量不足其十分之一。TimeSformer 的高效让在高空间分辨率（例如高达 560x560 像素的帧）和长视频（包括高达 96 帧）上训练模型成为可能。[/font]  \n:[font]{size=13}② VideoBERT 是一项突破性的工作，是第一个将 Transformer 扩展到多模态任务的工作。 VideoBERT 展示了 Transformer 在多模态环境中的巨大潜力。[/font]  \n:[font]{size=13}③ 2021 年，OpenAI 提出的文本-图像多模态预训练大模型 CLIP，是一个新的里程碑。CLIP 使用多模态预训练将分类转换为检索任务，使预训练模型能够处理零样本识别。CLIP 的结构是典型的双塔模型，有两个 encoder，一个对应图片，一个对应文本，图像和文本经过各自的 encoder 后，通过简单的点乘来代表不同模态的交互（相似性）。CLIP 的主要贡献在于将不同模式的数据（文本和图像）映射到一个共享的嵌入空间。这种共享的多模态嵌入空间使得文本到图像和图像到文本的任务变得更加容易。[/font]\n\n# 五、基于 Transformer 的预训练有哪些主流趋势？\n\n:[font]{size=13}1.视觉-语言预训练（VLP）是该领域的一个主要研究问题，包括「图像+语言」和「视频+语言」，也称为视觉-语言预训练。已经提出了大量优秀的工作，例如 VideoBERT、ViLBERT、LXMERT 等。[/font]\n\n:[font]{size=13}2.由于自动语音识别 （ASR） 技术的最新进展，在多模态上下文中，可以通过现成的语音识别工具将语音转换为文本。例如，VideoBERT 和 CBT 通过提取高级语义文本，充分利用语音而不是低级声音作为跨模态监督的来源。[/font]\n\n:[font]{size=13}3.大多数基于 Transformer 的多模态预训练以自监督的方式工作，但过度依赖于对齐良好的多模态样本对/元组。使用跨模态对齐作为跨模态监督对于大规模应用来说成本很高。因此，如何使用弱对齐甚至未配对/未对齐的多模态数据作为预训练语料库仍然没有得到充分研究。[/font]\n\n:[font]{size=13}4.本质上，在多模态预训练场景中，Transformer 模型基于 self-attention。因此，从模型结构的角度考虑，现有的用于多模态预训练的 Transformer 也主要分为三类，即单流、多流、混合流。[/font]\n\n:[font]{size=13}5.对于基于 Transformer 的多模态预训练，关键是驱动 Transformer 学习跨模态交互。在现有的基于 Transformer 的多模态预训练实践中，跨模态交互是灵活的，可以在预训练 pipeline 中的各个组件/级别内执行。一般来说，基于 Transformer 的多模态预训练 pipeline 具有三个关键组件：标记化、Transformer 表示、监督。不仅对于多模态预训练，而且对于特定的多模态任务，跨模态交互可以在三者的任意组件内执行。[/font]\n\n# 六、案例解读：腾讯+港中文新 CNN 架构——「UniRepLKNet」\n\n:[font]{size=13}2023年12 月 24 日，腾讯 AI 实验室与港中文联合团队提出了新 CNN 架构「UniRepLKNet」，在图像识别精度和速度上都超过了 Transformer 架构模型。[/font]  \n:[font]{size=13}1.UniRepLKNet 的设计遵循了四条 guideline，包括使用大卷积核来保证大感受野，使用 depthwise 小卷积来提高特征抽象层次，以及使用高效结构来增强模型的深度和表示能力。[/font]  \n:[font]{size=13}2.UniRepLKNet 的每个 block 主要由 depthwise conv、SE Block 和 FFN 三个部分组成。其中 depthwise conv 可以是大卷积核，也可以只是 depthwise 3x3。[/font]  \n:[font]{size=13}3.UniRepLKNet 在多个图像任务上表现出色，包括 ImageNet、COCO 和 ADE20K，其精度和速度都达到了 SOTA 水平。同时，切换到点云、音频、视频等其他模态，也无需改变模型结构，简单预处理即可接近甚至超越 SOTA。[/font]  \n:[font]{size=13}① UniRepLKNet-XL 的 ImageNet 精度达到 88%，而且实际速度是 DeiT III-L 的三倍；[/font]  \n:[font]{size=13}② 在 COCO 目标检测任务上，UniRepLKNet-L 不及 InternImage-L，但是 UniRepLKnet-XL 超过了 InternImage-XL。[/font]  \n:[font]{size=13}③ 在 ADE20K 语义分割上，UniRepLKNet 的优势相当显著，最高达到 55.6 的 mIoU。与 ConvNeXt-XL 相比超出了整整 1.6。[/font]  \n:[font]{size=13}4.此外，为了验证 UniRepLKNet 处理时序数据的能力，该工作还挑战了一个数据规模超大的《Nature》级别的任务：全球气温和风速预测。实验结果显示，UniRepLKNet 在时序预测任务上超越了基于 Transformer 的前 SOTA 模型。[/font]  \n:[font]{size=13}研究者认为，「CNN 在大一统这一点上可能不弱于 Transformer」。Transformer 和 CNN 仅仅是相互交融的两种结构设计思路，没有理由认为前者具有本质的优越性。在该项工作上，证明了 CNN 在点云、音频、视频方面的优势。[/font]",
+    "tags": [
+      "多模态学习",
+      "Transformer架构",
+      "CNN",
+      "视觉语言预训练",
+      "大模型"
+    ]
+  },
+  {
+    "id": "2245111253",
+    "title": "大模型推理加速方法研究01期",
+    "date": "",
+    "type": "paper_digest",
+    "summary": "本文系统梳理了大语言模型（LLM）推理加速的核心问题、方法分类及前沿进展。首先从算法和硬件两个层面分析了LLM推理缓慢的原因：算法层面，自回归生成的N²复杂度随序列增长不断加剧；硬件层面存在内存带宽瓶颈和利用率不足等问题。文章界定了评估推理速度的四大关键指标：首Token响应时间、整体生成延迟、吞吐量和硬件利用效率。在加速方法分类上，涵盖算法优化（批处理、注意力机制优化）、硬件优化、编译器优化、模型压缩与量化四大类。具体方法包括：批量生成与持续批处理（可显著提升GPU利用率）、模型权重缩减（剪枝与知识蒸馏）、注意力机制优化（多重查询关注、PagedAttention分页处理）、以及投机性解码（阈值解码、分阶段推测性解码、预见解码、提示查询解码等多种变体）。硬件层面，文章盘点了2023年多款重要AI加速芯片：英伟达H200（141GB HBM3e，带宽4.8TB/s）、AMD Instinct MI300X（192GB HBM3，带宽5.2TB/s）、英伟达GH200超级芯片、英特尔Gaudi 3、亚马逊Graviton4与Trainium2、Meta MTIA以及初创公司Etched.ai的Sohu芯片。最后以苹果研究为案例，介绍了一种利用闪存存储模型参数的推理加速方法：通过窗口化和行列捆绑技术最小化数据传输，结合FFN稀疏性预测（每次推理仅加载2%的FFN参数），在CPU上实现4-5倍、在GPU上实现20-25倍的推理速度提升，并支持运行两倍于DRAM容量的模型。",
+    "key_points": [
+      "LLM推理速度受算法复杂度（N²自回归）和硬件内存带宽双重瓶颈制约，关键评估指标包括首Token延迟、整体延迟、吞吐量和硬件利用率",
+      "持续批处理可避免GPU因部分序列提前完成而浪费算力，同时防止已完成序列生成无效Token，显著提升推理吞吐量",
+      "投机性解码通过并行生成多个候选Token并验证，包含阈值解码、分阶段推测、预见解码等多种变体，有效突破逐Token串行生成瓶颈",
+      "2023年AI推理加速芯片竞争激烈，英伟达H200、AMD MI300X、英特尔Gaudi 3等旗舰产品在内存容量与带宽上大幅超越前代，苹果M系芯片凭借CPU/GPU统一内存架构具备独特优势",
+      "苹果研究利用LLM前馈网络层高达90%以上的稀疏性，通过窗口化和行列捆绑技术从闪存按需加载参数，CPU推理提速4-5倍，GPU推理提速20-25倍"
+    ],
+    "entities": [
+      "苹果",
+      "英伟达H200",
+      "AMD Instinct MI300X",
+      "英伟达GH200",
+      "英特尔Gaudi 3",
+      "亚马逊Trainium2",
+      "Meta MTIA",
+      "Etched.ai Sohu",
+      "PagedAttention",
+      "投机性解码"
+    ],
+    "km_url": "https://km.sankuai.com/collabpage/2245111253",
+    "relations": [
+      {
+        "source": "LLM",
+        "relation": "uses",
+        "target": "注意力机制"
+      },
+      {
+        "source": "LLM",
+        "relation": "uses",
+        "target": "自回归模型"
+      },
+      {
+        "source": "Transformer",
+        "relation": "uses",
+        "target": "注意力机制"
+      },
+      {
+        "source": "GPT-2",
+        "relation": "is_type_of",
+        "target": "LLM"
+      },
+      {
+        "source": "稀疏注意力机制",
+        "relation": "improves",
+        "target": "注意力机制"
+      },
+      {
+        "source": "多重查询关注机制",
+        "relation": "improves",
+        "target": "注意力机制"
+      },
+      {
+        "source": "PagedAttention",
+        "relation": "improves",
+        "target": "注意力机制"
+      },
+      {
+        "source": "KV缓存机制",
+        "relation": "enhances",
+        "target": "推理加速"
+      },
+      {
+        "source": "KV缓存机制",
+        "relation": "uses",
+        "target": "自回归模型"
+      },
+      {
+        "source": "批处理",
+        "relation": "enhances",
+        "target": "推理加速"
+      },
+      {
+        "source": "持续批处理",
+        "relation": "improves",
+        "target": "批处理"
+      },
+      {
+        "source": "持续批处理",
+        "relation": "is_variant_of",
+        "target": "批量生成"
+      },
+      {
+        "source": "批量生成",
+        "relation": "is_type_of",
+        "target": "批处理"
+      },
+      {
+        "source": "投机性解码",
+        "relation": "enhances",
+        "target": "推理加速"
+      },
+      {
+        "source": "投机性解码",
+        "relation": "uses",
+        "target": "草稿模型"
+      },
+      {
+        "source": "阈值解码",
+        "relation": "is_variant_of",
+        "target": "投机性解码"
+      },
+      {
+        "source": "分阶段推测性解码",
+        "relation": "is_variant_of",
+        "target": "投机性解码"
+      },
+      {
+        "source": "分阶段推测性解码",
+        "relation": "uses",
+        "target": "树状结构生成"
+      },
+      {
+        "source": "分阶段推测性解码",
+        "relation": "uses",
+        "target": "注意力掩码"
+      },
+      {
+        "source": "模型压缩",
+        "relation": "enhances",
+        "target": "推理加速"
+      },
+      {
+        "source": "模型剪枝",
+        "relation": "is_type_of",
+        "target": "模型压缩"
+      },
+      {
+        "source": "模型量化",
+        "relation": "is_type_of",
+        "target": "模型压缩"
+      },
+      {
+        "source": "知识蒸馏",
+        "relation": "is_type_of",
+        "target": "模型压缩"
+      },
+      {
+        "source": "参数剪枝",
+        "relation": "is_type_of",
+        "target": "模型剪枝"
+      },
+      {
+        "source": "编译器优化",
+        "relation": "enhances",
+        "target": "推理加速"
+      },
+      {
+        "source": "融合操作",
+        "relation": "is_type_of",
+        "target": "编译器优化"
+      },
+      {
+        "source": "GPU",
+        "relation": "enables",
+        "target": "推理加速"
+      },
+      {
+        "source": "TPU",
+        "relation": "enables",
+        "target": "推理加速"
+      },
+      {
+        "source": "引导式生成",
+        "relation": "is_type_of",
+        "target": "投机性解码"
+      },
+      {
+        "source": "吞吐量",
+        "relation": "related_to",
+        "target": "推理加速"
+      },
+      {
+        "source": "首个Token响应时间",
+        "relation": "related_to",
+        "target": "推理加速"
+      },
+      {
+        "source": "整体生成延迟",
+        "relation": "related_to",
+        "target": "推理加速"
+      },
+      {
+        "source": "硬件利用效率",
+        "relation": "related_to",
+        "target": "推理加速"
+      },
+      {
+        "source": "LLM",
+        "relation": "focuses_on",
+        "target": "Token生成"
+      },
+      {
+        "source": "自回归模型",
+        "relation": "uses",
+        "target": "KV缓存机制"
+      },
+      {
+        "source": "PagedAttention",
+        "relation": "part_of",
+        "target": "KV缓存机制"
+      },
+      {
+        "source": "多重查询关注机制",
+        "relation": "part_of",
+        "target": "KV缓存机制"
+      }
+    ],
+    "entities_count": 35,
+    "tags": [
+      "LLM推理加速",
+      "注意力机制优化",
+      "AI推理芯片",
+      "模型量化与压缩",
+      "投机性解码"
+    ],
+    "raw_text": "目标 ClientId: com.sankuai.it.ead.citadel \n\n:::title\n大模型推理加速方法研究01期\n:::\n\n:::catalog{style=none}:::\n\n# 一、为何 LLM 的简单推理很缓慢？有哪些关键指标？\n\n:[font]{size=13}**1.算法层面：**[/font]\n\n:[font]{size=13}从算法角度看，每个循环需要处理越来越多的 Tokens，因为每个循环都会向上下文添加一个新 Token。随着生成过程的进行，模型的速度会逐渐降低，因为每次生成新 Token 时，都要处理更长的前缀。至少在普通的注意力机制中，算法是二次方的，所有 Token 都关注所有其他 Token，这导致了 N² 级别的复杂度增长，进一步加剧了问题。[/font]\n\n:[font]{size=13}**2.硬件层面：**[/font]\n\n\n:[font]{size=13}**3.判断 LLM 的推理速度时，通常关注以下几个关键指标：**[/font]\n\n:[font]{size=13}① 首个 Token 响应时间：从收到输入到输出第一个 Token 所需的时间有多长；[/font]\n\n:[font]{size=13}② 整体生成延迟：从收到输入到完成最终 Token 输出的时间长度是多少；[/font]\n\n:[font]{size=13}③ 吞吐量：系统能同时处理多少个独立的生成任务；[/font]\n\n:[font]{size=13}④ 硬件利用效率：对计算资源、内存带宽及其他硬件功能的利用程度如何。[/font]\n\n# 二、现阶段，加速 LLM 推理效率方法有哪些分类？\n\n:[font]{size=13}**1.算法优化**[/font]\n\n:[font]{size=13}① 使用批处理（batching）：将多个输入样本一起处理，以减少模型的前向传播次数，提高硬件利用率和推理吞吐量。[/font]\n\n\n:[font]{size=13}③ 优化注意力机制：改进注意力计算的算法，减少计算复杂度，例如使用稀疏注意力机制或近似计算。[/font]\n\n:[font]{size=13}**2.硬件优化**[/font]\n\n:[font]{size=13}① 使用更好的硬件：购买更高性能的硬件设备，如 GPU 或 TPU，以提高推理速度。[/font]\n\n:[font]{size=13}② 充分利用硬件：优化程序代码，充分利用硬件的计算、内存带宽等能力，提高推理效率。[/font]\n\n:[font]{size=13}③ 使用加速器：使用加速器（如 GPU）进行推理，可以获得显著的速度提升，但需要注意 CPU 和加速器之间的数据传输瓶颈。[/font]\n\n:[font]{size=13}**3.编译器优化**[/font]\n\n:[font]{size=13}① 使用编译器：使用编译器对模型进行优化，将 Python 代码转换为针对特定硬件优化的内核，提高推理速度。[/font]\n\n:[font]{size=13}② 融合操作：将多个操作融合为一个更高效的操作，减少内存分配和数据传输，提高推理效率。[/font]\n\n:[font]{size=13}**4.模型压缩和量化**[/font]\n\n:[font]{size=13}① 模型剪枝：通过删除冗余参数和连接来减小模型的大小，从而减少推理时间。[/font]\n\n:[font]{size=13}② 模型量化：将模型参数从浮点数转换为低精度表示，减少内存占用和计算量，提高推理速度。[/font]\n\n# 三、LLM 推理加速方法有哪些？\n\n:[font]{size=13}**1.批量生成优化**[/font]\n\n:[font]{size=13}① 批量生成是一种优化技术，用于提高大语言模型在生成文本时的效率。这种方法的核心在于同时处理多个序列，而不是逐个序列处理。[/font]\n\n:[font]{size=13}② 通过批量处理，整批序列的处理时间远少于分别处理每个序列的时间。例如，使用 GPT-2 生成 20 个 Token，对于 1 个序列大约需要 70 毫秒，而对于 5 个序列则约为 220 毫秒，远低于线性增长的预期（350 毫秒）。[/font]\n\n:[font]{size=13}③ 持续批处理是对批量生成方法的进一步优化，旨在提高资源利用率和处理效率。通过持续批处理，可以确保 GPU 在整个生成过程中始终保持高效运行，不会因为部分序列的早期完成而浪费计算资源；同时，在传统批量生成中，已完成的序列可能会继续生成无关的 Token。持续批处理避免了这种情况，因为一旦序列完成，就会立即用新序列替换，避免生成不必要的 Token。[/font]\n\n:[font]{size=13}**2.缩减模型权重**[/font]\n\n:[font]{size=13}① 缩减模型的权重是一种优化技术，旨在减少大语言模型在运行时所需处理的数据量，从而提高推理速度。[/font]\n\n:[font]{size=13}② 缩减权重的方法包括参数剪枝和知识蒸馏。[/font]\n\n:[font]{size=13}③ 缩减模型权重可以减少计算负担，通过减少模型的参数数量，可以降低在每次推理中所需的计算量；同时，提高处理速度，较小的模型通常意味着更快的处理速度，因为有更少的数据需要在内存和处理器之间传输。[/font]\n\n\n\n:[font]{size=13}② 多重查询关注机制是一种改进的注意力机制，用于提高模型处理多个查询的效率。传统的注意力机制一次处理一个查询。多重查询关注机制允许模型同时处理多个查询，从而提高效率。此外，优化计算过程，这种机制通过优化计算过程，减少了对资源的需求，特别是在处理大量数据时。[/font]\n\n:[font]{size=13}③ PagedAttention 是一种优化技术，旨在处理大型模型中的注意力机制的内存限制问题。在处理大型输入时，PagedAttention 将注意力矩阵分成多个「页面」，每个页面单独处理。这种方法减少了一次性需要的内存量，使得处理大型模型变得更加可行。[/font]\n\n:[font]{size=13}**4.投机性解码**[/font]\n\n:[font]{size=13}① 投机性解码是一种优化技术，用于加速语言模型的文本生成过程。这种方法通过并行生成多个潜在的候选 Token 来加快生成速度。[/font]\n\n:[font]{size=13}② 传统的自回归生成方法一次生成一个 Token。投机性解码允许模型同时生成多个潜在的候选 Token。一旦生成了多个候选 Token，模型会基于某种标准（如概率）选择最佳的候选继续生成。[/font]\n\n:[font]{size=13}③ 阈值解码方法通过设定一个动态的概率阈值来决定是否接受草稿模型生成的 Token。如果累积概率高于阈值，则继续生成；否则，停止并提交给判定系统。[/font]\n\n:[font]{size=13}④ 分阶段推测性解码方法采用树状结构的生成过程，而不是单线生成。它适用于处理复杂文本，因为它允许生成多个草稿序列，并使用特定的注意力掩码与预测模型进行核对。[/font]\n\n:[font]{size=13}⑤ 引导式生成通过约束模型的输出符合特定的语法规则，来确保输出内容的可靠性。它通过自动插入符合语法规则的 Token 来加快处理速度。[/font]\n\n:[font]{size=13}⑥ 预见解码方法在模型的两个分支上运作：预见分支预测并延伸候选的 N-gram，而验证分支用于验证这些候选项。这是一种在单一模型中实现的复杂但有效的解码策略。[/font]\n\n:[font]{size=13}⑦ 提示查询解码技术通过在上下文中进行简单的字符串匹配来代替传统的草稿模型生成方法，特别适用于需要大量直接从输入中复制内容的任务，如代码编辑或检索增强生成。[/font]\n\n# 四、还有哪些硬件加速方面工作值得关注？\n\n:[font]{size=13}**1.提升推理速度的一个直接方法是采用更高性能的硬件**[/font]\n\n:[font]{size=13}① 使用加速器可以显著提高处理速度，但需要注意的是，CPU 和加速器之间的数据传输可能会成为瓶颈。如果模型无法完全装入加速器的内存中，那么在前向传递过程中，模型可能需要频繁在内存与加速器之间交换，这会大幅降低运行速度。例如，苹果的 M1/M2/M3 芯片之所以在推理性能上表现出色，部分原因是它们实现了 CPU 与 GPU 的统一内存管理。[/font]\n\n:[font]{size=13}② 此外，在使用 CPU 或加速器进行推理时，还需要考虑是否充分发挥了硬件的潜能。经过良好优化的程序能够从性能较低的硬件中挤出更多效能，而未经优化的程序即使在顶级硬件上也可能表现平平。[/font]\n\n:[font]{size=13}**2.相关工作：**[/font]\n\n:[font]{size=13}① 2023年 12 月，AI 芯片公司 SOHU-Etched.ai计划 2024 年交付一款名为「Sohu」的 AI 推理加速芯片，这款芯片将在硬件层面上集成 Transformer 构架。[/font]\n\n:[font]{size=13}② 2023年 12 月，在 AMD Advancing AI 活动中，AMD 展示了其下一代 AI 加速器 3D 集成芯片 Instinct MI300 。它可以使某些机器学习关键计算的速度提高 3.4 倍。该芯片与 Nvidia 的 Grace-Hopper 超级芯片和英特尔的超级计算机加速器 Ponte Vecchio 等竞品既有不同又有相似之处。[/font]\n\n:[font]{size=13}③ 2023年 12 月，英特尔推出用于深度学习和大规模生成人工智能模型的 AI 加速器 Gaudi 3。英特尔 Gaudi 3 将采用 5nm 工艺，带宽是前代 Gaudi 2（7nm 工艺）的 1.5 倍，BF16 功率是其 4 倍，网络算力是其 2 倍。英特尔 Gaudi 3 预计将配备最高 128GB 的 HBM3e 内存，AI 学习和训练性能大幅提升，对标的是英伟达 H200 加速卡。[/font]\n\n\n:[font]{size=13}⑤ 2023年 11 月，亚马逊云科技发布了新版本的定制微处理器 Amazon Graviton4 和用于训练神经网络的专用芯片 Amazon Trainium2。Graviton4 计算性能较上一代提升 30%，Trainium 2 芯片针对万亿参数的基础模型（FM）和大语言模型设计，与第一代相比训练速度提升多达 4 倍。[/font]\n\n:[font]{size=13}⑥ 2023年 11 月，英伟达发布了 AI 芯片 H200。这款新的 GPU 基于 H100 进行了升级，内存带宽提高了 1.4 倍，内存容量提高了 1.8 倍，提高了处理生成式 AI 任务的能力。H200 是首款以 4.8 TB/s 速度提供 141 GB HBM3e 内存的 GPU，几乎是 NVIDIA H100 Tensor Core GPU 容量的两倍。H200 还配备了高达 141GB 超大显存，与 H100 的 80GB 相比，容量几乎翻倍，并且带宽还增加了 2.4 倍。[/font]\n\n:[font]{size=13}⑦ 2023年 6 月，AMD 发布了 Instinct MI300A 及 Instinct MI300X 两款加速显卡，其中前者是 CPU+GPU 首次合体的产品，后者则是纯 GPU，主要用于 AI、HPC 高性能计算等领域。MI300A 处理器将最多提供 24 个 Zen4 核心，并结合 CDNA 3 GPU 架构和最多 192GB 的 HBM3 内存，为所有 CPU 和 GPU 核心提供了统一的访问内存。MI300X 拥有最多 8 个 XCD 核心，304 组 CU 单元，8 组 HBM3 核心，显存容量提升到了 192GB，相当于 NVIDIA H100 80GB 的足足 2.4 倍，同时 HBM 内存带宽高达 5.2TB/s，Infinity Fabric 总线带宽也有 896GB/s，同样远超 NVIDIA H100。[/font]\n\n:[font]{size=13}⑧ 2023年 5 月，英伟达的 GH200 超级芯片正式投产 。GH200 在同一块板上将英伟达 Grace 中央处理单元（CPU）和 Hopper 图形处理单元（GPU）连接在一起。借助新型双 GH200 服务器中的 NVLink，系统中的 CPU 和 GPU 将通过完全一致的内存互连进行连接。这种组合提供了更大内存、更快带宽，能够在 CPU 和 GPU 之间自动切换计算所需要的资源，实现性能最优化。[/font]\n\n:[font]{size=13}⑨ 2023年 5 月，Meta 推出了定制的 AI 芯片，称为「Meta 训练和推理加速器」（Meta Training and Inference Accelerator，简称 MTIA）。 MTIA 采用 RISC-V 架构，与 GPU 相比，MTIA 在全连接层上的每瓦性能最高可达两倍。就每消耗一瓦能量的每秒浮点运算次数而言，MTIA 芯片的效率最高可达 GPU 的三倍。然而，当芯片负责更复杂的神经网络时，它会落后于 GPU。[/font]\n\n# 五、案例：苹果新的大模型推理方法\n\n:[font]{size=13}苹果的研究者提出通过在闪存中存储模型参数来加速大模型推理，该方法在 CPU 和 GPU 上分别实现了 4-5 倍和 20-25 倍的推理速度提升。[/font]\n\n:[font]{size=13}近期一些工作表明， LLM 在前馈网络（FFN）层中表现出高度稀疏性，其中 OPT、Falcon 等模型的稀疏性更是超过 90%。苹果的研究者基于利用稀疏性， 有选择地仅从闪存中加载具有非零输入或预测具有非零输出的参数。[/font]\n\n:[font]{size=13}研究者在最小化数据传输、最大化闪存吞吐量两个关键领域进行了优化，提出了两种技术，分别为窗口化和行列捆绑。[/font]\n\n:[font]{size=13}① 窗口化：仅为前几个 token 加载参数，并重用最近计算的 tokens 的激活。这种滑动窗口方法减少了加载权重的 IO 请求数量；[/font]\n\n:[font]{size=13}② 行列捆绑：存储上投影和下投影层的串联行和列，以读取闪存的更大连续块。这将通过读取更大的块来增加吞吐量。[/font]\n\n:[font]{size=13}同时，为了进一步最小化从闪存传输到 DRAM 的权重数量，研究者设法预测 FFN 稀疏性并避免加载归零参数。结合使用窗口和稀疏性预测可以为每个推理查询仅加载 2% 的闪存 FFN 层。此外，研究者还提出了静态内存预分配，最大限度减少了 DRAM 内的传输并减少了推理延迟。[/font]\n\n:[font]{size=13}实验结果显示，闪存加载成本模型在加载更好数据与读取更大块之间取得了平衡。与 CPU 和 GPU 中的 naive 实现相比，优化该成本模型并有选择地按需加载参数的闪存策略可以运行两倍于 DRAM 容量的模型，并将推理速度分别提升 4-5 倍和 20-25 倍。[/font]"
+  },
+  {
+    "id": "2262680539",
+    "title": "GPT-4o团队报告",
+    "date": "",
+    "type": "topic_research",
+    "summary": "本文是一份关于GPT-4o核心开发团队的详细报告，深度剖析了该模型的研发团队构成、背景及协作模式。GPT-4o的核心开发团队共17人，其中包含6位华人研究员，整体开发周期历时18个月，期间涉及OpenAI多个团队的深度协作配合。在团队背景方面，17人中有11人曾拥有硅谷顶级AI大厂的工作经验，涵盖谷歌/DeepMind、Meta、微软、苹果等，其中来自谷歌/DeepMind的成员最多，达8人，体现了团队的高度精英化特征。在更广泛的贡献团队层面，参与人员按方向划分为语言团队（226人）、多模态团队（115人）、平台团队、规划/安全和政策团队、模型部署与发布团队等多个方向，各团队间存在普遍的兼岗与人员重合现象。GPT-4o的内部协作模式被概括为",
+    "key_points": [
+      "GPT-4o由17人核心团队历时18个月开发完成，其中6位华人，体现了多元化的团队构成",
+      "核心团队11人具有谷歌/DeepMind、Meta、微软等硅谷大厂背景，出自谷歌/DeepMind者最多达8人",
+      "GPT-4o采用'小团队冲锋+大团队支持'协作模式，语言团队226人、多模态团队115人提供全方位支撑",
+      "团队此前曾多次尝试多模态方向均未成功，GPT-4o是首次让最大规格GPT实现多模态运行的突破",
+      "Mianna Chen与Mark Chen担任多个主要项目的领导者，项目整体协调难度在OpenAI历史上属于罕见"
+    ],
+    "entities": [
+      "GPT-4o",
+      "OpenAI",
+      "Prafulla Dhariwal",
+      "Li Jing",
+      "Mianna Chen",
+      "Mark Chen",
+      "谷歌/DeepMind",
+      "DALL·E 3",
+      "Sora",
+      "Scaling Law"
+    ],
+    "km_url": "https://km.sankuai.com/collabpage/2262680539",
+    "relations": [
+      {
+        "source": "GPT-4o",
+        "relation": "made_by",
+        "target": "OpenAI"
+      },
+      {
+        "source": "Mianna Chen",
+        "relation": "works_at",
+        "target": "OpenAI"
+      },
+      {
+        "source": "Mark Chen",
+        "relation": "works_at",
+        "target": "OpenAI"
+      },
+      {
+        "source": "Mianna Chen",
+        "relation": "part_of",
+        "target": "GPT-4o"
+      },
+      {
+        "source": "Mark Chen",
+        "relation": "part_of",
+        "target": "GPT-4o"
+      },
+      {
+        "source": "GPT-4o",
+        "relation": "is_variant_of",
+        "target": "GPT"
+      },
+      {
+        "source": "GPT-4o",
+        "relation": "enhances",
+        "target": "多模态AI"
+      },
+      {
+        "source": "语言团队",
+        "relation": "part_of",
+        "target": "OpenAI"
+      },
+      {
+        "source": "多模态团队",
+        "relation": "part_of",
+        "target": "OpenAI"
+      },
+      {
+        "source": "平台团队",
+        "relation": "part_of",
+        "target": "OpenAI"
+      },
+      {
+        "source": "规划/安全和政策团队",
+        "relation": "part_of",
+        "target": "OpenAI"
+      },
+      {
+        "source": "模型部署与发布团队",
+        "relation": "part_of",
+        "target": "OpenAI"
+      },
+      {
+        "source": "谷歌",
+        "relation": "related_to",
+        "target": "DeepMind"
+      },
+      {
+        "source": "GPT-4o团队报告",
+        "relation": "describes",
+        "target": "GPT-4o"
+      },
+      {
+        "source": "小团队冲锋+大团队支持",
+        "relation": "technique_of",
+        "target": "OpenAI"
+      }
+    ],
+    "entities_count": 18,
+    "raw_text": "目标 ClientId: com.sankuai.it.ead.citadel \n\n:::title\nGPT-4o团队报告\n:::\n\n:::catalog{style=none}:::\n\n# 一、核心信息\n\n:[font]{size=13}1.GPT-4o的核心开发团队人数为[/font]**:[font]{size=13}17人[/font]**:[font]{size=13}，其中[/font]**:[font]{size=13}6位华人[/font]**:[font]{size=13}，开发时间为[/font]**:[font]{size=13}18个月[/font]**:[font]{size=13}，涉及OpenAI多个团队的配合；[/font]\n\n:[font]{size=13}2.此前团队曾做过多次多模态的尝试，却没有一次能让最大的GPT成功地完成多模态运行；[/font]\n\n:[font]{size=13}3.17人中，[/font]**:[font]{size=13}11人[/font]**:[font]{size=13}曾有过硅谷AI大厂工作经验（谷歌/DeepMind、Meta、微软、苹果），其中[/font]**:[font]{size=13}出自谷歌/DeepMind的人最多（8人）[/font]**:[font]{size=13}；[/font]\n\n:[font]{size=13}4.贡献团队参与人数众多，按方向划分，分别为[/font]**:[font]{size=13}语言团队[/font]**:[font]{size=13}、[/font]**:[font]{size=13}多模态团队[/font]**:[font]{size=13}、[/font]**:[font]{size=13}平台团队[/font]**:[font]{size=13}、[/font]**:[font]{size=13}规划/安全和政策团队[/font]**:[font]{size=13}、[/font]**:[font]{size=13}模型部署与发布团队[/font]**:[font]{size=13}等，其中语言团队[/font]**:[font]{size=13}（226人）[/font]**:[font]{size=13}和多模态团队[/font]**:[font]{size=13}（115人）[/font]**:[font]{size=13}人数最多（团队间普遍存在兼岗，各团队间有人员重合）；[/font]\n\n:[font]{size=13}5.GPT-4o的内部合作模式是“[/font]**:[font]{size=13}小团队冲锋+大团队支持[/font]**:[font]{size=13}”，17人的专项团队负责具体产品，全公司有生力量提供全方位支持，整体的项目复杂度与协调难度在OpenAI历史上算鲜有，Mianna Chen与Mark Chen是其中多个主要项目的leaders。[/font]\n\n# 二、核心开发团队成员介绍（17人）\n\n:::table{borderColor=\"#dddddd\" borderStyle=\"solid\" borderWidth=1 responsive=false}\n[\n  [\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          50\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n\\n:::\"\n    },\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}姓名[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}职位[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}研究方向[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}此前参与项目[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}加入OpenAI时间[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}学历[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}国籍[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}其他[/font]**\\n:::\"\n    }\n  ],\n  [\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          50\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \"\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}Prafulla Dhariwal[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}Researcher（团队负责人）[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}生成式模型、无监督学习、Scaling Law、定理证明、强化学习、量子复杂性[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}DALL·E 3、DALL·E 2，模型一致性等，还共同提出了著名的「Scaling Law」。[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}2017年[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}本科：MIT，计算机科学[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}印度[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}国际数学奥林匹克竞赛、国际天文学奥林匹克竞赛和国际物理奥林匹克的金牌获得者。[/font]\"\n    }\n  ],\n  [\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          50\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \"\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}Li Jing[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}Researcher[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}图像/3D生成[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}Dall-E 3、Sora[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}2022年[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}·北京大学：本科，物理学）[/font]\\n\\n:[font]{size=13}·博士：MIT、物理学[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}中国[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}有过创业经历，在Meta做过2年的博士后研究员。[/font]\"\n    }\n  ],\n  [\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          50\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \"\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}Casey Chu[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}Researcher[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}多模态[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}GPT-4、DALL·E 2[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}2020年[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}·本科：哈维·穆德学院，数学[/font]\\n\\n:[font]{size=13}·研究生：斯坦福大学，计算数学[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}中国[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \"\"\n    }\n  ],\n  [\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          50\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \"\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}Mark Chen[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}Research Scientist,Head of Frontiers Research（前沿研究主管）[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}多模态[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}GPT-4、DALL·E 2[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}2018年[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}本科：MIT，计算机科学[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}美国(华人)[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}·美国国际信息学奥林匹克竞赛队教练；[/font]\\n\\n:[font]{size=13}·曾在微软、Trading实习，在哈佛做访问学者，在量化研究工作过5年，并且成为合伙人。[/font]\"\n    }\n  ],\n  [\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          50\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \"\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}Jiahui Yu[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}Research Scientist[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}序列建模（语言、语音、视频、金融数据）、计算机视觉、生成模型和高性能计算。[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null",
+    "tags": [
+      "GPT-4o",
+      "OpenAI",
+      "多模态AI",
+      "团队研究",
+      "大模型开发"
+    ]
+  },
+  {
+    "id": "2268031104",
+    "title": "模型价格对比",
+    "date": "",
+    "type": "topic_research",
+    "summary": "本文以结构化表格形式，系统梳理了当前主流AI大语言模型API的定价体系，覆盖国内外共17款模型，计价单位为人民币/百万Tokens（输入与输出分别计价）。数据揭示出极为悬殊的价格分层：最低端如豆包Pro 32k仅需输入0.8元/输出2元，而最高端的Claude 3 Opus高达输入108.2元/输出541.4元，两者输出价格相差约270倍。国产模型（豆包、DeepSeek-V2、GLM-3-Turbo、通义千问qwen1.5-110b-chat）整体价格极具竞争力，其中qwen1.5-110b-chat甚至处于限免阶段，DeepSeek-V2输入仅1元、输出2元，展示出中国AI厂商以价格换市场的战略意图。对比OpenAI产品线，GPT-3.5-Turbo（输入3.6元/输出10.8元）、GPT-4o（输入36元/输出108元）、GPT-4-Turbo（输入72元/输出216元）形成清晰的三级梯队，输出价格约为输入价格的3倍，体现推理计算成本更高的底层逻辑。百度ERNIE系列定价偏高（ERNIE 4.0达120元/百万Tokens输入输出同价），在国产模型中性价比偏低。Anthropic的Claude 3系列内部分层鲜明：Haiku（输入1.8/输出9元）、Sonnet（21.6/108.2元）、Opus（108.2/541.4元），Opus输出价格为全场最贵，输出/输入比高达5倍，远超行业平均水平。Google Gemini 1.5 Flash以输入2.5元/输出3.8元的价格成为国际模型中最具性价比的选项之一。整体来看，国产模型通过激进定价形成对OpenAI和Anthropic旗舰产品的强力挑战，全球LLM API市场正经历显著的价格下行压力。",
+    "key_points": [
+      "国产模型价格战已形成规模效应：豆包Pro 32k输入仅0.8元、DeepSeek-V2输入1元、GLM-3-Turbo输入输出均为1元，而qwen1.5-110b-chat直接限免。这一定价策略并非偶然亏损，而是头部厂商通过规模化部署压缩边际成本后的主动出击，意在快速扩大API调用生态，抢占企业级客户迁移窗口期，对国际厂商形成正面竞争压力。",
+      "Claude 3 Opus的输出价格541.4元/百万Tokens是全表最高值，且输出/输入比达5:1，远超OpenAI GPT-4系列约3:1的比例。这一异常比例暗示Anthropic对Opus的自回归生成阶段进行了更大规模的算力配置，或其KV Cache等推理优化尚未完全成熟，导致输出成本畸高。高定价也可能是Anthropic主动引导用户向Sonnet分流的价格歧视策略。",
+      "输出价格普遍高于输入价格是行业共识，但倍率差异显著：GPT系列约3倍、Claude Haiku约5倍、Claude Opus约5倍、豆包Pro 32k约2.5倍，而GLM-3-Turbo、GLM-4、ERNIE系列则输入输出同价。同价策略可能源于简化计费逻辑的商业考量，或实际推理成本差异不大（如采用较小模型），对开发者而言意味着高输出场景下成本可预测性更强。",
+      "Gemini 1.5 Pro的128k以下定价为输入25.2元/输出75.8元，但超过128k后价格将翻倍（官方原价机制），这一分段计费模式在表中独此一家明确标注。相比之下，豆包Pro 128k标注了上下文窗口但输出价格缺失（以'/'表示），数据不完整性提示该模型可能仍处于价格调整期，或输出计费尚未正式公布，选型时需额外核实。",
+      "从宏观竞争格局看，本表价格数据（可能采集于2024年中期）已反映出LLM API定价的快速通缩趋势：国产旗舰模型价格普遍低于GPT-3.5-Turbo历史定价，意味着'GPT-3.5级别能力'已接近白菜价。对企业用户而言，选型逻辑应从'能否负担'转向'性价比最优组合'，即用低价国产模型处理高频简单任务、以GPT-4o或Claude Sonnet处理复杂推理，通过路由策略实现成本与质量的动态平衡。"
+    ],
+    "entities": [
+      {
+        "name": "豆包Pro 32k",
+        "type": "product"
+      },
+      {
+        "name": "豆包Pro 128k",
+        "type": "product"
+      },
+      {
+        "name": "模型API",
+        "type": "concept"
+      }
+    ],
+    "km_url": "https://km.sankuai.com/collabpage/2268031104",
+    "relations": [
+      {
+        "source": "豆包Pro 128k",
+        "relation": "is_variant_of",
+        "target": "豆包Pro 32k"
+      },
+      {
+        "source": "豆包Pro 32k",
+        "relation": "is_type_of",
+        "target": "模型API"
+      },
+      {
+        "source": "豆包Pro 128k",
+        "relation": "is_type_of",
+        "target": "模型API"
+      }
+    ],
+    "entities_count": 3,
+    "tags": [
+      "LLM API定价",
+      "大模型成本分析",
+      "国产AI竞争力",
+      "Token计费模型",
+      "AI商业化策略"
+    ],
+    "raw_text": ""
+  },
+  {
+    "id": "2271174789",
+    "title": "字节AI全景解析",
+    "date": "",
+    "type": "topic_research",
+    "summary": "本文对字节跳动在人工智能领域的全景布局进行了系统性解析。字节跳动将AI视为核心战略，致力于成为全球领先的AI技术公司。在发展历程上，字节自早期便积极布局AI，通过持续研发积累了丰富的技术资源。其AI战略布局涵盖四大方向：一是AI技术研究与应用开发，涉及自然语言处理、语音处理、计算机视觉等多个方向；二是构建包含视觉语言模型、高速训练引擎、机器学习平台在内的完整AI生态体系；三是自2015年起推进全球化布局，以",
+    "key_points": [
+      "字节跳动将AI定为核心战略，目标成为全球领先AI技术公司，布局涵盖技术研究、生态构建、全球化扩张等多个维度",
+      "基础能力层拥有AI实验室、AI芯片研发及多个开源训练框架（ByteIR、BytePS、LightSeq等），技术积累深厚",
+      "大模型产品线丰富，包括云雀语言模型、BuboGPT、SDXL-Lightning、AnimateDiff-Lightning等基础模型",
+      "应用平台矩阵完整，覆盖AI对话（豆包）、Bot开发（扣子/Coze）、AI工具助手（小悟空）、AI角色互动（AnyDoor）等多类场景",
+      "通过火山引擎对外提供AI云服务，同时将AI能力内嵌至飞书、今日头条等已有产品，实现技术的全面商业化"
+    ],
+    "entities": [
+      "字节跳动",
+      "云雀语言模型(Skylark)",
+      "豆包/Cici",
+      "扣子/Coze",
+      "火山引擎",
+      "剪映/CapCut",
+      "飞书智能伙伴",
+      "BuboGPT",
+      "SDXL-Lightning",
+      "小悟空/ChitChop"
+    ],
+    "km_url": "https://km.sankuai.com/collabpage/2271174789",
+    "relations": [
+      {
+        "source": "字节跳动",
+        "relation": "made_by",
+        "target": "云雀语言模型"
+      },
+      {
+        "source": "字节跳动",
+        "relation": "made_by",
+        "target": "Coze"
+      },
+      {
+        "source": "字节跳动",
+        "relation": "made_by",
+        "target": "ChitChop"
+      },
+      {
+        "source": "字节跳动",
+        "relation": "made_by",
+        "target": "ByteIR"
+      },
+      {
+        "source": "字节跳动",
+        "relation": "made_by",
+        "target": "BytePS"
+      },
+      {
+        "source": "字节跳动",
+        "relation": "made_by",
+        "target": "LightSeq"
+      },
+      {
+        "source": "字节跳动",
+        "relation": "made_by",
+        "target": "veGiantModel"
+      },
+      {
+        "source": "字节跳动",
+        "relation": "made_by",
+        "target": "veScale"
+      },
+      {
+        "source": "字节跳动",
+        "relation": "researches",
+        "target": "自然语言处理"
+      },
+      {
+        "source": "字节跳动",
+        "relation": "researches",
+        "target": "语音处理"
+      },
+      {
+        "source": "字节跳动",
+        "relation": "researches",
+        "target": "计算机视觉"
+      },
+      {
+        "source": "字节跳动",
+        "relation": "focuses_on",
+        "target": "大模型"
+      },
+      {
+        "source": "字节跳动",
+        "relation": "made_by",
+        "target": "视觉语言模型"
+      },
+      {
+        "source": "字节跳动",
+        "relation": "made_by",
+        "target": "高速训练引擎"
+      },
+      {
+        "source": "字节跳动",
+        "relation": "made_by",
+        "target": "机器学习平台"
+      },
+      {
+        "source": "字节跳动",
+        "relation": "researches",
+        "target": "AI芯片"
+      },
+      {
+        "source": "字节跳动",
+        "relation": "part_of",
+        "target": "人工智能实验室"
+      },
+      {
+        "source": "字节跳动",
+        "relation": "focuses_on",
+        "target": "AI for Science"
+      },
+      {
+        "source": "字节跳动",
+        "relation": "part_of",
+        "target": "软件工程实验室"
+      },
+      {
+        "source": "ByteIR",
+        "relation": "is_type_of",
+        "target": "开源训练框架"
+      },
+      {
+        "source": "BytePS",
+        "relation": "is_type_of",
+        "target": "开源训练框架"
+      },
+      {
+        "source": "LightSeq",
+        "relation": "is_type_of",
+        "target": "开源训练框架"
+      },
+      {
+        "source": "veGiantModel",
+        "relation": "is_type_of",
+        "target": "开源训练框架"
+      },
+      {
+        "source": "veScale",
+        "relation": "is_type_of",
+        "target": "开源训练框架"
+      },
+      {
+        "source": "云雀语言模型",
+        "relation": "is_type_of",
+        "target": "大模型"
+      },
+      {
+        "source": "Coze",
+        "relation": "powered_by",
+        "target": "云雀语言模型"
+      },
+      {
+        "source": "视觉语言模型",
+        "relation": "is_type_of",
+        "target": "大模型"
+      },
+      {
+        "source": "自然语言处理",
+        "relation": "related_to",
+        "target": "大模型"
+      },
+      {
+        "source": "高速训练引擎",
+        "relation": "enhances",
+        "target": "大模型"
+      },
+      {
+        "source": "机器学习平台",
+        "relation": "enables",
+        "target": "大模型"
+      }
+    ],
+    "entities_count": 21,
+    "raw_text": "目标 ClientId: com.sankuai.it.ead.citadel \n\n:::title\n字节AI全景解析\n:::\n\n:::catalog{style=none}:::\n\n# **一、字节AI总览**\n\n## **1.字节AI发展时间线**\n\n:::drawio{src=\"https://km.sankuai.com/api/file/cdn/2271174789/102378692476?contentType=0&isNewContent=false\" width=849 height=516}:::\n\n## **2.字节AI战略布局**\n\n:[font]{size=13}字节跳动将人工智能视为其战略核心之一，旨在成为全球领先的人工智能技术公司。在人工智能领域的战略布局方面，字节跳动始终坚持创新驱动，致力于构建全面的 AI 技术体系和产品生态。公司在早期便积极布局人工智能，通过不断投入研发，积累了大量的 AI 技术资源和经验。[/font]\n\n:[font]{size=13}字节围绕 AI 的一系列布局和发展可以概括为如下几个方面：[/font]\n\n| __:::paragraph{align=center indent=0} :[font]{size=13}**功能分类**[/font] :::__ | __:::paragraph{align=center indent=0} :[font]{size=13}**描述**[/font] :::__ |\n| --- | --- |\n| :[font]{size=13}AI 技术研究与应用开发[/font] | :[font]{size=13}字节在人工智能领域进行了大量的技术研究与产品开发，包括自然语言处理、语音处理、计算机视觉等多个方向，并不断深化人工智能在各个领域的应用，推出了多款大模型和 AI 产品，如云雀语言模型、Coze、ChitChop 等。[/font] |\n| :[font]{size=13}构建 AI 生态体系[/font] | :[font]{size=13}字节已经构建出包括视觉语言模型、高速训练引擎、机器学习平台和行业应用在内的 AI 产品生态体系，展现出其在 AI 技术上的深厚积累和创新能力。[/font] |\n| :[font]{size=13}全球化布局[/font] | :[font]{size=13}自 2015 年起，字节开始全球化布局，将 “技术出海” 作为核心战略，推广其智能技术和应用至全球范围，并在全球范围内积极招揽人工智能领域的顶尖人才。[/font] |\n| :[font]{size=13}科技创新与社会责任[/font] | :[font]{size=13}字节跳动致力于将人工智能等科技应用于人们的工作生活中，推动社会进步，同时强化履行平台治理、内容建设和信息服务三方面社会责任。[/font] |\n\n:[font]{size=13}通过这些战略布局和积极实践，字节跳动旨在推动人工智能技术的发展、提升用户体验、创新商业模式，并在全球范围内扩大其影响力，最终实现其构建 “全球创作与交流平台” 的愿景。[/font]\n\n:[font]{size=13}字节跳动在 AI 领域的发展速度惊人，已经取得了众多领先的成果，其在 AI 技术的发展上表现出了持续的创新和多元化的探索，通过一系列 AI 产品的推出和技术研发，公司在全球 AI 领域占据着重要的地位。[/font]\n\n## 3.字节AI能力与应用\n\n:::table{borderColor=\"#dddddd\" borderStyle=\"solid\" borderWidth=1 responsive=false}\n[\n  [\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 2,\n        \"colwidth\": [\n          172\n        ],\n        \"bgColor\": \"rgb(18, 181, 184)\",\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n:[font]{size=13}**基础能力**[/font]\\n:::\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          154\n        ],\n        \"bgColor\": \"rgb(18, 181, 184)\",\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}AI研究[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          605\n        ],\n        \"bgColor\": \"rgb(18, 181, 184)\",\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}人工智能实验室、AI芯片研发、AI for Science、软件工程实验室[/font]\"\n    }\n  ],\n  [\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          154\n        ],\n        \"bgColor\": \"rgb(18, 181, 184)\",\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}开源训练框架[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          605\n        ],\n        \"bgColor\": \"rgb(18, 181, 184)\",\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}ByteIR、BytePS、LightSeq、veGiantModel、veScale[/font]\"\n    }\n  ],\n  [\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 4,\n        \"colwidth\": [\n          172\n        ],\n        \"bgColor\": \"rgb(185, 240, 237)\",\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n:[font]{size=13}**产品和应用**[/font]\\n:::\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          154\n        ],\n        \"bgColor\": \"rgb(185, 240, 237)\",\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}基础大模型[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          605\n        ],\n        \"bgColor\": \"rgb(185, 240, 237)\",\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}云雀语言模型 (Skylark)、BuboGPT、SDXL-Lightning、AnimateDiff-Lightning[/font]\"\n    }\n  ],\n  [\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          154\n        ],\n        \"bgColor\": \"rgb(185, 240, 237)\",\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}大模型应用平台[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          605\n        ],\n        \"bgColor\": \"rgb(185, 240, 237)\",\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}AI 对话平台：豆包 / Cici、Bot 开发平台：扣子 / Coze、AI 工具助手：小悟空 / ChitChop、AI 角色互动：AnyDoor / BagelBell[/font]\"\n    }\n  ],\n  [\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          154\n        ],\n        \"bgColor\": \"rgb(185, 240, 237)\",\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}AI 创作与应用创新[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          605\n        ],\n        \"bgColor\": \"rgb(185, 240, 237)\",\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}剪映 / CapCut Dreamina、AI 创意生产：即创、AI 音乐创作：海绵乐队、AI 图片应用：PicPic、AI 学习助手：Gauth、AI 教育平台：河马爱学、AI 文化公益：识典古籍[/font]\"\n    }\n  ],\n  [\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          154\n        ],\n        \"bgColor\": \"rgb(185, 240, 237)\",\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}AI 应用于已有产品[/font]\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          605\n        ],\n        \"bgColor\": \"rgb(185, 240, 237)\",\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}飞书智能伙伴、飞书妙记、今日头条灵犬[/font]\"\n    }\n  ],\n  [\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 6,\n        \"colwidth\": [\n          172\n        ],\n        \"bgColor\": \"rgb(75, 207, 209)\",\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n:[font]{size=13}**AI云服务/火山引擎**[/font]\\n:::\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          154\n        ],\n        \"bgColor\": \"rgb(75, 207, 209)\",\n        \"verticalAlign\": null\n      },\n      \"content\": \":[font]{size=13}基础产品[/font]\"\n    },\n    {\n      \"type\": \"t",
+    "tags": [
+      "字节跳动",
+      "大语言模型",
+      "AI产品矩阵",
+      "AI云服务",
+      "技术出海"
+    ]
+  },
+  {
+    "id": "2279323149",
+    "title": "大模型降价潮分析",
+    "date": "2024-05",
+    "type": "topic_research",
+    "summary": "2024年5月，国内大模型市场爆发了一场激烈的价格战。5月6日，深度求索（DeepSeek）旗下的DeepSeek-V2模型率先打响价格战第一枪，其API价格仅为GPT-4-Turbo的近百分之一（输入1元/百万tokens，输出2元/百万tokens），凭借逼近GPT-4-Turbo的性能和极低定价引发行业震动。随后国内大模型头部厂商迅速跟进：5月11日，智谱AI将GLM-3 Turbo价格下调80%至1元/百万tokens；5月15日，字节跳动豆包大模型正式开放，价格单位从",
+    "key_points": [
+      "DeepSeek-V2以仅为GPT-4-Turbo百分之一的价格率先引爆国内大模型价格战，成为本轮降价潮的导火索",
+      "字节豆包、阿里通义千问、百度文心等国内主流大厂在半个月内相继大幅降价，降幅普遍达75%至99%以上",
+      "百度、腾讯、科大讯飞等厂商将部分模型直接免费开放，价格战从降价升级为免费化竞争",
+      "参与价格战的主体均为拥有云计算基础设施的大厂，月之暗面等创业公司未参与本轮价格竞争",
+      "阿里云Qwen-Long模型降价幅度最大，输入价格降至GPT-4价格的1/400，成为本轮降价幅度之最"
+    ],
+    "entities": [
+      "DeepSeek-V2",
+      "深度求索",
+      "智谱AI",
+      "豆包大模型",
+      "阿里云通义千问",
+      "百度文心",
+      "腾讯混元",
+      "科大讯飞星火",
+      "GPT-4-Turbo",
+      "幻方量化"
+    ],
+    "km_url": "https://km.sankuai.com/collabpage/2279323149",
+    "relations": [
+      {
+        "source": "深度求索",
+        "relation": "made_by",
+        "target": "幻方量化"
+      },
+      {
+        "source": "DeepSeek-V2",
+        "relation": "made_by",
+        "target": "深度求索"
+      },
+      {
+        "source": "DeepSeek",
+        "relation": "same_as",
+        "target": "深度求索"
+      },
+      {
+        "source": "DeepSeek-V2",
+        "relation": "competes_with",
+        "target": "GPT-4-Turbo"
+      },
+      {
+        "source": "DeepSeek-V2",
+        "relation": "competes_with",
+        "target": "文心4.0"
+      },
+      {
+        "source": "GLM-3-Turbo",
+        "relation": "made_by",
+        "target": "智谱AI"
+      },
+      {
+        "source": "豆包大模型",
+        "relation": "made_by",
+        "target": "字节跳动"
+      },
+      {
+        "source": "豆包通用模型PRO",
+        "relation": "part_of",
+        "target": "豆包大模型"
+      },
+      {
+        "source": "豆包通用模型Lite",
+        "relation": "part_of",
+        "target": "豆包大模型"
+      },
+      {
+        "source": "通义千问",
+        "relation": "made_by",
+        "target": "阿里云"
+      },
+      {
+        "source": "Qwen-Long",
+        "relation": "part_of",
+        "target": "通义千问"
+      },
+      {
+        "source": "Qwen-Long",
+        "relation": "competes_with",
+        "target": "GPT-4"
+      },
+      {
+        "source": "ERNIE-Speed",
+        "relation": "made_by",
+        "target": "百度"
+      },
+      {
+        "source": "ERNIE-Lite",
+        "relation": "made_by",
+        "target": "百度"
+      },
+      {
+        "source": "ERNIE-Tiny",
+        "relation": "made_by",
+        "target": "百度"
+      },
+      {
+        "source": "文心4.0",
+        "relation": "made_by",
+        "target": "百度"
+      },
+      {
+        "source": "ERNIE-Speed",
+        "relation": "is_variant_of",
+        "target": "文心4.0"
+      },
+      {
+        "source": "ERNIE-Lite",
+        "relation": "is_variant_of",
+        "target": "文心4.0"
+      },
+      {
+        "source": "ERNIE-Tiny",
+        "relation": "is_variant_of",
+        "target": "文心4.0"
+      },
+      {
+        "source": "混元-lite",
+        "relation": "made_by",
+        "target": "腾讯"
+      },
+      {
+        "source": "讯飞星火Lite",
+        "relation": "made_by",
+        "target": "科大讯飞"
+      },
+      {
+        "source": "讯飞星火Pro",
+        "relation": "made_by",
+        "target": "科大讯飞"
+      },
+      {
+        "source": "讯飞星火Max",
+        "relation": "made_by",
+        "target": "科大讯飞"
+      },
+      {
+        "source": "讯飞星火Lite",
+        "relation": "is_variant_of",
+        "target": "讯飞星火Pro"
+      },
+      {
+        "source": "豆包通用模型PRO",
+        "relation": "is_variant_of",
+        "target": "豆包通用模型Lite"
+      },
+      {
+        "source": "DeepSeek-V2",
+        "relation": "related_to",
+        "target": "大模型价格战"
+      },
+      {
+        "source": "通义千问",
+        "relation": "uses",
+        "target": "API"
+      },
+      {
+        "source": "GLM-3-Turbo",
+        "relation": "uses",
+        "target": "API"
+      },
+      {
+        "source": "豆包大模型",
+        "relation": "uses",
+        "target": "API"
+      },
+      {
+        "source": "讯飞星火Pro",
+        "relation": "uses",
+        "target": "API"
+      },
+      {
+        "source": "API",
+        "relation": "related_to",
+        "target": "tokens"
+      }
+    ],
+    "entities_count": 32,
+    "raw_text": "目标 ClientId: com.sankuai.it.ead.citadel \n\n:::title\n大模型降价潮分析\n:::\n\n:::catalog{style=none}:::\n\n# 一、背景\n\n:[font]{size=13}5 月 6 日，DeepSeek 率先打响了国内大模型价格战的「第一枪」，推出的 DeepSeek-V2 因性能优异，但价格仅为 GPT-4-Turbo 的近百分之一，引发业内关注和热议。随后，国内大模型第一梯队的巨头大厂，几乎都在短时间内迅速反应，加入了此次的「价格大战」，但月之暗面、百川智能、零一万物等大模型创企均没有参与价格战。[/font]\n\n## 1.降价事件\n\n:[font]{size=13}① 5 月 6 日，私募基金「幻方量化」旗下公司深度求索推出 DeepSeek-V2 模型，性能逼近 GPT-4-Turbo，文心 4.0 等闭源模型，但 API 价格每百万 tokens 输入 1 元、输出 2 元，仅为 GPT-4-Turbo 的近百分之一，由此打响了国内大模型价格战的「第一枪」。[/font]\n\n:[font]{size=13}② 5 月 11 日，智谱 AI 跟进，宣布将其 GLM-3 Turbo 模型的调用价格下调 80%。从 5 元/百万 tokens 降至 1 元/百万 tokens。1 元可以购买 100 万 tokens。[/font]\n\n:[font]{size=13}③ 5 月 15 日，字节的豆包大模型正式对外开放，放出了较业内极低的价格，价格单位直接从「元」变为「厘」。豆包大模型家族包含豆包通用模型 PRO 版和 lite 版两款通用模型，其中，豆包通用模型 pro-32k 版，推理输入价格 0.0008 元/千 tokens，较行业价格低 99.3%。lite 版为 0.0003 元/千 tokens。[/font]\n\n:[font]{size=13}④ 5 月 21 日，「业内大佬」阿里云加入「价格战」，直接发布降价通知。通义千问大语言模型和通义千问开源模型系类的 9 款模型降价，其中，性能对标 GPT-4 的 Qwen-Long 模型降幅最大，API 输入价格从 0.02 元/千 tokens 降至 0.0005 元/千 tokens，仅为 GPT-4 价格的 1/400。[/font]\n\n:[font]{size=13}⑤ 5 月 21 日，在阿里云宣布降价不到 4 个小时的时间内，百度火速进场，ERNIE-Speed、ERNIE-Lite、ERNIE-Tiny 系列模型直接免费开放使用，且百度官网的详细公告显示，两款模型并非限时免费开放，而是长期免费开放。[/font]\n\n:[font]{size=13}⑥ 5 月 22 日，腾讯进场，公布全新大模型升级方案，至此「价格战」集齐了国内巨头重要玩家。腾讯的主力模型之一混元-lite 模型，API 输入输出总长度计划从目前的 4k 升级到 256k，价格从 0.008 元/千 tokens 调整为全面免费。[/font]\n\n:[font]{size=13}⑦ 5 月 22 日，科大讯飞宣布讯飞星火 Lite 版 API 永久免费开放，讯飞星火 Pro/Max API 价格降至 0.21 元/万 tokens。[/font]\n\n## 2.主流模型降价一览\n\n:::table{borderColor=\"#dddddd\" borderStyle=\"solid\" borderWidth=1 responsive=false}\n[\n  [\n    {\n      \"type\": \"table_header\",\n      \"attrs\": {\n        \"colspan\": 8,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120,\n          120,\n          120,\n          120,\n          120,\n          120,\n          120,\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=16}通义千问大模型[/font]**\\n:::\"\n    }\n  ],\n  [\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 2,\n        \"rowspan\": 2,\n        \"colwidth\": [\n          120,\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}模型规格[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 2,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120,\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}输入价格（元/千tokens）[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 2,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}降幅[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 2,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120,\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}输出价格（元/千tokens）[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 2,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}降幅[/font]**\\n:::\"\n    }\n  ],\n  [\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}降价前[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}降价后[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}降价前[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}降价后[/font]**\\n:::\"\n    }\n  ],\n  [\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 5,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n**:[font]{size=13}通义千问[/font]**\\n:::\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n:[font]{size=13}Qwen-Turbo[/font]\\n:::\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n:[font]{size=13}0.008[/font]\\n:::\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n:[font]{size=13}0.002[/font]\\n:::\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n:[font]{size=13}75%[/font]\\n:::\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::paragraph{align=center indent=0}\\n:[font]{size=13}0.008[/font]\\n:::\"\n    },\n    {\n      \"type\": \"table_cell\",\n      \"attrs\": {\n        \"colspan\": 1,\n        \"rowspan\": 1,\n        \"colwidth\": [\n          120\n        ],\n        \"bgColor\": null,\n        \"verticalAlign\": null\n      },\n      \"content\": \":::pa",
+    "tags": [
+      "大模型价格战",
+      "API定价",
+      "国内AI竞争",
+      "大语言模型",
+      "云计算"
+    ]
+  },
+  {
+    "id": "2284936066",
+    "title": "阿里AI全景解析",
+    "date": "",
+    "type": "topic_research",
+    "summary": "本文对阿里巴巴在人工智能领域的全景布局进行了系统梳理与深度解析。文章从时间线视角回顾了阿里AI发展历程：自2008年启动云计算战略以来，阿里依托达摩院的研究力量，在AI基础设施、算法平台、云服务、芯片及产业AI等多个维度全面布局，形成了",
+    "key_points": [
+      "阿里形成'云+AI+IoT'三驾马车发展模式，构建覆盖云、管、边、端的全链路一体化AI生态布局",
+      "阿里推出通义千问系列大模型，通过阿里云开放平台向企业和开发者低成本输出AI能力",
+      "阿里战略投资智谱AI、百川智能、零一万物、月之暗面、MiniMax五大国内顶级AI大模型初创公司",
+      "2024财年阿里明确'用户为先、AI驱动'战略，AI技术深度融入电商、办公、医疗等多个核心业务场景",
+      "阿里云构建IaaS至SaaS全方位AI服务体系，推出ET城市大脑等行业解决方案，助力各行业数字化转型"
+    ],
+    "entities": [
+      "阿里巴巴",
+      "达摩院",
+      "阿里云",
+      "通义千问",
+      "钉钉",
+      "月之暗面",
+      "MiniMax",
+      "智谱AI",
+      "百川智能",
+      "零一万物"
+    ],
+    "km_url": "https://km.sankuai.com/collabpage/2284936066",
+    "relations": [
+      {
+        "source": "阿里巴巴",
+        "relation": "part_of",
+        "target": "达摩院"
+      },
+      {
+        "source": "阿里巴巴",
+        "relation": "made_by",
+        "target": "阿里云"
+      },
+      {
+        "source": "阿里巴巴",
+        "relation": "made_by",
+        "target": "钉钉"
+      },
+      {
+        "source": "阿里巴巴",
+        "relation": "made_by",
+        "target": "淘宝"
+      },
+      {
+        "source": "阿里巴巴",
+        "relation": "made_by",
+        "target": "天猫"
+      },
+      {
+        "source": "阿里巴巴",
+        "relation": "made_by",
+        "target": "夸克"
+      },
+      {
+        "source": "阿里巴巴",
+        "relation": "related_to",
+        "target": "月之暗面"
+      },
+      {
+        "source": "阿里巴巴",
+        "relation": "related_to",
+        "target": "MiniMax"
+      },
+      {
+        "source": "阿里巴巴",
+        "relation": "related_to",
+        "target": "智谱AI"
+      },
+      {
+        "source": "阿里巴巴",
+        "relation": "related_to",
+        "target": "百川智能"
+      },
+      {
+        "source": "阿里巴巴",
+        "relation": "related_to",
+        "target": "零一万物"
+      },
+      {
+        "source": "阿里巴巴",
+        "relation": "focuses_on",
+        "target": "人工智能"
+      },
+      {
+        "source": "阿里巴巴",
+        "relation": "focuses_on",
+        "target": "大语言模型"
+      },
+      {
+        "source": "阿里云",
+        "relation": "enables",
+        "target": "数字化转型"
+      },
+      {
+        "source": "阿里云",
+        "relation": "uses",
+        "target": "AI基础设施"
+      },
+      {
+        "source": "阿里云",
+        "relation": "part_of",
+        "target": "云端一体化AI服务"
+      },
+      {
+        "source": "达摩院",
+        "relation": "researches",
+        "target": "人工智能"
+      },
+      {
+        "source": "达摩院",
+        "relation": "researches",
+        "target": "大语言模型"
+      },
+      {
+        "source": "GPT",
+        "relation": "is_type_of",
+        "target": "大语言模型"
+      },
+      {
+        "source": "云计算",
+        "relation": "enables",
+        "target": "机器学习"
+      },
+      {
+        "source": "云计算",
+        "relation": "part_of",
+        "target": "云+AI+IoT"
+      },
+      {
+        "source": "人工智能",
+        "relation": "part_of",
+        "target": "云+AI+IoT"
+      },
+      {
+        "source": "物联网",
+        "relation": "part_of",
+        "target": "云+AI+IoT"
+      },
+      {
+        "source": "推荐系统",
+        "relation": "is_type_of",
+        "target": "人工智能"
+      },
+      {
+        "source": "智能客服",
+        "relation": "is_type_of",
+        "target": "人工智能"
+      },
+      {
+        "source": "AI芯片",
+        "relation": "enables",
+        "target": "人工智能"
+      },
+      {
+        "source": "通用大模型",
+        "relation": "is_type_of",
+        "target": "大语言模型"
+      },
+      {
+        "source": "垂直模型",
+        "relation": "is_type_of",
+        "target": "大语言模型"
+      },
+      {
+        "source": "AI电商",
+        "relation": "uses",
+        "target": "人工智能"
+      },
+      {
+        "source": "IaaS",
+        "relation": "part_of",
+        "target": "云端一体化AI服务"
+      },
+      {
+        "source": "PaaS",
+        "relation": "part_of",
+        "target": "云端一体化AI服务"
+      },
+      {
+        "source": "SaaS",
+        "relation": "part_of",
+        "target": "云端一体化AI服务"
+      },
+      {
+        "source": "机器学习",
+        "relation": "is_type_of",
+        "target": "人工智能"
+      },
+      {
+        "source": "人工智能",
+        "relation": "enhances",
+        "target": "供应链管理"
+      },
+      {
+        "source": "钉钉",
+        "relation": "uses",
+        "target": "人工智能"
+      },
+      {
+        "source": "淘宝",
+        "relation": "uses",
+        "target": "AI电商"
+      },
+      {
+        "source": "天猫",
+        "relation": "uses",
+        "target": "AI电商"
+      }
+    ],
+    "entities_count": 33,
+    "raw_text": "目标 ClientId: com.sankuai.it.ead.citadel \n\n:::title\n阿里AI全景解析\n:::\n\n:::catalog{style=none}:::\n\n# **一、阿里AI总览**\n\n:::heading{level=2 align=start}\n1.阿里巴巴人工智能领域发展时间线:::drawio{src=\"https://km.sankuai.com/api/file/cdn/2284936066/103832403975?contentType=0&isNewContent=false\" width=800 height=600}:::\n:::\n\n:[font]{size=13}在达摩院的加持下，阿里在 AI 基础设施、平台、算法、框架、云服务、芯片及产业 AI 等多个领域全面进入市场。从 2018 年开始，借助阿里云的技术积累和市场优势，阿里在 AI 领域的发展呈加速趋势，以 “[/font]:[font]{size=13}**云 + AI + IoT**[/font]:[font]{size=13}” 模式展开云、管、边、端、AI、物联网的全链路、一体化布局，并逐步建立起围绕 AI 的产业生态。[/font]\n\n:[font]{size=13}到 2019 年，阿里进一步完善其在人工智能各方面的布局，尤其强调 AI 芯片、云服务、算法和产业应用的协同发展，并投资一系列 AI 生态企业，以拓宽 AI 技术的发展和应用场景。此外，阿里旗下的各大业务板块，包括阿里云、钉钉、淘宝、天猫等，均涌现出了大量的 AI 应用实例，这些应用不断推动着阿里在电商平台、办公协作、云计算等服务的智能化升级。[/font]\n\n:[font]{size=13}最近几年，随着 GPT 引发大语言模型的爆发式发展，阿里在大模型领域的研究也紧跟而上：[/font]\n\n:::drawio{src=\"https://km.sankuai.com/api/file/cdn/2284936066/103831977219?contentType=0&isNewContent=false\" width=898 height=543}:::\n\n:[font]{size=13}与此同时，阿里还在大模型领域连续进行战略投资，来加强在该领域的影响力。根据媒体报道，至 2024 年 3 月在阿里完成对月之暗面和 MiniMax 的新一轮投资后，目前国内一级市场上估值最高的 5 家 AI 大模型初创明星公司，即智谱 AI、百川智能、零一万物、月之暗面和 MiniMax，阿里均有参与投资，并在其中 2-3 家公司可能是大股东。[/font]\n\n:[font]{size=13}总之，阿里通过长期的战略投入、不断的科技创新和生态建设，已经在人工智能领域形成了完整的产业链布局，并持续推动 AI 技术在不同行业的深度应用与融合。[/font]\n\n## **2.阿里AI战略布局**\n\n:[font]{size=13}阿里巴巴的人工智能战略布局和发展历程体现了其对技术创新的重视和对未来趋势的深刻洞察，其总体战略可以概括为以 AI 技术为驱动力，深化在云计算、电商、金融、物流等多个领域的应用，并致力于构建全球化的商业网络。[/font]\n\n| __:::paragraph{align=center indent=0} :[font]{size=13}**阿里巴巴AI布局历程**[/font] :::__ | __:::paragraph{align=center indent=0} :[font]{size=13}**战略布局**[/font] :::__ | __:::paragraph{align=center indent=0} :[font]{size=13}**发展路径**[/font] :::__ | __:::paragraph{align=center indent=0} :[font]{size=13}**技术投入与应用拓展**[/font] :::__ |\n| --- | --- | --- | --- |\n| :::paragraph{align=center indent=0} :[font]{size=13}**核心驱动力**[/font] ::: | :[font]{size=13}将AI技术视为未来发展的核心，应用于电商、金融、物流等领域[/font] | :[font]{size=13}早期搭建AI平台，推出智能客服、推荐系统等产品[/font] | :[font]{size=13}加大AI领域投入，投资初创AI公司，合作高校、科研机构[/font] |\n| :::paragraph{align=center indent=0} :[font]{size=13}**对外输出AI能力**[/font] ::: | :[font]{size=13}通过阿里云等平台助力各行业数字化转型[/font] | :[font]{size=13}提升业务智能化水平，带来便捷个性化用户体验[/font] | :[font]{size=13}拓展AI技术在各行业的应用，助力全球企业和组织数字化转型[/font] |\n\n:[font]{size=13}2024 年 2 月初，阿里巴巴集团发布 2024 财年第三季度业绩，在 “[/font]:[font]{size=13}**用户为先、AI驱动**[/font]:[font]{size=13}” 的战略执行下，公司核心业务的结构性调整收获初步成效。阿里的 “AI驱动” 战略也已覆盖了AI基础设施、通用大模型、垂直模型及电商、办公等场景化应用。淘宝天猫、阿里国际数字商业也发布了多款AI工具辅助商家经营提效，加速推进AI电商场景落地。钉钉、夸克、达摩院等还在持续扩展AI场景化应用至办公、学习、健康医疗等领域，持续放大技术普惠。在季报中，阿里也强调了对人工智能方向的关键定位和对未来发展的期许：AI技术被视为驱动阿里巴巴未来业务增长的关键因素之一，通过AI技术的应用，公司能够更有效地分析消费者行为，优化供应链管理，提升运营效率。[/font]\n\n:[font]{size=13}放眼未来，通过不断的技术研发、创新突破和应用拓展，阿里巴巴正努力将AI技术的潜力转化为实际的商业价值，为全球用户和企业创造更多的可能性。[/font]\n\n# **二、阿里AI基础能力**\n\n:[font]{size=13}阿里的人工智能战略布局以云计算为基础，结合人工智能和物联网技术，形成了 [/font]:[font]{size=13}**云计算 + 人工智能 + IoT**[/font]:[font]{size=13} 三驾马车的发展模式：云计算提供了强大的数据处理和存储能力，人工智能则通过算法和模型实现数据分析和智能决策，而物联网技术则负责将现实世界的数据数字化、为人工智能提供素材和连通能力。[/font]\n\n:[font]{size=13}阿里在 AI 算法、模型训练、数据处理等方面积累了大量技术和经验，同时在 AI 平台和框架层面的积累也丰富且全面，既有自研的创新技术和平台，也有与外部合作的广泛网络。这些能力和经验不仅应用于阿里巴巴自身的业务如电商、物流、金融等，也通过阿里云等平台对外提供服务，帮助其他企业和行业实现智能化转型升级。[/font]\n\n## **1.**[阿里云](https://www.aliyun.com/)\n\n:[font]{size=13}自 2008 年开始，阿里便开始了其云计算战略和技术转型。在电商业务中积累的庞大数据资源为阿里在以机器学习为主的人工智能技术研发提效上提供了丰富的燃料。[/font]\n\n:[font]{size=13}此后历经组织架构升级和战略调整，阿里云智能成为阿里巴巴在人工智能领域的核心力量，提供包括计算、存储、数据库、网络、安全等全面的云服务和产品。[/font]\n\n## **2.在AI方向的布局**\n\n:[font]{size=13}阿里云将人工智能服务统一规划并整合在其云服务体系中，构建了一个云端一体化的人工智能服务体系。这一体系涵盖了从基础设施（IaaS）到平台（PaaS）再到服务和应用（SaaS）的全方位产品和服务，为不同需求的客户提供了灵活、可扩展的AI方案。[/font]\n\n| __:::paragraph{align=center indent=0} :[font]{size=13}**领域**[/font] :::__ | __:::paragraph{align=center indent=0} :[font]{size=13}**描述**[/font] :::__ |\n| --- | --- |\n| :::paragraph{align=center indent=0} :[font]{size=13}**AI大模型**[/font] ::: | :[font]{size=13}推出“通义千问”等大模型： 支持企业数智化转型，计划接入阿里巴巴各项业务以提升用户体验[/font] |\n| :::paragraph{align=center indent=0} :[font]{size=13}**开放平台**[/font] ::: | :[font]{size=13}阿里云为用户和开发者开放AI大模型：低成本构建专属AI功能，推动AI技术普及和应用[/font] |\n| :::paragraph{align=center indent=0} :[font]{size=13}**产品集成**[/font] ::: | :[font]{size=13}将AI技术集成到阿里云核心产品和服务： 如智能客服、AI设计师、机房运维机器人等[/font] |\n| :::paragraph{align=center indent=0} :[font]{size=13}**行业解决方案**[/font] ::: | :[font]{size=13}推出针对不同行业的AI解决方案： 如ET城市大脑、ET工业大脑等，解决实际问题，提升行业效率[/font] |\n| :::paragraph{align=center indent=0} :[font]{size=13}**合作与生态**[/font] ::: | :[font]{size=13}与全球科研机构、高校和行业合作伙伴共同推动AI技术研究和应用：构建健康的AI生态[/font] |\n| :::paragraph{alig",
+    "tags": [
+      "阿里巴巴",
+      "人工智能战略",
+      "大语言模型",
+      "阿里云",
+      "AI生态投资"
+    ]
+  }
+]

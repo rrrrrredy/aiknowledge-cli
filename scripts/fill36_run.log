@@ -1,0 +1,215 @@
+[19:26:11] ============================================================
+[19:26:11] 补读36篇无raw_text文档 @ 2026-03-27 19:26
+[19:26:11] 总计: 36篇
+[19:26:11] 
+[1/36] OpenClaw龙虾系统专题4
+[19:26:11]   → citadel 2751553539
+[19:26:14]   原文: 2628字
+[19:26:14]   → LLM提取...
+[19:26:26]   ❌ 失败: Expecting ',' delimiter: line 2 column 125 (char 126)
+[19:26:27] 
+[2/36] OpenClaw龙虾系统专题5
+[19:26:27]   → citadel 2752073271
+[19:26:30]   原文: 3005字
+[19:26:30]   → LLM提取...
+[19:26:41]   ❌ 失败: Expecting ',' delimiter: line 2 column 19 (char 20)
+[19:26:42] 
+[3/36] OpenClaw龙虾系统专题6
+[19:26:42]   → citadel 2752212952
+[19:26:45]   原文: 2721字
+[19:26:45]   → LLM提取...
+[19:26:55]   ✅ sum=435字 tags=['Skill设计', '接口思维', 'Prompt工程', 'OpenClaw', '工作流自动化']
+[19:26:56] 
+[4/36] OpenClaw龙虾系统专题7
+[19:26:56]   → citadel 2752292150
+[19:26:59]   原文: 6711字
+[19:26:59]   → LLM提取...
+[19:27:14]   ❌ 失败: Expecting ',' delimiter: line 2 column 130 (char 131)
+[19:27:15] 
+[5/36] OpenClaw龙虾系统专题8
+[19:27:15]   → citadel 2752575346
+[19:27:18]   ❌ 失败: 'utf-8' codec can't decode byte 0xe4 in position 17192: unexpected end of data
+[19:27:19] 
+[6/36] 大模型处理时序数据的挑战和方法
+[19:27:19]   → citadel 2290737002
+[19:27:22]   原文: 9850字
+[19:27:22]   → LLM提取...
+[19:27:37]   ✅ sum=581字 tags=['时间序列预测', 'TimeGPT', 'Lag-Llama', 'FPT冻结预训练Transformer', 'TIME-LLM', 'Moirai', 'ICML 2024', '零样本泛化']
+[19:27:38] 
+[7/36] OpenAI及Apple近期信息（202407）
+[19:27:38]   → citadel 2397485693
+[19:27:41]   原文: 3850字
+[19:27:41]   → LLM提取...
+[19:27:55]   ✅ sum=738字 tags=['GPT-5', 'Apple Intelligence', 'AFM（Apple Foundation Model）', 'LoRA适配器', 'RLHF/MDLOO', '多代理架构', 'TPU训练集群', '模型量化']
+[19:27:56] 
+[8/36] 小模型浪潮
+[19:27:56]   → citadel 2411625824
+[19:27:59]   原文: 15387字
+[19:27:59]   → LLM提取...
+[19:28:13]   ✅ sum=553字 tags=['小模型', 'Llama 3.1', 'MobileLLM', 'Phi-3', 'GPT-4o mini', 'Mistral NeMo', 'SmolLM', '知识蒸馏', 'SFT合成数据', 'SwiGLU']
+[19:28:14] 
+[9/36] Scaling Law 收益递减的争议和技术探索
+[19:28:14]   → citadel 2471778177
+[19:28:17]   原文: 7779字
+[19:28:17]   → LLM提取...
+[19:28:28]   ✅ sum=613字 tags=['Test-Time Compute', 'Scaling Law', 'Process Reward Model', 'Best-of-N Sampling', 'PaLM-2', '谷歌DeepMind', 'Self-play RL', 'MATH基准', 'Beam Search', 'STaR']
+[19:28:29] 
+[10/36] OpenAI信息更新20241015
+[19:28:29]   → citadel 2524320782
+[19:28:33]   原文: 1686字
+[19:28:33]   → LLM提取...
+[19:28:43]   ✅ sum=614字 tags=['OpenAI', 'GPT-4.5o', 'Project Orion', 'Project Cockroach', 'Mira Murati', 'o1', 'DSPy', 'Sébastien Bubeck', 'Anthropic', 'Swarm']
+[19:28:43]   💾 ckpt 10/36 已保存 (success=6, fail=4)
+[19:28:44] 
+[11/36] 近期大模型行业重要信息202411-2
+[19:28:44]   → citadel 2573617039
+[19:28:47]   原文: 8223字
+[19:28:47]   → LLM提取...
+[19:29:04]   ✅ sum=753字 tags=['RBR奖励机制', 'CGPO', 'PIANO架构', 'AdaCache', 'eva框架', 'GameGen-X', 'Oasis游戏', 'Claude 3.5 Haiku', 'Grok API', 'Hiring Assistant']
+[19:29:05] 
+[12/36] 豆包大模型在招岗位信息
+[19:29:05]   → citadel 2580113283
+[19:29:08]   原文: 13740字
+[19:29:08]   → LLM提取...
+[19:29:24]   ✅ sum=500字 tags=['豆包大模型', '强化学习RLHF', 'Diffusion模型', 'LLM分布式训练', '多模态算法', '音乐生成', 'CUDA推理优化', '应届博士招聘']
+[19:29:25] 
+[13/36] 字节Coze/扣子概况
+[19:29:25]   → citadel 2622291986
+[19:29:29]   原文: 13634字
+[19:29:29]   → LLM提取...
+[19:29:40]   ❌ 失败: Expecting ',' delimiter: line 2 column 345 (char 346)
+[19:29:41] 
+[14/36] Gemini 2.0 如何映射 DeepMind 的研究路线
+[19:29:41]   → citadel 2662594004
+[19:29:45]   原文: 3972字
+[19:29:45]   → LLM提取...
+[19:29:58]   ✅ sum=570字 tags=['Gemini 2.0', 'Oriol Vinyals', 'AI Agent', '多智能体系统', '强化学习', 'Transformer架构', '多模态模型', '合成数据', 'DeepMind']
+[19:29:59] 
+[15/36] 海外市场进入蓄力期，谷歌、微软开始发力；国内企业多点开花，阿里系表现亮眼
+[19:29:59]   → citadel 2698405037
+[19:30:02]   原文: 8153字
+[19:30:02]   → LLM提取...
+[19:30:21]   ✅ sum=595字 tags=['英伟达RTX50系列', 'Project DIGITS', '谷歌DeepMind', '通义万相2.1', 'Qwen-Agent', 'Phi-4开源', 'Anthropic融资', 'Tim Brooks', '清微智能', 'ChatGPT Pro']
+[19:30:21]   ❌ 在rebuilt中找不到文档：海外市场进入蓄力期，谷歌、微软开始发力；国内企业多点开花，阿里系表现亮眼
+[19:30:21] 
+[16/36] 谷歌两篇新研究瞩目；推理和 agent 仍是重点
+[19:30:21]   → citadel 2702209638
+[19:30:25]   原文: 8107字
+[19:30:25]   → LLM提取...
+[19:30:40]   ✅ sum=546字 tags=['MeCo预训练', 'rStar-Math', 'Meta-CoT', 'SPAR3D', 'PRIME强化学习', 'GUI智能体', '扩散模型二值化', 'Sky-T1', '陈丹琦', '微软亚洲研究院']
+[19:30:41] 
+[17/36] 周论文推荐：多领域多篇佳作，字节、腾讯持续高产
+[19:30:41]   → citadel 2708439983
+[19:30:44]   原文: 12439字
+[19:30:44]   → LLM提取...
+[19:30:56]   ✅ sum=439字 tags=['CPPO', 'GRPO', 'ChartMoE', 'MoE', '多Token注意力', 'ICLR2025', '厦门大学', 'Meta', '强化学习训练加速', '图表理解']
+[19:30:57] 
+[18/36] 周趋势：OpenAI将发布系列产品；Google Deep Research迎来重大更新；各公司积极
+[19:30:57]   → citadel 2708977771
+[19:31:05]   原文: 12385字
+[19:31:05]   → LLM提取...
+[19:31:16]   ❌ 失败: Expecting ',' delimiter: line 2 column 308 (char 309)
+[19:31:17] 
+[19/36] 周论文推荐：推理层佳作频出，上海 AI Lab 多篇论文亮眼，字节发布 Seed-Thinking-
+[19:31:17]   → citadel 2709082817
+[19:31:20]   ❌ 失败: 'utf-8' codec can't decode bytes in position 8999-9000: unexpected end of data
+[19:31:21] 
+[20/36] 周论文推荐：何恺明新研究，英伟达、字节、腾讯等产出佳作，多模态论文频现
+[19:31:21]   → citadel 2715414694
+[19:31:24]   原文: 7630字
+[19:31:24]   → LLM提取...
+[19:31:37]   ❌ 失败: Expecting ',' delimiter: line 2 column 194 (char 195)
+[19:31:37]   💾 ckpt 20/36 已保存 (success=11, fail=9)
+[19:31:38] 
+[21/36] 六月第三周：多模态与 Agent 热持续，OpenAI、MiniMax与月之暗面等接连更新，字节、阿
+[19:31:38]   → citadel 2715745822
+[19:31:41]   ❌ 失败: 'utf-8' codec can't decode bytes in position 8999-9000: unexpected end of data
+[19:31:42] 
+[22/36] AI行业月度观察202506
+[19:31:42]   → citadel 2716784986
+[19:31:45]   原文: 5478字
+[19:31:45]   → LLM提取...
+[19:31:59]   ✅ sum=591字 tags=['Gemini 2.5 Pro', 'Seedance 1.0', 'Qwen3', 'DeepSeek-R1', 'Cursor', '可灵AI', '豆包大模型', 'AI Agent', 'OpenAI', '多模态']
+[19:32:00] 
+[23/36] 周论文推荐：清华强化学习新论文，小红书、字节新研究，Jeff Dean、朱军团队新作，Agent 领
+[19:32:00]   → citadel 2717035867
+[19:32:03]   原文: 14087字
+[19:32:03]   → LLM提取...
+[19:32:15]   ✅ sum=489字 tags=['RLPR', 'RLVR', 'SlimMoE', 'MoE模型压缩', '清华NLP实验室', '知识蒸馏', 'SuperSONIC', 'Kubernetes推理优化', 'Jeff Dean', 'Agent']
+[19:32:16] 
+[24/36] 周论文推荐：港大和可灵提出场景一致的交互式视频世界模型，阿里强化学习新研究，字节跳动提出首个大规模动
+[19:32:16]   → citadel 2724182164
+[19:32:19]   原文: 13126字
+[19:32:19]   → LLM提取...
+[19:32:32]   ✅ sum=533字 tags=['Context as Memory', '视频世界模型', 'EI-BERT', 'MultiKernelBench', '快手可灵', '知识蒸馏', '内核生成评测', 'Unreal Engine 5', 'KDD 2025', '长视频生成']
+[19:32:32]   ❌ 在rebuilt中找不到文档：周论文推荐：港大和可灵提出场景一致的交互式视频世界模型，阿里强化学习新研究，字节跳动提出首个大规模动态未来预测
+[19:32:32] 
+[25/36] 八月第四周：开源和多模态的双线主题
+[19:32:32]   → citadel 2724206028
+[19:32:36]   原文: 11099字
+[19:32:36]   → LLM提取...
+[19:32:56]   ✅ sum=665字 tags=['Gemini 2.5 Flash Image', 'Jetson AGX Thor', 'gpt-realtime', 'OmniHuman-1.5', 'Wan2.2-S2V', 'Jet-Nemotron', 'NotebookLM', 'DingTalk A1', 'PostNAS', 'Perplexity']
+[19:32:57] 
+[26/36] AI行业月度观察202508
+[19:32:57]   → citadel 2724352803
+[19:33:00]   原文: 13755字
+[19:33:00]   → LLM提取...
+[19:33:19]   ❌ 失败: Expecting ',' delimiter: line 2 column 608 (char 609)
+[19:33:20] 
+[27/36] 周论文推荐：Snap+CMU 提出可扩展分组推理，DeepMind、微软、苹果、Meta 等新研究，
+[19:33:20]   → citadel 2725071908
+[19:33:23]   原文: 14053字
+[19:33:23]   → LLM提取...
+[19:33:37]   ✅ sum=427字 tags=['Mamba-SSM', 'TACS框架', 'BED-LLM', '贝叶斯实验设计', '多智能体', 'LLM身份认同', '分组推理', 'Snap+CMU']
+[19:33:37]   ❌ 在rebuilt中找不到文档：周论文推荐：Snap+CMU 提出可扩展分组推理，DeepMind、微软、苹果、Meta 等新研究，腾讯多智能
+[19:33:37] 
+[28/36] 九月第二周：ChatGPT 宣布支持 MCP，Meta 开源小模型，通义、混元、文心模型连发，支付宝
+[19:33:37]   → citadel 2725389700
+[19:33:40]   原文: 11064字
+[19:33:40]   → LLM提取...
+[19:33:59]   ❌ 失败: Expecting ',' delimiter: line 2 column 457 (char 458)
+[19:34:00] 
+[29/36] 周论文推荐：陈怡然团队新作，Meta 论文高产，强化学习多篇研究
+[19:34:00]   → citadel 2727738797
+[19:34:04]   ❌ 失败: 'utf-8' codec can't decode bytes in position 17191-17192: unexpected end of data
+[19:34:05] 
+[30/36] 十月第 4 周：OpenAI 首个 AI 浏览器 ChatGPT Atlas 发布，快手发布 AI 
+[19:34:05]   → citadel 2730365556
+[19:34:08]   原文: 10072字
+[19:34:08]   → LLM提取...
+[19:34:28]   ✅ sum=642字 tags=['OpenAI Atlas浏览器', 'Claude Code', 'Anthropic生命科学', 'Claude Skills', '快手AI编程', 'Veo 3.1', '百川M2 Plus', 'Qwen3-VL', 'SAG-AFTRA', 'Adobe Firefly']
+[19:34:28]   ❌ 在rebuilt中找不到文档：十月第 4 周：OpenAI 首个 AI 浏览器 ChatGPT Atlas 发布，快手发布 AI 编程产品矩
+[19:34:28] 
+[31/36] 二月第三周：海外 AGI 叙事战与开源博弈，国内人才军备化与开源争夺
+[19:34:28]   → citadel 2733045029
+[19:34:32]   ❌ 失败: 'utf-8' codec can't decode byte 0xe4 in position 17192: unexpected end of data
+[19:34:33] 
+[32/36] 二月第二周：海外重构技术栈，国内聚合新生态
+[19:34:33]   → citadel 2733134041
+[19:34:35]   原文: 10917字
+[19:34:35]   → LLM提取...
+[19:34:53]   ❌ 失败: Expecting ',' delimiter: line 2 column 159 (char 160)
+[19:34:54] 
+[33/36] AI行业月度观察202511
+[19:34:54]   → citadel 2735792255
+[19:34:58]   原文: 12718字
+[19:34:58]   → LLM提取...
+[19:35:18]   ❌ 失败: Expecting ',' delimiter: line 2 column 556 (char 557)
+[19:35:19] 
+[34/36] 周论文推荐：可灵提出高效强化学习后训练扩散模型新范式，LeCun、谢赛宁团队新作，腾讯提出推理新框架
+[19:35:19]   → citadel 2745794619
+[19:35:22]   原文: 7146字
+[19:35:22]   → LLM提取...
+[19:35:31]   ✅ sum=525字 tags=['神经网络可重编程性', 'Normalization-Free Transformer', 'Derf激活函数', '刘壮', 'Google DeepMind MultiMax', '扩散模型强化学习', '可灵Kling', 'Prompt Tuning', 'Gemini探测器']
+[19:35:31]   ❌ 在rebuilt中找不到文档：周论文推荐：可灵提出高效强化学习后训练扩散模型新范式，LeCun、谢赛宁团队新作，腾讯提出推理新框架，英伟达多
+[19:35:31] 
+[35/36] AI行业月度观察202601
+[19:35:31]   → citadel 2745919284
+[19:35:35]   原文: 12414字
+[19:35:35]   → LLM提取...
+[19:35:54]   ✅ sum=623字 tags=['Kimi K2.5', 'ERNIE-5.0', '阿里千问', 'GPT-5.2', 'DeepSeek Engram', 'MCP协议', 'SWE-Bench Verified', 'ARC-AGI-2', 'Vera Rubin', '具身智能']
+[19:35:55] 
+[36/36] 1 月第 5 周：海外平台级 Agent 生态卡位，国产开源反攻与工业化落地并进
+[19:35:55]   → citadel 2746288936
+[19:35:58]   原文: 10718字
+[19:35:58]   → LLM提取...

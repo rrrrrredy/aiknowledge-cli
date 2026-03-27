@@ -1,0 +1,50 @@
+全量质检 v2 开始：257篇
+============================================================
+[ 13] WARN | 360 AI 搜索思路 | SUM_VAGUE
+[ 18] WARN | Kimi推理架构 | SUM_VAGUE
+
+── CHECKPOINT 25/257 | PASS=23 WARN=2 FAIL=0 ──
+
+[ 29] WARN | 谷歌、OpenAI&微软、xAI数据中心信息 | SUM_VAGUE
+
+── CHECKPOINT 50/257 | PASS=47 WARN=3 FAIL=0 ──
+
+[ 70] WARN | 快手可灵概况 | SUM_VAGUE
+
+── CHECKPOINT 75/257 | PASS=71 WARN=4 FAIL=0 ──
+
+
+── CHECKPOINT 100/257 | PASS=96 WARN=4 FAIL=0 ──
+
+[121] WARN | 字节 AI 再创业：独立组织、全链条的饱和出击 | SUM_VAGUE
+
+── CHECKPOINT 125/257 | PASS=120 WARN=5 FAIL=0 ──
+
+
+── CHECKPOINT 150/257 | PASS=145 WARN=5 FAIL=0 ──
+
+
+── CHECKPOINT 175/257 | PASS=170 WARN=5 FAIL=0 ──
+
+
+── CHECKPOINT 200/257 | PASS=195 WARN=5 FAIL=0 ──
+
+
+── CHECKPOINT 225/257 | PASS=220 WARN=5 FAIL=0 ──
+
+
+── CHECKPOINT 250/257 | PASS=245 WARN=5 FAIL=0 ──
+
+
+── CHECKPOINT 257/257 | PASS=252 WARN=5 FAIL=0 ──
+
+============================================================
+PASS=252  WARN=5  FAIL=0  通过率=98.1%
+报告已保存: data/quality_check_v2_report.json
+
+WARN(5篇):
+  [ 13] 360 AI 搜索思路 | SUM_VAGUE
+  [ 18] Kimi推理架构 | SUM_VAGUE
+  [ 29] 谷歌、OpenAI&微软、xAI数据中心信息 | SUM_VAGUE
+  [ 70] 快手可灵概况 | SUM_VAGUE
+  [121] 字节 AI 再创业：独立组织、全链条的饱和出击 | SUM_VAGUE

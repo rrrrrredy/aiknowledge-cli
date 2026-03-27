@@ -1,0 +1,2236 @@
+{
+  "total": 257,
+  "pass": 172,
+  "warn": 4,
+  "fail": 81,
+  "pass_rate": "66.9%",
+  "details": [
+    {
+      "n": 1,
+      "title": "OpenAI近期信息报告-2024年初",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 10956,
+      "sum_len": 309
+    },
+    {
+      "n": 2,
+      "title": "重点公司多模态在招人才分析",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(式呈现各,重点科技,取具体的)"
+      ],
+      "raw_len": 7025,
+      "sum_len": 376
+    },
+    {
+      "n": 3,
+      "title": "多模态系列研究——字节视频生成模型",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 10509,
+      "sum_len": 581
+    },
+    {
+      "n": 4,
+      "title": "多模态趋势下的架构选择",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(模态与大,若干关键,持续是)"
+      ],
+      "raw_len": 8091,
+      "sum_len": 489
+    },
+    {
+      "n": 5,
+      "title": "大模型推理加速方法研究01期",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(FlashAttention,Decoding,大型语言)"
+      ],
+      "raw_len": 6442,
+      "sum_len": 579
+    },
+    {
+      "n": 6,
+      "title": "GPT-4o团队报告",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(式排版的,法及具体,格形式对)"
+      ],
+      "raw_len": 15116,
+      "sum_len": 441
+    },
+    {
+      "n": 7,
+      "title": "模型价格对比",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(取具体的,入比较的,分别涵盖)"
+      ],
+      "raw_len": 8128,
+      "sum_len": 454
+    },
+    {
+      "n": 8,
+      "title": "字节AI全景解析",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 6532,
+      "sum_len": 342
+    },
+    {
+      "n": 9,
+      "title": "大模型降价潮分析",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(取出具体,近期大,各主流)"
+      ],
+      "raw_len": 6810,
+      "sum_len": 377
+    },
+    {
+      "n": 10,
+      "title": "阿里AI全景解析",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 4396,
+      "sum_len": 118
+    },
+    {
+      "n": 11,
+      "title": "Stable Diffusion 生态论文",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 8208,
+      "sum_len": 597
+    },
+    {
+      "n": 12,
+      "title": "百度AI全景解析",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 11306,
+      "sum_len": 398
+    },
+    {
+      "n": 13,
+      "title": "360 AI 搜索思路",
+      "status": "WARN",
+      "issues": [
+        "SUM_MEANINGLESS"
+      ],
+      "raw_len": 3944,
+      "sum_len": 420
+    },
+    {
+      "n": 14,
+      "title": "小红书AI全景解析",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 14403,
+      "sum_len": 450
+    },
+    {
+      "n": 15,
+      "title": "字节AI产品经理访谈",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(用户在,过与算法,值依附于)"
+      ],
+      "raw_len": 7590,
+      "sum_len": 547
+    },
+    {
+      "n": 16,
+      "title": "国内大模型公司出海产品",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(内头部大,司中海外,物是四家)"
+      ],
+      "raw_len": 12304,
+      "sum_len": 646
+    },
+    {
+      "n": 17,
+      "title": "十万卡集群解析",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 4571,
+      "sum_len": 621
+    },
+    {
+      "n": 18,
+      "title": "Kimi推理架构",
+      "status": "WARN",
+      "issues": [
+        "SUM_MEANINGLESS"
+      ],
+      "raw_len": 4958,
+      "sum_len": 412
+    },
+    {
+      "n": 19,
+      "title": "快手可灵团队信息",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(核心算法,可灵提供,人的精干)"
+      ],
+      "raw_len": 6594,
+      "sum_len": 552
+    },
+    {
+      "n": 20,
+      "title": "OpenAI「草莓」项目信息",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(举方式让,强千倍的,习这一无)"
+      ],
+      "raw_len": 6793,
+      "sum_len": 674
+    },
+    {
+      "n": 21,
+      "title": "AI搜索产品报告",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 9590,
+      "sum_len": 411
+    },
+    {
+      "n": 22,
+      "title": "ICML 2024概述及技术趋势",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 4138,
+      "sum_len": 443
+    },
+    {
+      "n": 23,
+      "title": "Machine Unlearning 技术解析",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 8041,
+      "sum_len": 714
+    },
+    {
+      "n": 24,
+      "title": "AI视频生成市场概况",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 11804,
+      "sum_len": 587
+    },
+    {
+      "n": 25,
+      "title": "基础模型评估报告",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 6318,
+      "sum_len": 631
+    },
+    {
+      "n": 26,
+      "title": "大模型成本研究",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 8322,
+      "sum_len": 772
+    },
+    {
+      "n": 27,
+      "title": "OpenAI、Google及字节近期信息202408",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(大产品与,新旗舰大,本为原始)"
+      ],
+      "raw_len": 8704,
+      "sum_len": 765
+    },
+    {
+      "n": 28,
+      "title": "Zilliz和月之暗面的长文本与RAG实践",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 7297,
+      "sum_len": 566
+    },
+    {
+      "n": 29,
+      "title": "谷歌、OpenAI&微软、xAI数据中心信息",
+      "status": "WARN",
+      "issues": [
+        "SUM_MEANINGLESS"
+      ],
+      "raw_len": 3544,
+      "sum_len": 654
+    },
+    {
+      "n": 30,
+      "title": "小红书大模型技术应用案例",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 9863,
+      "sum_len": 601
+    },
+    {
+      "n": 31,
+      "title": "OpenAI新产品及Self-Play RL最新信息202409",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 2607,
+      "sum_len": 134
+    },
+    {
+      "n": 32,
+      "title": "Self-Play相关研究推荐",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 9567,
+      "sum_len": 753
+    },
+    {
+      "n": 33,
+      "title": "OpenAI o1 补充信息",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 7718,
+      "sum_len": 632
+    },
+    {
+      "n": 34,
+      "title": "OpenAI o1最新信息20240919",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 4217,
+      "sum_len": 796
+    },
+    {
+      "n": 35,
+      "title": "AI Agent研究报告",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 11060,
+      "sum_len": 637
+    },
+    {
+      "n": 36,
+      "title": "Google AI全景解析",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(技术从,区和学术,量级开放)"
+      ],
+      "raw_len": 9498,
+      "sum_len": 574
+    },
+    {
+      "n": 37,
+      "title": "华为AI全景解析",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 12152,
+      "sum_len": 507
+    },
+    {
+      "n": 38,
+      "title": "腾讯AI全景解析",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 8295,
+      "sum_len": 539
+    },
+    {
+      "n": 39,
+      "title": "Meta AI全景解析",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 5060,
+      "sum_len": 606
+    },
+    {
+      "n": 40,
+      "title": "亚马逊AI全景解析",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 10481,
+      "sum_len": 564
+    },
+    {
+      "n": 41,
+      "title": "市场趋势内容参考-大模型",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 7564,
+      "sum_len": 714
+    },
+    {
+      "n": 42,
+      "title": "近期大模型行业重要信息202410-1",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 9069,
+      "sum_len": 679
+    },
+    {
+      "n": 43,
+      "title": "OpenAI 近期三篇重要研究",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(三项重要,成技术与,苹果公司)"
+      ],
+      "raw_len": 7718,
+      "sum_len": 696
+    },
+    {
+      "n": 44,
+      "title": "大模型领域近期热门论文202410-1",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(关子句后,期聚焦大,表明现有)"
+      ],
+      "raw_len": 7238,
+      "sum_len": 694
+    },
+    {
+      "n": 45,
+      "title": "大模型领域近期热门论文202410-2",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 7572,
+      "sum_len": 674
+    },
+    {
+      "n": 46,
+      "title": "近期大模型行业重要信息202410-2",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 7634,
+      "sum_len": 671
+    },
+    {
+      "n": 47,
+      "title": "国内多模态大模型公司进展",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 6726,
+      "sum_len": 641
+    },
+    {
+      "n": 48,
+      "title": "持续反向传播与新的训练范式研究",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 3806,
+      "sum_len": 157
+    },
+    {
+      "n": 49,
+      "title": "大模型领域近期热门论文202411",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(华与腾讯,本期大,理实现跨)"
+      ],
+      "raw_len": 7117,
+      "sum_len": 687
+    },
+    {
+      "n": 50,
+      "title": "近期 AI Agent 趋势",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 7730,
+      "sum_len": 734
+    },
+    {
+      "n": 51,
+      "title": "大模型领域近期热门论文202411-2",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(团队联合,模型基础,与腾讯等)"
+      ],
+      "raw_len": 7417,
+      "sum_len": 653
+    },
+    {
+      "n": 52,
+      "title": "豆包相关信息",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 12082,
+      "sum_len": 554
+    },
+    {
+      "n": 53,
+      "title": "豆包相关论文",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(多项前沿,ByteDance,跳动豆包)"
+      ],
+      "raw_len": 13784,
+      "sum_len": 805
+    },
+    {
+      "n": 54,
+      "title": "LLM 架构范式探索与模型能力的提升",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 7156,
+      "sum_len": 810
+    },
+    {
+      "n": 55,
+      "title": "近期业界Agent相关信息202411",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 3346,
+      "sum_len": 703
+    },
+    {
+      "n": 56,
+      "title": "大模型领域近期热门论文202411-3",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 3855,
+      "sum_len": 121
+    },
+    {
+      "n": 57,
+      "title": "近期关于 Scaling Law 的业界探讨",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 4030,
+      "sum_len": 947
+    },
+    {
+      "n": 58,
+      "title": "大模型领域近期热门论文202411-4",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(览涵盖大,构建世界,学王选所)"
+      ],
+      "raw_len": 7576,
+      "sum_len": 692
+    },
+    {
+      "n": 59,
+      "title": "数据标注公司Scale AI研究报告",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(务的科技,人工审核,三方专业)"
+      ],
+      "raw_len": 11864,
+      "sum_len": 653
+    },
+    {
+      "n": 60,
+      "title": "主流AI视频生成产品报告",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 12675,
+      "sum_len": 690
+    },
+    {
+      "n": 61,
+      "title": "近期大模型行业重要信息202411-4",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 7786,
+      "sum_len": 815
+    },
+    {
+      "n": 62,
+      "title": "LeCun AI 战略变化",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(放弃语言,介绍能量,来最大的)"
+      ],
+      "raw_len": 6115,
+      "sum_len": 629
+    },
+    {
+      "n": 63,
+      "title": "大模型领域近期热门论文202411-5",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(腾讯复旦,浙大北航,本期大)"
+      ],
+      "raw_len": 7703,
+      "sum_len": 775
+    },
+    {
+      "n": 64,
+      "title": "主流视频生成模型的进展与挑战",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 7168,
+      "sum_len": 703
+    },
+    {
+      "n": 65,
+      "title": "近期大模型行业重要信息202412-1",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 3999,
+      "sum_len": 686
+    },
+    {
+      "n": 66,
+      "title": "类 o1 推理模型技术思路",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(验室联合,国内推理,当前推理)"
+      ],
+      "raw_len": 14988,
+      "sum_len": 653
+    },
+    {
+      "n": 67,
+      "title": "「程序性知识」与大模型推理",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 3591,
+      "sum_len": 687
+    },
+    {
+      "n": 68,
+      "title": "论文推荐：NeurIPS 最佳论文、推理与多模态",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(提升扩散,的后训练,在开源)"
+      ],
+      "raw_len": 7822,
+      "sum_len": 811
+    },
+    {
+      "n": 69,
+      "title": "腾讯元宝概况",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 13989,
+      "sum_len": 610
+    },
+    {
+      "n": 70,
+      "title": "快手可灵概况",
+      "status": "WARN",
+      "issues": [
+        "SUM_MEANINGLESS"
+      ],
+      "raw_len": 4105,
+      "sum_len": 165
+    },
+    {
+      "n": 71,
+      "title": "国内公司 AI 布局概况（汇总版）",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(主要科技,豆包音乐,腾讯六大)"
+      ],
+      "raw_len": 4902,
+      "sum_len": 739
+    },
+    {
+      "n": 72,
+      "title": "OpenAI、谷歌赛马，国内厂商加速探索应用场景",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 3830,
+      "sum_len": 765
+    },
+    {
+      "n": 73,
+      "title": "推理计算之外的两种技术思路",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 5211,
+      "sum_len": 585
+    },
+    {
+      "n": 74,
+      "title": "DeepMind 三篇研究瞩目；推理方向研究频出",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 6841,
+      "sum_len": 746
+    },
+    {
+      "n": 75,
+      "title": "国内大模型厂商商业化专家访谈及投放策略",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 3035,
+      "sum_len": 112
+    },
+    {
+      "n": 76,
+      "title": "OpenAI o1 团队 Noam Brown 访谈",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 6143,
+      "sum_len": 616
+    },
+    {
+      "n": 77,
+      "title": "AI 行业迎来“最卷”一周",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 7041,
+      "sum_len": 759
+    },
+    {
+      "n": 78,
+      "title": "「撞墙」争议下，关于 Scaling Law 的下一步探索",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 7375,
+      "sum_len": 694
+    },
+    {
+      "n": 79,
+      "title": "论文推荐：视觉、推理领域热度不减，agent、小模型方向出现新范式",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 3845,
+      "sum_len": 674
+    },
+    {
+      "n": 80,
+      "title": "Scaling Law——o1 Pro 架构、推理基础设施、Orion 和 Claude 3.5 O",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(算力提升,RE-,万亿参数)"
+      ],
+      "raw_len": 13804,
+      "sum_len": 748
+    },
+    {
+      "n": 81,
+      "title": "豆包调研信息202412",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 3164,
+      "sum_len": 583
+    },
+    {
+      "n": 82,
+      "title": "海外厂商多点开花，国内加速应用探索",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 4062,
+      "sum_len": 527
+    },
+    {
+      "n": 83,
+      "title": "周论文推荐：多模态佳作频出",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(模态与大,迁移至大,十亿级大)"
+      ],
+      "raw_len": 7973,
+      "sum_len": 630
+    },
+    {
+      "n": 84,
+      "title": "Meta 提出的无需 Tokenizer 新架构与多模态对齐、融合的新工作",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 6274,
+      "sum_len": 660
+    },
+    {
+      "n": 85,
+      "title": "OpenAI 重组公司，国内模型表现亮眼",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 5771,
+      "sum_len": 705
+    },
+    {
+      "n": 86,
+      "title": "近期「空间推理」领域进展",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 10624,
+      "sum_len": 594
+    },
+    {
+      "n": 87,
+      "title": "Meta、苹果发力应用，腾讯、阿里、字节持续输出",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 7276,
+      "sum_len": 776
+    },
+    {
+      "n": 88,
+      "title": "模型伪装与安全",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 5538,
+      "sum_len": 264
+    },
+    {
+      "n": 89,
+      "title": "本周论文推荐",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 7348,
+      "sum_len": 749
+    },
+    {
+      "n": 90,
+      "title": "谷歌最新 Agent 白皮书及往期 AI Agent 研究",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(是对谷歌,Tree-of-,Chain-of-Thought)"
+      ],
+      "raw_len": 3175,
+      "sum_len": 591
+    },
+    {
+      "n": 91,
+      "title": "小红书大模型探索案例",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 10308,
+      "sum_len": 885
+    },
+    {
+      "n": 92,
+      "title": "模型轮番上新：80% 聚焦底层能力，类 o1 推理模型开卷",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 7733,
+      "sum_len": 785
+    },
+    {
+      "n": 93,
+      "title": "大模型行业双周趋势：DeepSeek引发范式讨论，国内外厂商应用探索加速",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 11852,
+      "sum_len": 758
+    },
+    {
+      "n": 94,
+      "title": "论文推荐：多模态、推理研究井喷，字节多方向发力",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(领域多项,出自适应,成果密集)"
+      ],
+      "raw_len": 11688,
+      "sum_len": 711
+    },
+    {
+      "n": 95,
+      "title": "国内大模型市场近期信息",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 6709,
+      "sum_len": 680
+    },
+    {
+      "n": 96,
+      "title": "大模型行业周趋势：OpenAI动作频繁，DeepSeek热度不减，阿里、字节、腾讯齐发力",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 5206,
+      "sum_len": 186
+    },
+    {
+      "n": 97,
+      "title": "周论文推荐：字节、阿里多篇论文发布，DeepSeek、小红书两项研究亮眼",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(多项重要,预估蒸馏,成果集中)"
+      ],
+      "raw_len": 12389,
+      "sum_len": 652
+    },
+    {
+      "n": 98,
+      "title": "大模型行业近期市场信息：腾讯、阿里、字节及DeepSeek",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 4073,
+      "sum_len": 642
+    },
+    {
+      "n": 99,
+      "title": "周趋势：国内企业积极调整，开源和推理成为更确定的共识",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(腾讯成为,或手机端,模推售大)"
+      ],
+      "raw_len": 12698,
+      "sum_len": 699
+    },
+    {
+      "n": 100,
+      "title": "xAI核心华人报告",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 13254,
+      "sum_len": 721
+    },
+    {
+      "n": 101,
+      "title": "本周多模态论文推荐：字节高产，小红书佳作频出；扩散模型迎来多项新研究",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 11511,
+      "sum_len": 788
+    },
+    {
+      "n": 102,
+      "title": "阿里多模态通义万相2.1调研",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 4868,
+      "sum_len": 808
+    },
+    {
+      "n": 103,
+      "title": "周论文推荐：模型层新方法推荐，快手4篇多模态研究亮眼",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(多项重要,专攻大,机构联合)"
+      ],
+      "raw_len": 6313,
+      "sum_len": 502
+    },
+    {
+      "n": 104,
+      "title": "周趋势：海外模型、应用齐发，DeepSeek持续开源，阿里系表现亮眼",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 13064,
+      "sum_len": 704
+    },
+    {
+      "n": 105,
+      "title": "DeepSeek跟踪研究及外部访谈",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 6724,
+      "sum_len": 658
+    },
+    {
+      "n": 106,
+      "title": "Bot帮助文档",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 600,
+      "sum_len": 448
+    },
+    {
+      "n": 107,
+      "title": "Anthropic产品官克里格的反思：行业洞察和独特数据是AI产生价值的关键、需要更简化、敏捷、重视",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(一领域的,验才能在,新想法的)"
+      ],
+      "raw_len": 7684,
+      "sum_len": 610
+    },
+    {
+      "n": 108,
+      "title": "爱诗科技完成A5轮融资，PixVerse月活突破1500万并将在国内上线",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 2062,
+      "sum_len": 402
+    },
+    {
+      "n": 109,
+      "title": "从 R1 到 Sonnet 3.7，Reasoning Model 首轮竞赛中有哪些关键信号？",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 9425,
+      "sum_len": 802
+    },
+    {
+      "n": 110,
+      "title": "AI学习资源汇总",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 7818,
+      "sum_len": 500
+    },
+    {
+      "n": 111,
+      "title": "周趋势：Deep Research成为热门Agent方向，混合模型成新共识",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 5659,
+      "sum_len": 511
+    },
+    {
+      "n": 112,
+      "title": "周论文推荐：推理任务涌现新方法，字节、阿里“互卷”多模态",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 10689,
+      "sum_len": 634
+    },
+    {
+      "n": 113,
+      "title": "Agent 的未来是端到端强化学习微调——OpenAI Deep Research 团队分享",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(来自推理,训练赋予,式使推理)"
+      ],
+      "raw_len": 8730,
+      "sum_len": 652
+    },
+    {
+      "n": 114,
+      "title": "周趋势：开源、投流，各家模型与产品进一步集成",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 11964,
+      "sum_len": 883
+    },
+    {
+      "n": 115,
+      "title": "周论文：微信 AI 、何恺明团队均贡献两篇佳作；模型层论文高产（高质量的一周）",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(比仅观察,义薄列峰,而可能使)"
+      ],
+      "raw_len": 12781,
+      "sum_len": 628
+    },
+    {
+      "n": 116,
+      "title": "周趋势：阿里积极调整，谷歌、腾讯竞速；OpenAI、Anthropic多项更新；字节探索Manus类",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(对云安全,款实验性,伦敦总部)"
+      ],
+      "raw_len": 11644,
+      "sum_len": 661
+    },
+    {
+      "n": 117,
+      "title": "周论文推荐：推理方向三篇佳作，字节、阿里、腾讯多模态高产",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 12842,
+      "sum_len": 675
+    },
+    {
+      "n": 118,
+      "title": "周趋势：开源、开放与新功能迭代，新一轮竞赛开始",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 12347,
+      "sum_len": 814
+    },
+    {
+      "n": 119,
+      "title": "AI行业月度观察202503",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 13111,
+      "sum_len": 682
+    },
+    {
+      "n": 120,
+      "title": "周趋势：模型开源与产品更新进入密集发布期",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 11596,
+      "sum_len": 658
+    },
+    {
+      "n": 121,
+      "title": "字节 AI 再创业：独立组织、全链条的饱和出击",
+      "status": "FAIL",
+      "issues": [
+        "SUM_MEANINGLESS",
+        "HALLUCINATION_RISK(中大语言,国大科技,人的小)"
+      ],
+      "raw_len": 4023,
+      "sum_len": 345
+    },
+    {
+      "n": 122,
+      "title": "字节 AI 产品调整：猫箱负责人离职，星绘并入豆包",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 1365,
+      "sum_len": 546
+    },
+    {
+      "n": 123,
+      "title": "字节 AI 研发调整继续：吴永辉直接管理范围扩大，AI Lab 3 个方向并入 Seed",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 3070,
+      "sum_len": 702
+    },
+    {
+      "n": 124,
+      "title": "周论文推荐：字节多篇研究领衔，豆包公布文生图模型技术报告、Seaweed-7B、Pixel-SAIL",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 13027,
+      "sum_len": 695
+    },
+    {
+      "n": 125,
+      "title": "字节更新信息",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 1046,
+      "sum_len": 761
+    },
+    {
+      "n": 126,
+      "title": "周趋势：新模型接连发布，产品更新节奏加速",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 12010,
+      "sum_len": 734
+    },
+    {
+      "n": 127,
+      "title": "周论文推荐：多模态、推理方向涌向多篇优质论文，字节、Google、Meta 持续高产出",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 12696,
+      "sum_len": 784
+    },
+    {
+      "n": 128,
+      "title": "五月第三周：OpenAI、Google 领衔多项发布；混元加速迭代，字节、阿里更新多款模型和开源项目",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 12199,
+      "sum_len": 774
+    },
+    {
+      "n": 129,
+      "title": "周论文推荐：“Transformer 八子”新论文，快手三篇佳作，MCP 系列论文推荐",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 12454,
+      "sum_len": 782
+    },
+    {
+      "n": 130,
+      "title": "五月第四周：Google I/O多项更新，Claude 4系列发布，OpenAI Responses",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 12117,
+      "sum_len": 772
+    },
+    {
+      "n": 131,
+      "title": "五月第五周：Meta、小红书AI团队调整，可灵AI单季收入超1.5亿，AI Agent产品持续上新",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(垂直专用,开源形式,最强同类)"
+      ],
+      "raw_len": 12492,
+      "sum_len": 702
+    },
+    {
+      "n": 132,
+      "title": "周论文推荐：阿里发布多篇研究，Sakana AI 连更，「模型自我进化」论文集中发布",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 13167,
+      "sum_len": 679
+    },
+    {
+      "n": 133,
+      "title": "六月第一周：Google、OpenAI 与 Anthropic 领衔，海内外创业公司产品批量更新，快",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 5282,
+      "sum_len": 670
+    },
+    {
+      "n": 134,
+      "title": "周论文推荐：OpenAI 发布新作，快手、腾讯接连更新，字节 CVPR 2025 论文精选",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(多项重要,成果集中,大学联合)"
+      ],
+      "raw_len": 12827,
+      "sum_len": 675
+    },
+    {
+      "n": 135,
+      "title": "六月第二周：多模态、Agent探索加速，Meta、Google 组织调整，字节发布多款模型及产品更新",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 13021,
+      "sum_len": 841
+    },
+    {
+      "n": 136,
+      "title": "七月第一周：Meta 成立「超级智能实验室」，Cursor 发布手机版，豆包上线「深入研究」功能，淘",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(派驻内部,其大语言,动机器人)"
+      ],
+      "raw_len": 10774,
+      "sum_len": 694
+    },
+    {
+      "n": 137,
+      "title": "周论文推荐：Bengio、周志华、邢波等人新研究，上海交大多篇佳作",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(多项重要,在于语言,发现奖励)"
+      ],
+      "raw_len": 6272,
+      "sum_len": 475
+    },
+    {
+      "n": 138,
+      "title": "七月第二周：模型发布小高峰，场景落地趋向聚焦",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(发豆包大,机厂商与,其主导)"
+      ],
+      "raw_len": 10728,
+      "sum_len": 707
+    },
+    {
+      "n": 139,
+      "title": "七月第三周：“Agent 即产品”成为新共识",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 9937,
+      "sum_len": 756
+    },
+    {
+      "n": 140,
+      "title": "周论文推荐：Google 推出新模型架构，字节、快手、京东新研究，Transformer 改进架构论",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 12906,
+      "sum_len": 696
+    },
+    {
+      "n": 141,
+      "title": "AI行业月度观察202507",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(继将旗舰,营正成为,行业在)"
+      ],
+      "raw_len": 11963,
+      "sum_len": 722
+    },
+    {
+      "n": 142,
+      "title": "七月第五周：模型集中发布，产品层改造进一步加深",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(行业呈现,等轻量,模型密集)"
+      ],
+      "raw_len": 10150,
+      "sum_len": 716
+    },
+    {
+      "n": 143,
+      "title": "周论文推荐：字节、南洋理工多篇研究，苹果推理新论文，World Models 论文精选",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(通过为,最终造成,型可靠性)"
+      ],
+      "raw_len": 13088,
+      "sum_len": 609
+    },
+    {
+      "n": 144,
+      "title": "周论文推荐：Richard Sutton、周志华新作，小红书提出风格迁移加速算法，ACL 2025 ",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(训练语言,者的最新,推荐涵盖)"
+      ],
+      "raw_len": 13247,
+      "sum_len": 702
+    },
+    {
+      "n": 145,
+      "title": "八月第一周：GPT-5 领衔模型扎堆发布，开源与闭源路径分化",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(标上代大,中夺金的,来密集的)"
+      ],
+      "raw_len": 10025,
+      "sum_len": 755
+    },
+    {
+      "n": 146,
+      "title": "周论文推荐：腾讯、快手、华为等公司 Agent 新研究，强化学习多篇新论文，上海 AI Lab 持续",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 13522,
+      "sum_len": 699
+    },
+    {
+      "n": 147,
+      "title": "八月第二周：海外用定价权和安全叙事巩固领先，国内用垂直场景和开源速度抢落地",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 10231,
+      "sum_len": 706
+    },
+    {
+      "n": 148,
+      "title": "周论文推荐：字节开源 Agent 专用模型和多模态框架，微软推出强化学习新算法，Adobe Rese",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(亚研联合,大学联合,多个前沿)"
+      ],
+      "raw_len": 7061,
+      "sum_len": 547
+    },
+    {
+      "n": 149,
+      "title": "八月第三周：海外垂直场景走向产品化，国内从工程效率到产业纵深",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 5030,
+      "sum_len": 647
+    },
+    {
+      "n": 150,
+      "title": "周论文推荐：OpenAI 新论文，Meta 超级智能实验室首篇论文，MIT 针对模型灾难性遗忘新研究",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 12927,
+      "sum_len": 594
+    },
+    {
+      "n": 151,
+      "title": "周论文推荐：快手可灵团队提出 MIDAS，清华、上海 AI Lab 等发布推理模型 RL 超全综述，",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 11766,
+      "sum_len": 574
+    },
+    {
+      "n": 152,
+      "title": "九月第三周：海外生态竞争进入“系统级”阶段， 国内应用层打“场景纵深”",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 10616,
+      "sum_len": 723
+    },
+    {
+      "n": 153,
+      "title": "周论文推荐：LeCun 新作，Meta、字节、阿里多篇新研究，vivo AI Lab 提出新的后训练",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(大学联合,多个前沿,至大语言)"
+      ],
+      "raw_len": 13679,
+      "sum_len": 627
+    },
+    {
+      "n": 154,
+      "title": "AI行业月度观察202509",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 12571,
+      "sum_len": 716
+    },
+    {
+      "n": 155,
+      "title": "十月第 1-2 周：海外巨头加速“闭环生态”争夺，国内开源模型“降维打击”",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 10590,
+      "sum_len": 663
+    },
+    {
+      "n": 156,
+      "title": "九月第四周：海外用千亿美金把 AI 做成“重工业”，中国用厘级价格把 AI 做成“快消品”",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 10044,
+      "sum_len": 670
+    },
+    {
+      "n": 157,
+      "title": "周论文推荐：OpenAI、Anthropic、DeepMind 联合发文，Meta 多篇研究，腾讯开",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 11561,
+      "sum_len": 648
+    },
+    {
+      "n": 158,
+      "title": "周论文推荐：DeepSeek 新模型，小米、北大联合发布 R3，苹果提出 DeepMMSearch-",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(大学联合,赋予大,念引入大)"
+      ],
+      "raw_len": 6487,
+      "sum_len": 532
+    },
+    {
+      "n": 159,
+      "title": "十月第 3 周：海外继续走向“系统级生态”，国内模型竞赛转向“场景落地”，AI 的“记忆”与“身份”",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 10425,
+      "sum_len": 725
+    },
+    {
+      "n": 160,
+      "title": "周论文推荐：清华、快手多篇研究，Meta 新论文教会 Transformer「显式思考」，字节放出自",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 6249,
+      "sum_len": 532
+    },
+    {
+      "n": 161,
+      "title": "十月第5周：海外把 “内存 + 精度” 当新护城河，国内把 “降价 + 开源” 打成一套组合拳",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 11013,
+      "sum_len": 722
+    },
+    {
+      "n": 162,
+      "title": "AI行业月度观察202510",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 12951,
+      "sum_len": 740
+    },
+    {
+      "n": 163,
+      "title": "11月第1周：海外从\"模型能力展示\"转向\"全栈控制力争夺\"，国内应用层渗透与底层\"国产替代\"同步加速",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(从绑定强,药物筛选,单纯展示)"
+      ],
+      "raw_len": 9006,
+      "sum_len": 753
+    },
+    {
+      "n": 164,
+      "title": "周论文推荐：LSTM 之父新作，苹果提出新型反向传播，快手、字节、阿里、小红书多篇研究",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 13522,
+      "sum_len": 733
+    },
+    {
+      "n": 165,
+      "title": "AI行业月度观察202501",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 11304,
+      "sum_len": 689
+    },
+    {
+      "n": 166,
+      "title": "AI行业月度观察202502",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(类中国大,选择回归,现出中国)"
+      ],
+      "raw_len": 12041,
+      "sum_len": 737
+    },
+    {
+      "n": 167,
+      "title": "一月第二周：海外把 AI 从 “语言” 升级到 “物理”，国内把大模型做成 “水电煤”",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(型向物理,正从语言,标志着大)"
+      ],
+      "raw_len": 11182,
+      "sum_len": 681
+    },
+    {
+      "n": 168,
+      "title": "一月第四周：海外巨头押注 AI Agent 与基础设施，国内厂商以开源和垂直场景落地双线突围",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(作的开源,跳动集中,日正式)"
+      ],
+      "raw_len": 9806,
+      "sum_len": 620
+    },
+    {
+      "n": 169,
+      "title": "一月第一周：海外从“暴力堆算力”转向“架构效率+合规求生”，国内从“卷模型参数”进入“卷场景闭环+产",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(标志国产,商则从卷,编排初创)"
+      ],
+      "raw_len": 10464,
+      "sum_len": 719
+    },
+    {
+      "n": 170,
+      "title": "一月第五周：海外免费深度推理重构算力价值，国内开源视觉 Agent 颠覆场景门槛",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 5181,
+      "sum_len": 168
+    },
+    {
+      "n": 171,
+      "title": "二月第四周：海外竞逐混合智能与算力霸权，国内掀起开源闪电战与入口暗战",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 9644,
+      "sum_len": 717
+    },
+    {
+      "n": 172,
+      "title": "一月第三周：海外闭源堆栈“锁生态”，国内拆场景卷成本",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 10564,
+      "sum_len": 717
+    },
+    {
+      "n": 173,
+      "title": "11月第2周：海外聚焦基础设施与模型范式革命，国内关注场景落地与硬件耦合",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(现有最优,施扩张与,同步推出)"
+      ],
+      "raw_len": 9954,
+      "sum_len": 697
+    },
+    {
+      "n": 174,
+      "title": "11月第3周：海外拼“超长上下文+深推理”刷榜，国内用“免费大模型+小程序”抢日活",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 10492,
+      "sum_len": 663
+    },
+    {
+      "n": 175,
+      "title": "周论文推荐：Anthropic 新研究，通义实验室推出智能体系统 AgentEvolver，Meta",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 6459,
+      "sum_len": 600
+    },
+    {
+      "n": 176,
+      "title": "11月第4周：海外卖“可靠性”，国内收“场景税”",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 10814,
+      "sum_len": 866
+    },
+    {
+      "n": 177,
+      "title": "周论文推荐：月之暗面公开强化学习训练加速方法，北大、字节多篇论文",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 6440,
+      "sum_len": 584
+    },
+    {
+      "n": 178,
+      "title": "12月第1周：海外战略聚焦底层架构政变，国内野蛮生长反噬平台主权",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 9352,
+      "sum_len": 718
+    },
+    {
+      "n": 179,
+      "title": "周论文推荐：GPT-5-Thinking 新训练方法，小红书搜索团队提出分段优势掩码策略，千问团队提",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 6438,
+      "sum_len": 555
+    },
+    {
+      "n": 180,
+      "title": "12月第2周：海外进入“智能体工程化与入口争夺”阶段，国内加速“AI能力在端侧与超级入口的产业化落地",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 9586,
+      "sum_len": 801
+    },
+    {
+      "n": 181,
+      "title": "12月第3周：海外 Agent 平台化加速，国内入口与工作流迅速落地",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 10374,
+      "sum_len": 665
+    },
+    {
+      "n": 182,
+      "title": "周论文推荐：微软发布首个测试时扩展大规模研究，Google 发布智能体 Scaling Law，CM",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(多项前沿,模系统性,定来赋予)"
+      ],
+      "raw_len": 12168,
+      "sum_len": 568
+    },
+    {
+      "n": 183,
+      "title": "12 月第 4 周：海外通过 Agentic RL 拉动小模型高性价比 ，国内通过开源模型加速落地",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(印证顶级,向为轻量,实现对大)"
+      ],
+      "raw_len": 3685,
+      "sum_len": 611
+    },
+    {
+      "n": 184,
+      "title": "周论文推荐：Anthropic 新论文，混元/上交多智能体新研究，人大/腾讯提出关于大模型的「推理机",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(多项前沿,对大语言,聚焦大)"
+      ],
+      "raw_len": 6504,
+      "sum_len": 553
+    },
+    {
+      "n": 185,
+      "title": "AI行业月度观察202512",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(已从单一,行业呈现,重心也从)"
+      ],
+      "raw_len": 11220,
+      "sum_len": 715
+    },
+    {
+      "n": 186,
+      "title": "2025 年 AI 行业年度观察",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 3061,
+      "sum_len": 474
+    },
+    {
+      "n": 187,
+      "title": "周论文推荐：OpenAI 提出新的监控性评估框架和指标，深度求索新论文，微信提出扩散语言模型，字节 ",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(多项重要,研究相继,型与专家)"
+      ],
+      "raw_len": 13006,
+      "sum_len": 670
+    },
+    {
+      "n": 188,
+      "title": "1 月第 1-2 周：海外 Agent 吞噬软件栈，国内多模态抢跑硬件终端",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 9753,
+      "sum_len": 730
+    },
+    {
+      "n": 189,
+      "title": "周论文推荐：Bengio 团队新研究，DeepSeek 更新两篇论文，英伟达提出 GDPO，快手提出",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(共同一作,多项重要,研究相继)"
+      ],
+      "raw_len": 6620,
+      "sum_len": 593
+    },
+    {
+      "n": 190,
+      "title": "1 月第 3 周：海外推实时推理与多模态应用，国内全栈技术加速场景化应用",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 8975,
+      "sum_len": 795
+    },
+    {
+      "n": 191,
+      "title": "周论文推荐：Google 发现模型进化“真相”，字节推理新研究，微软多篇论文",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(越但理论,大学刘勇,了大语言)"
+      ],
+      "raw_len": 12606,
+      "sum_len": 597
+    },
+    {
+      "n": 192,
+      "title": "2 月第 1 周：海外编程智能体双雄对决，国内生态红包大战卡位入口",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 3864,
+      "sum_len": 113
+    },
+    {
+      "n": 193,
+      "title": "2 月第 2-3 周：\"OpenClaw 效应\"裂变，超级应用收割流量红利",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 9329,
+      "sum_len": 679
+    },
+    {
+      "n": 194,
+      "title": "周论文推荐：快手世界模型新论文，CMU 开源首份 Agentic Search 日志数据，苹果发布端",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 11842,
+      "sum_len": 698
+    },
+    {
+      "n": 195,
+      "title": "AI行业月度观察202602",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 9738,
+      "sum_len": 794
+    },
+    {
+      "n": 196,
+      "title": "2 月第 4 周：海外Agent落地引爆权限悖论，国内垂直模型深耕产业Know-how",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 10000,
+      "sum_len": 636
+    },
+    {
+      "n": 197,
+      "title": "周论文推荐：DeepMind 智能体新研究，DeepSeek 新论文，Alec Radford 新作",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(现为独立,大学联合,合斯坦福)"
+      ],
+      "raw_len": 13150,
+      "sum_len": 803
+    },
+    {
+      "n": 198,
+      "title": "3月第1周：海外长上下文模型深耕体验，国内OpenClaw\"养虾\"热与安全风险交织",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 3892,
+      "sum_len": 406
+    },
+    {
+      "n": 199,
+      "title": "周论文推荐：滑铁卢大学联合可灵提出UniVideo，蚂蚁联合清华发布强化学习训练框架，小红书开源图像",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(领域多项,治亚理工,高效混合)"
+      ],
+      "raw_len": 6972,
+      "sum_len": 485
+    },
+    {
+      "n": 200,
+      "title": "3月第2周：海外重估Agent协议标准，国内龙虾部署竞赛白热化",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 10003,
+      "sum_len": 725
+    },
+    {
+      "n": 201,
+      "title": "周论文推荐：OpenClaw安全性测试论文，Agent Memory系统性综述，月之暗面发布Attn",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(多项重要,BCRL,大学联合)"
+      ],
+      "raw_len": 13707,
+      "sum_len": 734
+    },
+    {
+      "n": 202,
+      "title": "3月第3周：海外加速收敛编程工具与企业级服务战线，国内阵营饱和攻击Agent入口",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 8506,
+      "sum_len": 704
+    },
+    {
+      "n": 203,
+      "title": "周论文推荐：浙大开源高性能 LLM Steering 统一框架，字节提出 ReGFT 方法，阿里发布",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(队还系统,示其为大,阶段操控)"
+      ],
+      "raw_len": 12218,
+      "sum_len": 604
+    },
+    {
+      "n": 204,
+      "title": "OpenClaw龙虾系统专题1",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 5237,
+      "sum_len": 563
+    },
+    {
+      "n": 205,
+      "title": "OpenClaw龙虾系统专题2",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 3586,
+      "sum_len": 132
+    },
+    {
+      "n": 206,
+      "title": "OpenClaw龙虾系统专题3",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 3249,
+      "sum_len": 599
+    },
+    {
+      "n": 207,
+      "title": "OpenClaw龙虾系统专题4",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 2871,
+      "sum_len": 484
+    },
+    {
+      "n": 208,
+      "title": "OpenClaw龙虾系统专题5",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 3248,
+      "sum_len": 519
+    },
+    {
+      "n": 209,
+      "title": "OpenClaw龙虾系统专题6",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 2764,
+      "sum_len": 482
+    },
+    {
+      "n": 210,
+      "title": "OpenClaw龙虾系统专题7",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 6754,
+      "sum_len": 574
+    },
+    {
+      "n": 211,
+      "title": "OpenClaw龙虾系统专题8",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 7204,
+      "sum_len": 612
+    },
+    {
+      "n": 212,
+      "title": "大模型处理时序数据的挑战和方法",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 9847,
+      "sum_len": 648
+    },
+    {
+      "n": 213,
+      "title": "OpenAI及Apple近期信息（202407）",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(等多模态,数的端侧,提速与)"
+      ],
+      "raw_len": 3893,
+      "sum_len": 658
+    },
+    {
+      "n": 214,
+      "title": "小模型浪潮",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(练蒸馏小,集的产品,架构等小)"
+      ],
+      "raw_len": 15392,
+      "sum_len": 469
+    },
+    {
+      "n": 215,
+      "title": "Scaling Law 收益递减的争议和技术探索",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 7822,
+      "sum_len": 666
+    },
+    {
+      "n": 216,
+      "title": "OpenAI信息更新20241015",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(在新一代,品导向型,侧推理小)"
+      ],
+      "raw_len": 1729,
+      "sum_len": 493
+    },
+    {
+      "n": 217,
+      "title": "近期大模型行业重要信息202411",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 7773,
+      "sum_len": 794
+    },
+    {
+      "n": 218,
+      "title": "近期大模型行业重要信息202411-2",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(为相关,效减少了,优化语言)"
+      ],
+      "raw_len": 4212,
+      "sum_len": 616
+    },
+    {
+      "n": 219,
+      "title": "豆包大模型在招岗位信息",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(型对顶尖,是豆包大,出豆包大)"
+      ],
+      "raw_len": 13769,
+      "sum_len": 442
+    },
+    {
+      "n": 220,
+      "title": "近期大模型行业重要信息202411-3",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 3590,
+      "sum_len": 179
+    },
+    {
+      "n": 221,
+      "title": "字节Coze/扣子概况",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 13636,
+      "sum_len": 527
+    },
+    {
+      "n": 222,
+      "title": "Gemini 2.0 如何映射 DeepMind 的研究路线",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 5587,
+      "sum_len": 630
+    },
+    {
+      "n": 223,
+      "title": "​海外市场进入蓄力期，谷歌、微软开始发力；国内企业多点开花，阿里系表现亮眼",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 8177,
+      "sum_len": 724
+    },
+    {
+      "n": 224,
+      "title": "谷歌两篇新研究瞩目；推理和 agent 仍是重点",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(在智能体,领域多项,生成及)"
+      ],
+      "raw_len": 8118,
+      "sum_len": 711
+    },
+    {
+      "n": 225,
+      "title": "周论文推荐：多领域多篇佳作，字节、腾讯持续高产",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 12443,
+      "sum_len": 716
+    },
+    {
+      "n": 226,
+      "title": "周趋势：OpenAI将发布系列产品；Google Deep Research迎来重大更新；各公司积极",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 6888,
+      "sum_len": 729
+    },
+    {
+      "n": 227,
+      "title": "周论文推荐：推理层佳作频出，上海 AI Lab 多篇论文亮眼，字节发布 Seed-Thinking-",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 12956,
+      "sum_len": 588
+    },
+    {
+      "n": 228,
+      "title": "周趋势：7天近20款模型更新，OpenAI、Google、阿里、字节、快手等竞速",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(访问高级,像推理的,系列三款)"
+      ],
+      "raw_len": 11899,
+      "sum_len": 749
+    },
+    {
+      "n": 229,
+      "title": "周论文推荐：字节、微软、Google 多篇佳作，何恺明团队新研究，A2A 相关论文推荐",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 12200,
+      "sum_len": 719
+    },
+    {
+      "n": 230,
+      "title": "AI行业月度观察202505",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 6194,
+      "sum_len": 672
+    },
+    {
+      "n": 231,
+      "title": "周论文推荐：何恺明新研究，英伟达、字节、腾讯等产出佳作，多模态论文频现",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(推荐涵盖,研究者,构相同的)"
+      ],
+      "raw_len": 7658,
+      "sum_len": 523
+    },
+    {
+      "n": 232,
+      "title": "六月第三周：多模态与 Agent 热持续，OpenAI、MiniMax与月之暗面等接连更新，字节、阿",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(各大科技,谷歌正式,公司密集)"
+      ],
+      "raw_len": 11442,
+      "sum_len": 751
+    },
+    {
+      "n": 233,
+      "title": "周论文推荐：快手、字节产出佳作，陈丹琦团队提出「KV 足迹」，MoE 相关论文推荐",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 12300,
+      "sum_len": 640
+    },
+    {
+      "n": 234,
+      "title": "六月第四周：抖音、饿了么上线AI应用，快手、阿里、Google、腾讯等连发模型，Meta 接连挖角 ",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 10743,
+      "sum_len": 736
+    },
+    {
+      "n": 235,
+      "title": "AI行业月度观察202506",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 5487,
+      "sum_len": 653
+    },
+    {
+      "n": 236,
+      "title": "周论文推荐：清华强化学习新论文，小红书、字节新研究，Jeff Dean、朱军团队新作，Agent 领",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(推荐涵盖,压缩后,团队最新)"
+      ],
+      "raw_len": 14083,
+      "sum_len": 657
+    },
+    {
+      "n": 237,
+      "title": "周论文推荐：Mamba 作者新作，ICML 2025杰出论文,字节 ICML 2025 精选论文",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 13844,
+      "sum_len": 763
+    },
+    {
+      "n": 238,
+      "title": "七月第四周：阿里、字节竞速，Agent 热度不减，模型扎堆发布",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 4799,
+      "sum_len": 287
+    },
+    {
+      "n": 239,
+      "title": "周论文推荐：港大和可灵提出场景一致的交互式视频世界模型，阿里强化学习新研究，字节跳动提出首个大规模动",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 13152,
+      "sum_len": 632
+    },
+    {
+      "n": 240,
+      "title": "八月第四周：开源和多模态的双线主题",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 11124,
+      "sum_len": 684
+    },
+    {
+      "n": 241,
+      "title": "AI行业月度观察202508",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 5970,
+      "sum_len": 634
+    },
+    {
+      "n": 242,
+      "title": "周论文推荐：Snap+CMU 提出可扩展分组推理，DeepMind、微软、苹果、Meta 等新研究，",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(构的最新,能体行为,化来提升)"
+      ],
+      "raw_len": 7811,
+      "sum_len": 580
+    },
+    {
+      "n": 243,
+      "title": "九月第一周：模型扎堆发布，Anthropic 断供",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(意在构建,支持多,谷歌还)"
+      ],
+      "raw_len": 8953,
+      "sum_len": 674
+    },
+    {
+      "n": 244,
+      "title": "九月第二周：ChatGPT 宣布支持 MCP，Meta 开源小模型，通义、混元、文心模型连发，支付宝",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(效率成为,进营利子,连发多款)"
+      ],
+      "raw_len": 11084,
+      "sum_len": 605
+    },
+    {
+      "n": 245,
+      "title": "周论文推荐：陈怡然团队新作，Meta 论文高产，强化学习多篇研究",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 6984,
+      "sum_len": 553
+    },
+    {
+      "n": 246,
+      "title": "十月第 4 周：OpenAI 首个 AI 浏览器 ChatGPT Atlas 发布，快手发布 AI ",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 10065,
+      "sum_len": 675
+    },
+    {
+      "n": 247,
+      "title": "二月第一周：行业进入生态整合力、场景渗透力、地缘政治博弈力的三维较量",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 9256,
+      "sum_len": 726
+    },
+    {
+      "n": 248,
+      "title": "二月第三周：海外 AGI 叙事战与开源博弈，国内人才军备化与开源争夺",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 11546,
+      "sum_len": 707
+    },
+    {
+      "n": 249,
+      "title": "二月第二周：海外重构技术栈，国内聚合新生态",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 10946,
+      "sum_len": 694
+    },
+    {
+      "n": 250,
+      "title": "周论文推荐：谢赛宁、李飞飞、LeCun 联手提出多模态 LLM 新范式，微信提出连续自回归模型 CA",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(训练导致,多个前沿,引入参考)"
+      ],
+      "raw_len": 11375,
+      "sum_len": 626
+    },
+    {
+      "n": 251,
+      "title": "周论文推荐：OpenAI 新论文拆解语言模型内部机制，LeCun 团队提出关于 JEPAs 的全面理",
+      "status": "FAIL",
+      "issues": [
+        "HALLUCINATION_RISK(多项重要,训练稀疏,Issue)"
+      ],
+      "raw_len": 13063,
+      "sum_len": 688
+    },
+    {
+      "n": 252,
+      "title": "AI行业月度观察202511",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 12718,
+      "sum_len": 756
+    },
+    {
+      "n": 253,
+      "title": "1 月第 4 周：海外重构交互范式，国内卷动亿级用户",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 9771,
+      "sum_len": 646
+    },
+    {
+      "n": 254,
+      "title": "周论文推荐：可灵提出高效强化学习后训练扩散模型新范式，LeCun、谢赛宁团队新作，腾讯提出推理新框架",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 13954,
+      "sum_len": 684
+    },
+    {
+      "n": 255,
+      "title": "AI行业月度观察202601",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 12416,
+      "sum_len": 704
+    },
+    {
+      "n": 256,
+      "title": "1 月第 5 周：海外平台级 Agent 生态卡位，国产开源反攻与工业化落地并进",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 5648,
+      "sum_len": 688
+    },
+    {
+      "n": 257,
+      "title": "周论文推荐：姚顺雨腾讯新作，苹果发布 PCG 语音生成技术，小红书世界模型新论文，何恺明团队新作",
+      "status": "PASS",
+      "issues": [],
+      "raw_len": 12520,
+      "sum_len": 686
+    }
+  ]
+}

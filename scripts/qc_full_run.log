@@ -1,0 +1,212 @@
+全量质检开始：257篇
+============================================================
+[  2] FAIL | 重点公司多模态在招人才分析 | HALLUCINATION_RISK(式呈现各,重点科技,取具体的)
+[  4] FAIL | 多模态趋势下的架构选择 | HALLUCINATION_RISK(模态与大,若干关键,持续是)
+[  5] FAIL | 大模型推理加速方法研究01期 | HALLUCINATION_RISK(FlashAttention,Decoding,大型语言)
+[  6] FAIL | GPT-4o团队报告 | HALLUCINATION_RISK(式排版的,法及具体,格形式对)
+[  7] FAIL | 模型价格对比 | HALLUCINATION_RISK(取具体的,入比较的,分别涵盖)
+[  9] FAIL | 大模型降价潮分析 | HALLUCINATION_RISK(取出具体,近期大,各主流)
+[ 13] WARN | 360 AI 搜索思路 | SUM_MEANINGLESS
+[ 15] FAIL | 字节AI产品经理访谈 | HALLUCINATION_RISK(用户在,过与算法,值依附于)
+[ 16] FAIL | 国内大模型公司出海产品 | HALLUCINATION_RISK(内头部大,司中海外,物是四家)
+[ 18] WARN | Kimi推理架构 | SUM_MEANINGLESS
+[ 19] FAIL | 快手可灵团队信息 | HALLUCINATION_RISK(核心算法,可灵提供,人的精干)
+[ 20] FAIL | OpenAI「草莓」项目信息 | HALLUCINATION_RISK(举方式让,强千倍的,习这一无)
+
+── CHECKPOINT 25/257 | PASS=13 WARN=2 FAIL=10 ──
+
+[ 27] FAIL | OpenAI、Google及字节近期信息202408 | HALLUCINATION_RISK(大产品与,新旗舰大,本为原始)
+[ 29] WARN | 谷歌、OpenAI&微软、xAI数据中心信息 | SUM_MEANINGLESS
+[ 36] FAIL | Google AI全景解析 | HALLUCINATION_RISK(技术从,区和学术,量级开放)
+[ 43] FAIL | OpenAI 近期三篇重要研究 | HALLUCINATION_RISK(三项重要,成技术与,苹果公司)
+[ 44] FAIL | 大模型领域近期热门论文202410-1 | HALLUCINATION_RISK(关子句后,期聚焦大,表明现有)
+[ 49] FAIL | 大模型领域近期热门论文202411 | HALLUCINATION_RISK(华与腾讯,本期大,理实现跨)
+
+── CHECKPOINT 50/257 | PASS=32 WARN=3 FAIL=15 ──
+
+[ 51] FAIL | 大模型领域近期热门论文202411-2 | HALLUCINATION_RISK(团队联合,模型基础,与腾讯等)
+[ 53] FAIL | 豆包相关论文 | HALLUCINATION_RISK(多项前沿,ByteDance,跳动豆包)
+[ 58] FAIL | 大模型领域近期热门论文202411-4 | HALLUCINATION_RISK(览涵盖大,构建世界,学王选所)
+[ 59] FAIL | 数据标注公司Scale AI研究报告 | HALLUCINATION_RISK(务的科技,人工审核,三方专业)
+[ 62] FAIL | LeCun AI 战略变化 | HALLUCINATION_RISK(放弃语言,介绍能量,来最大的)
+[ 63] FAIL | 大模型领域近期热门论文202411-5 | HALLUCINATION_RISK(腾讯复旦,浙大北航,本期大)
+[ 66] FAIL | 类 o1 推理模型技术思路 | HALLUCINATION_RISK(验室联合,国内推理,当前推理)
+[ 68] FAIL | 论文推荐：NeurIPS 最佳论文、推理与多模态 | HALLUCINATION_RISK(提升扩散,的后训练,在开源)
+[ 70] WARN | 快手可灵概况 | SUM_MEANINGLESS
+[ 71] FAIL | 国内公司 AI 布局概况（汇总版） | HALLUCINATION_RISK(主要科技,豆包音乐,腾讯六大)
+
+── CHECKPOINT 75/257 | PASS=47 WARN=4 FAIL=24 ──
+
+[ 80] FAIL | Scaling Law——o1 Pro 架构、推理基础设施、Orion 和 Claude 3.5 O | HALLUCINATION_RISK(算力提升,RE-,万亿参数)
+[ 83] FAIL | 周论文推荐：多模态佳作频出 | HALLUCINATION_RISK(模态与大,迁移至大,十亿级大)
+[ 90] FAIL | 谷歌最新 Agent 白皮书及往期 AI Agent 研究 | HALLUCINATION_RISK(是对谷歌,Tree-of-,Chain-of-Thought)
+[ 94] FAIL | 论文推荐：多模态、推理研究井喷，字节多方向发力 | HALLUCINATION_RISK(领域多项,出自适应,成果密集)
+[ 97] FAIL | 周论文推荐：字节、阿里多篇论文发布，DeepSeek、小红书两项研究亮眼 | HALLUCINATION_RISK(多项重要,预估蒸馏,成果集中)
+[ 99] FAIL | 周趋势：国内企业积极调整，开源和推理成为更确定的共识 | HALLUCINATION_RISK(腾讯成为,或手机端,模推售大)
+
+── CHECKPOINT 100/257 | PASS=66 WARN=4 FAIL=30 ──
+
+[103] FAIL | 周论文推荐：模型层新方法推荐，快手4篇多模态研究亮眼 | HALLUCINATION_RISK(多项重要,专攻大,机构联合)
+[107] FAIL | Anthropic产品官克里格的反思：行业洞察和独特数据是AI产生价值的关键、需要更简化、敏捷、重视 | HALLUCINATION_RISK(一领域的,验才能在,新想法的)
+[113] FAIL | Agent 的未来是端到端强化学习微调——OpenAI Deep Research 团队分享 | HALLUCINATION_RISK(来自推理,训练赋予,式使推理)
+[115] FAIL | 周论文：微信 AI 、何恺明团队均贡献两篇佳作；模型层论文高产（高质量的一周） | HALLUCINATION_RISK(比仅观察,义薄列峰,而可能使)
+[116] FAIL | 周趋势：阿里积极调整，谷歌、腾讯竞速；OpenAI、Anthropic多项更新；字节探索Manus类 | HALLUCINATION_RISK(对云安全,款实验性,伦敦总部)
+[121] FAIL | 字节 AI 再创业：独立组织、全链条的饱和出击 | SUM_MEANINGLESS; HALLUCINATION_RISK(中大语言,国大科技,人的小)
+
+── CHECKPOINT 125/257 | PASS=85 WARN=4 FAIL=36 ──
+
+[131] FAIL | 五月第五周：Meta、小红书AI团队调整，可灵AI单季收入超1.5亿，AI Agent产品持续上新 | HALLUCINATION_RISK(垂直专用,开源形式,最强同类)
+[134] FAIL | 周论文推荐：OpenAI 发布新作，快手、腾讯接连更新，字节 CVPR 2025 论文精选 | HALLUCINATION_RISK(多项重要,成果集中,大学联合)
+[136] FAIL | 七月第一周：Meta 成立「超级智能实验室」，Cursor 发布手机版，豆包上线「深入研究」功能，淘 | HALLUCINATION_RISK(派驻内部,其大语言,动机器人)
+[137] FAIL | 周论文推荐：Bengio、周志华、邢波等人新研究，上海交大多篇佳作 | HALLUCINATION_RISK(多项重要,在于语言,发现奖励)
+[138] FAIL | 七月第二周：模型发布小高峰，场景落地趋向聚焦 | HALLUCINATION_RISK(发豆包大,机厂商与,其主导)
+[141] FAIL | AI行业月度观察202507 | HALLUCINATION_RISK(继将旗舰,营正成为,行业在)
+[142] FAIL | 七月第五周：模型集中发布，产品层改造进一步加深 | HALLUCINATION_RISK(行业呈现,等轻量,模型密集)
+[143] FAIL | 周论文推荐：字节、南洋理工多篇研究，苹果推理新论文，World Models 论文精选 | HALLUCINATION_RISK(通过为,最终造成,型可靠性)
+[144] FAIL | 周论文推荐：Richard Sutton、周志华新作，小红书提出风格迁移加速算法，ACL 2025  | HALLUCINATION_RISK(训练语言,者的最新,推荐涵盖)
+[145] FAIL | 八月第一周：GPT-5 领衔模型扎堆发布，开源与闭源路径分化 | HALLUCINATION_RISK(标上代大,中夺金的,来密集的)
+[148] FAIL | 周论文推荐：字节开源 Agent 专用模型和多模态框架，微软推出强化学习新算法，Adobe Rese | HALLUCINATION_RISK(亚研联合,大学联合,多个前沿)
+
+── CHECKPOINT 150/257 | PASS=99 WARN=4 FAIL=47 ──
+
+[153] FAIL | 周论文推荐：LeCun 新作，Meta、字节、阿里多篇新研究，vivo AI Lab 提出新的后训练 | HALLUCINATION_RISK(大学联合,多个前沿,至大语言)
+[158] FAIL | 周论文推荐：DeepSeek 新模型，小米、北大联合发布 R3，苹果提出 DeepMMSearch- | HALLUCINATION_RISK(大学联合,赋予大,念引入大)
+[163] FAIL | 11月第1周：海外从"模型能力展示"转向"全栈控制力争夺"，国内应用层渗透与底层"国产替代"同步加速 | HALLUCINATION_RISK(从绑定强,药物筛选,单纯展示)
+[166] FAIL | AI行业月度观察202502 | HALLUCINATION_RISK(类中国大,选择回归,现出中国)
+[167] FAIL | 一月第二周：海外把 AI 从 “语言” 升级到 “物理”，国内把大模型做成 “水电煤” | HALLUCINATION_RISK(型向物理,正从语言,标志着大)
+[168] FAIL | 一月第四周：海外巨头押注 AI Agent 与基础设施，国内厂商以开源和垂直场景落地双线突围 | HALLUCINATION_RISK(作的开源,跳动集中,日正式)
+[169] FAIL | 一月第一周：海外从“暴力堆算力”转向“架构效率+合规求生”，国内从“卷模型参数”进入“卷场景闭环+产 | HALLUCINATION_RISK(标志国产,商则从卷,编排初创)
+[173] FAIL | 11月第2周：海外聚焦基础设施与模型范式革命，国内关注场景落地与硬件耦合 | HALLUCINATION_RISK(现有最优,施扩张与,同步推出)
+
+── CHECKPOINT 175/257 | PASS=116 WARN=4 FAIL=55 ──
+
+[182] FAIL | 周论文推荐：微软发布首个测试时扩展大规模研究，Google 发布智能体 Scaling Law，CM | HALLUCINATION_RISK(多项前沿,模系统性,定来赋予)
+[183] FAIL | 12 月第 4 周：海外通过 Agentic RL 拉动小模型高性价比 ，国内通过开源模型加速落地 | HALLUCINATION_RISK(印证顶级,向为轻量,实现对大)
+[184] FAIL | 周论文推荐：Anthropic 新论文，混元/上交多智能体新研究，人大/腾讯提出关于大模型的「推理机 | HALLUCINATION_RISK(多项前沿,对大语言,聚焦大)
+[185] FAIL | AI行业月度观察202512 | HALLUCINATION_RISK(已从单一,行业呈现,重心也从)
+[187] FAIL | 周论文推荐：OpenAI 提出新的监控性评估框架和指标，深度求索新论文，微信提出扩散语言模型，字节  | HALLUCINATION_RISK(多项重要,研究相继,型与专家)
+[189] FAIL | 周论文推荐：Bengio 团队新研究，DeepSeek 更新两篇论文，英伟达提出 GDPO，快手提出 | HALLUCINATION_RISK(共同一作,多项重要,研究相继)
+[191] FAIL | 周论文推荐：Google 发现模型进化“真相”，字节推理新研究，微软多篇论文 | HALLUCINATION_RISK(越但理论,大学刘勇,了大语言)
+[197] FAIL | 周论文推荐：DeepMind 智能体新研究，DeepSeek 新论文，Alec Radford 新作 | HALLUCINATION_RISK(现为独立,大学联合,合斯坦福)
+[199] FAIL | 周论文推荐：滑铁卢大学联合可灵提出UniVideo，蚂蚁联合清华发布强化学习训练框架，小红书开源图像 | HALLUCINATION_RISK(领域多项,治亚理工,高效混合)
+
+── CHECKPOINT 200/257 | PASS=132 WARN=4 FAIL=64 ──
+
+[201] FAIL | 周论文推荐：OpenClaw安全性测试论文，Agent Memory系统性综述，月之暗面发布Attn | HALLUCINATION_RISK(多项重要,BCRL,大学联合)
+[203] FAIL | 周论文推荐：浙大开源高性能 LLM Steering 统一框架，字节提出 ReGFT 方法，阿里发布 | HALLUCINATION_RISK(队还系统,示其为大,阶段操控)
+[213] FAIL | OpenAI及Apple近期信息（202407） | HALLUCINATION_RISK(等多模态,数的端侧,提速与)
+[214] FAIL | 小模型浪潮 | HALLUCINATION_RISK(练蒸馏小,集的产品,架构等小)
+[216] FAIL | OpenAI信息更新20241015 | HALLUCINATION_RISK(在新一代,品导向型,侧推理小)
+[218] FAIL | 近期大模型行业重要信息202411-2 | HALLUCINATION_RISK(为相关,效减少了,优化语言)
+[219] FAIL | 豆包大模型在招岗位信息 | HALLUCINATION_RISK(型对顶尖,是豆包大,出豆包大)
+[224] FAIL | 谷歌两篇新研究瞩目；推理和 agent 仍是重点 | HALLUCINATION_RISK(在智能体,领域多项,生成及)
+
+── CHECKPOINT 225/257 | PASS=149 WARN=4 FAIL=72 ──
+
+[228] FAIL | 周趋势：7天近20款模型更新，OpenAI、Google、阿里、字节、快手等竞速 | HALLUCINATION_RISK(访问高级,像推理的,系列三款)
+[231] FAIL | 周论文推荐：何恺明新研究，英伟达、字节、腾讯等产出佳作，多模态论文频现 | HALLUCINATION_RISK(推荐涵盖,研究者,构相同的)
+[232] FAIL | 六月第三周：多模态与 Agent 热持续，OpenAI、MiniMax与月之暗面等接连更新，字节、阿 | HALLUCINATION_RISK(各大科技,谷歌正式,公司密集)
+[236] FAIL | 周论文推荐：清华强化学习新论文，小红书、字节新研究，Jeff Dean、朱军团队新作，Agent 领 | HALLUCINATION_RISK(推荐涵盖,压缩后,团队最新)
+[242] FAIL | 周论文推荐：Snap+CMU 提出可扩展分组推理，DeepMind、微软、苹果、Meta 等新研究， | HALLUCINATION_RISK(构的最新,能体行为,化来提升)
+[243] FAIL | 九月第一周：模型扎堆发布，Anthropic 断供 | HALLUCINATION_RISK(意在构建,支持多,谷歌还)
+[244] FAIL | 九月第二周：ChatGPT 宣布支持 MCP，Meta 开源小模型，通义、混元、文心模型连发，支付宝 | HALLUCINATION_RISK(效率成为,进营利子,连发多款)
+[250] FAIL | 周论文推荐：谢赛宁、李飞飞、LeCun 联手提出多模态 LLM 新范式，微信提出连续自回归模型 CA | HALLUCINATION_RISK(训练导致,多个前沿,引入参考)
+
+── CHECKPOINT 250/257 | PASS=166 WARN=4 FAIL=80 ──
+
+[251] FAIL | 周论文推荐：OpenAI 新论文拆解语言模型内部机制，LeCun 团队提出关于 JEPAs 的全面理 | HALLUCINATION_RISK(多项重要,训练稀疏,Issue)
+
+── CHECKPOINT 257/257 | PASS=172 WARN=4 FAIL=81 ──
+
+============================================================
+PASS=172  WARN=4  FAIL=81  通过率=66.9%
+报告已保存: data/quality_check_full_report.json
+
+FAIL(81篇):
+  [  2] 重点公司多模态在招人才分析 | HALLUCINATION_RISK(式呈现各,重点科技,取具体的)
+  [  4] 多模态趋势下的架构选择 | HALLUCINATION_RISK(模态与大,若干关键,持续是)
+  [  5] 大模型推理加速方法研究01期 | HALLUCINATION_RISK(FlashAttention,Decoding,大型语言)
+  [  6] GPT-4o团队报告 | HALLUCINATION_RISK(式排版的,法及具体,格形式对)
+  [  7] 模型价格对比 | HALLUCINATION_RISK(取具体的,入比较的,分别涵盖)
+  [  9] 大模型降价潮分析 | HALLUCINATION_RISK(取出具体,近期大,各主流)
+  [ 15] 字节AI产品经理访谈 | HALLUCINATION_RISK(用户在,过与算法,值依附于)
+  [ 16] 国内大模型公司出海产品 | HALLUCINATION_RISK(内头部大,司中海外,物是四家)
+  [ 19] 快手可灵团队信息 | HALLUCINATION_RISK(核心算法,可灵提供,人的精干)
+  [ 20] OpenAI「草莓」项目信息 | HALLUCINATION_RISK(举方式让,强千倍的,习这一无)
+  [ 27] OpenAI、Google及字节近期信息202408 | HALLUCINATION_RISK(大产品与,新旗舰大,本为原始)
+  [ 36] Google AI全景解析 | HALLUCINATION_RISK(技术从,区和学术,量级开放)
+  [ 43] OpenAI 近期三篇重要研究 | HALLUCINATION_RISK(三项重要,成技术与,苹果公司)
+  [ 44] 大模型领域近期热门论文202410-1 | HALLUCINATION_RISK(关子句后,期聚焦大,表明现有)
+  [ 49] 大模型领域近期热门论文202411 | HALLUCINATION_RISK(华与腾讯,本期大,理实现跨)
+  [ 51] 大模型领域近期热门论文202411-2 | HALLUCINATION_RISK(团队联合,模型基础,与腾讯等)
+  [ 53] 豆包相关论文 | HALLUCINATION_RISK(多项前沿,ByteDance,跳动豆包)
+  [ 58] 大模型领域近期热门论文202411-4 | HALLUCINATION_RISK(览涵盖大,构建世界,学王选所)
+  [ 59] 数据标注公司Scale AI研究报告 | HALLUCINATION_RISK(务的科技,人工审核,三方专业)
+  [ 62] LeCun AI 战略变化 | HALLUCINATION_RISK(放弃语言,介绍能量,来最大的)
+  [ 63] 大模型领域近期热门论文202411-5 | HALLUCINATION_RISK(腾讯复旦,浙大北航,本期大)
+  [ 66] 类 o1 推理模型技术思路 | HALLUCINATION_RISK(验室联合,国内推理,当前推理)
+  [ 68] 论文推荐：NeurIPS 最佳论文、推理与多模态 | HALLUCINATION_RISK(提升扩散,的后训练,在开源)
+  [ 71] 国内公司 AI 布局概况（汇总版） | HALLUCINATION_RISK(主要科技,豆包音乐,腾讯六大)
+  [ 80] Scaling Law——o1 Pro 架构、推理基础设施、Orion 和 Claude 3.5 O | HALLUCINATION_RISK(算力提升,RE-,万亿参数)
+  [ 83] 周论文推荐：多模态佳作频出 | HALLUCINATION_RISK(模态与大,迁移至大,十亿级大)
+  [ 90] 谷歌最新 Agent 白皮书及往期 AI Agent 研究 | HALLUCINATION_RISK(是对谷歌,Tree-of-,Chain-of-Thought)
+  [ 94] 论文推荐：多模态、推理研究井喷，字节多方向发力 | HALLUCINATION_RISK(领域多项,出自适应,成果密集)
+  [ 97] 周论文推荐：字节、阿里多篇论文发布，DeepSeek、小红书两项研究亮眼 | HALLUCINATION_RISK(多项重要,预估蒸馏,成果集中)
+  [ 99] 周趋势：国内企业积极调整，开源和推理成为更确定的共识 | HALLUCINATION_RISK(腾讯成为,或手机端,模推售大)
+  [103] 周论文推荐：模型层新方法推荐，快手4篇多模态研究亮眼 | HALLUCINATION_RISK(多项重要,专攻大,机构联合)
+  [107] Anthropic产品官克里格的反思：行业洞察和独特数据是AI产生价值的关键、需要更简化、敏捷、重视 | HALLUCINATION_RISK(一领域的,验才能在,新想法的)
+  [113] Agent 的未来是端到端强化学习微调——OpenAI Deep Research 团队分享 | HALLUCINATION_RISK(来自推理,训练赋予,式使推理)
+  [115] 周论文：微信 AI 、何恺明团队均贡献两篇佳作；模型层论文高产（高质量的一周） | HALLUCINATION_RISK(比仅观察,义薄列峰,而可能使)
+  [116] 周趋势：阿里积极调整，谷歌、腾讯竞速；OpenAI、Anthropic多项更新；字节探索Manus类 | HALLUCINATION_RISK(对云安全,款实验性,伦敦总部)
+  [121] 字节 AI 再创业：独立组织、全链条的饱和出击 | SUM_MEANINGLESS; HALLUCINATION_RISK(中大语言,国大科技,人的小)
+  [131] 五月第五周：Meta、小红书AI团队调整，可灵AI单季收入超1.5亿，AI Agent产品持续上新 | HALLUCINATION_RISK(垂直专用,开源形式,最强同类)
+  [134] 周论文推荐：OpenAI 发布新作，快手、腾讯接连更新，字节 CVPR 2025 论文精选 | HALLUCINATION_RISK(多项重要,成果集中,大学联合)
+  [136] 七月第一周：Meta 成立「超级智能实验室」，Cursor 发布手机版，豆包上线「深入研究」功能，淘 | HALLUCINATION_RISK(派驻内部,其大语言,动机器人)
+  [137] 周论文推荐：Bengio、周志华、邢波等人新研究，上海交大多篇佳作 | HALLUCINATION_RISK(多项重要,在于语言,发现奖励)
+  [138] 七月第二周：模型发布小高峰，场景落地趋向聚焦 | HALLUCINATION_RISK(发豆包大,机厂商与,其主导)
+  [141] AI行业月度观察202507 | HALLUCINATION_RISK(继将旗舰,营正成为,行业在)
+  [142] 七月第五周：模型集中发布，产品层改造进一步加深 | HALLUCINATION_RISK(行业呈现,等轻量,模型密集)
+  [143] 周论文推荐：字节、南洋理工多篇研究，苹果推理新论文，World Models 论文精选 | HALLUCINATION_RISK(通过为,最终造成,型可靠性)
+  [144] 周论文推荐：Richard Sutton、周志华新作，小红书提出风格迁移加速算法，ACL 2025  | HALLUCINATION_RISK(训练语言,者的最新,推荐涵盖)
+  [145] 八月第一周：GPT-5 领衔模型扎堆发布，开源与闭源路径分化 | HALLUCINATION_RISK(标上代大,中夺金的,来密集的)
+  [148] 周论文推荐：字节开源 Agent 专用模型和多模态框架，微软推出强化学习新算法，Adobe Rese | HALLUCINATION_RISK(亚研联合,大学联合,多个前沿)
+  [153] 周论文推荐：LeCun 新作，Meta、字节、阿里多篇新研究，vivo AI Lab 提出新的后训练 | HALLUCINATION_RISK(大学联合,多个前沿,至大语言)
+  [158] 周论文推荐：DeepSeek 新模型，小米、北大联合发布 R3，苹果提出 DeepMMSearch- | HALLUCINATION_RISK(大学联合,赋予大,念引入大)
+  [163] 11月第1周：海外从"模型能力展示"转向"全栈控制力争夺"，国内应用层渗透与底层"国产替代"同步加速 | HALLUCINATION_RISK(从绑定强,药物筛选,单纯展示)
+  [166] AI行业月度观察202502 | HALLUCINATION_RISK(类中国大,选择回归,现出中国)
+  [167] 一月第二周：海外把 AI 从 “语言” 升级到 “物理”，国内把大模型做成 “水电煤” | HALLUCINATION_RISK(型向物理,正从语言,标志着大)
+  [168] 一月第四周：海外巨头押注 AI Agent 与基础设施，国内厂商以开源和垂直场景落地双线突围 | HALLUCINATION_RISK(作的开源,跳动集中,日正式)
+  [169] 一月第一周：海外从“暴力堆算力”转向“架构效率+合规求生”，国内从“卷模型参数”进入“卷场景闭环+产 | HALLUCINATION_RISK(标志国产,商则从卷,编排初创)
+  [173] 11月第2周：海外聚焦基础设施与模型范式革命，国内关注场景落地与硬件耦合 | HALLUCINATION_RISK(现有最优,施扩张与,同步推出)
+  [182] 周论文推荐：微软发布首个测试时扩展大规模研究，Google 发布智能体 Scaling Law，CM | HALLUCINATION_RISK(多项前沿,模系统性,定来赋予)
+  [183] 12 月第 4 周：海外通过 Agentic RL 拉动小模型高性价比 ，国内通过开源模型加速落地 | HALLUCINATION_RISK(印证顶级,向为轻量,实现对大)
+  [184] 周论文推荐：Anthropic 新论文，混元/上交多智能体新研究，人大/腾讯提出关于大模型的「推理机 | HALLUCINATION_RISK(多项前沿,对大语言,聚焦大)
+  [185] AI行业月度观察202512 | HALLUCINATION_RISK(已从单一,行业呈现,重心也从)
+  [187] 周论文推荐：OpenAI 提出新的监控性评估框架和指标，深度求索新论文，微信提出扩散语言模型，字节  | HALLUCINATION_RISK(多项重要,研究相继,型与专家)
+  [189] 周论文推荐：Bengio 团队新研究，DeepSeek 更新两篇论文，英伟达提出 GDPO，快手提出 | HALLUCINATION_RISK(共同一作,多项重要,研究相继)
+  [191] 周论文推荐：Google 发现模型进化“真相”，字节推理新研究，微软多篇论文 | HALLUCINATION_RISK(越但理论,大学刘勇,了大语言)
+  [197] 周论文推荐：DeepMind 智能体新研究，DeepSeek 新论文，Alec Radford 新作 | HALLUCINATION_RISK(现为独立,大学联合,合斯坦福)
+  [199] 周论文推荐：滑铁卢大学联合可灵提出UniVideo，蚂蚁联合清华发布强化学习训练框架，小红书开源图像 | HALLUCINATION_RISK(领域多项,治亚理工,高效混合)
+  [201] 周论文推荐：OpenClaw安全性测试论文，Agent Memory系统性综述，月之暗面发布Attn | HALLUCINATION_RISK(多项重要,BCRL,大学联合)
+  [203] 周论文推荐：浙大开源高性能 LLM Steering 统一框架，字节提出 ReGFT 方法，阿里发布 | HALLUCINATION_RISK(队还系统,示其为大,阶段操控)
+  [213] OpenAI及Apple近期信息（202407） | HALLUCINATION_RISK(等多模态,数的端侧,提速与)
+  [214] 小模型浪潮 | HALLUCINATION_RISK(练蒸馏小,集的产品,架构等小)
+  [216] OpenAI信息更新20241015 | HALLUCINATION_RISK(在新一代,品导向型,侧推理小)
+  [218] 近期大模型行业重要信息202411-2 | HALLUCINATION_RISK(为相关,效减少了,优化语言)
+  [219] 豆包大模型在招岗位信息 | HALLUCINATION_RISK(型对顶尖,是豆包大,出豆包大)
+  [224] 谷歌两篇新研究瞩目；推理和 agent 仍是重点 | HALLUCINATION_RISK(在智能体,领域多项,生成及)
+  [228] 周趋势：7天近20款模型更新，OpenAI、Google、阿里、字节、快手等竞速 | HALLUCINATION_RISK(访问高级,像推理的,系列三款)
+  [231] 周论文推荐：何恺明新研究，英伟达、字节、腾讯等产出佳作，多模态论文频现 | HALLUCINATION_RISK(推荐涵盖,研究者,构相同的)
+  [232] 六月第三周：多模态与 Agent 热持续，OpenAI、MiniMax与月之暗面等接连更新，字节、阿 | HALLUCINATION_RISK(各大科技,谷歌正式,公司密集)
+  [236] 周论文推荐：清华强化学习新论文，小红书、字节新研究，Jeff Dean、朱军团队新作，Agent 领 | HALLUCINATION_RISK(推荐涵盖,压缩后,团队最新)
+  [242] 周论文推荐：Snap+CMU 提出可扩展分组推理，DeepMind、微软、苹果、Meta 等新研究， | HALLUCINATION_RISK(构的最新,能体行为,化来提升)
+  [243] 九月第一周：模型扎堆发布，Anthropic 断供 | HALLUCINATION_RISK(意在构建,支持多,谷歌还)
+  [244] 九月第二周：ChatGPT 宣布支持 MCP，Meta 开源小模型，通义、混元、文心模型连发，支付宝 | HALLUCINATION_RISK(效率成为,进营利子,连发多款)
+  [250] 周论文推荐：谢赛宁、李飞飞、LeCun 联手提出多模态 LLM 新范式，微信提出连续自回归模型 CA | HALLUCINATION_RISK(训练导致,多个前沿,引入参考)
+  [251] 周论文推荐：OpenAI 新论文拆解语言模型内部机制，LeCun 团队提出关于 JEPAs 的全面理 | HALLUCINATION_RISK(多项重要,训练稀疏,Issue)
+
+WARN(4篇):
+  [ 13] 360 AI 搜索思路 | SUM_MEANINGLESS
+  [ 18] Kimi推理架构 | SUM_MEANINGLESS
+  [ 29] 谷歌、OpenAI&微软、xAI数据中心信息 | SUM_MEANINGLESS
+  [ 70] 快手可灵概况 | SUM_MEANINGLESS
