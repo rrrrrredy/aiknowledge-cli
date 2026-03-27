@@ -19,7 +19,7 @@ class KnowledgeBase:
         self._loaded = False
 
     def load(self):
-        kb_path = DATA_DIR / "knowledge_base.json"
+        kb_path = DATA_DIR / "knowledge_base_public.json"
         if not kb_path.exists():
             raise FileNotFoundError(
                 f"知识库文件不存在: {kb_path}\n"

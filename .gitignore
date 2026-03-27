@@ -7,3 +7,17 @@ dist/
 build/
 .venv/
 venv/
+
+# 含原文的完整版知识库（内部内容，不公开）
+data/knowledge_base_rebuilt.json
+data/knowledge_base.json
+data/checkpoints/
+data/embeddings*
+data/rescue_list.json
+data/quality_check_*
+data/stats.json
+
+# 构建日志
+scripts/*_run.log
+scripts/*_log.md
+
